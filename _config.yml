@@ -1,12 +1,12 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+author: "Hanbyeol Lee"
+tagline: "Interaction Design Portfolio"
+description: "Hello, I’m Hanbyeol Lee. I’m an interaction designer specialized in Human-Computer Interaction."
+keywords: "Interaction Desingn, HCI"
+email: "hanby.ixd@gmail.com"
+CV: "https://github.com/"
+scholar: "https://scholar.google.com/citations?user=J2aMC2gAAAAJ&hl=ko"
+linkedin: "https://www.linkedin.com/in/hanbyeol-lee-2a3a01108/"
 
 # Site config
 baseurl: ""

@@ -7,7 +7,7 @@
 		function sticky() {
 			var w = $(window).width();
 
-			if (w < 750) {
+			if (w < 1200) { //750
 				$('.project article').trigger('sticky_kit:detach');
 			} else {
 				$('.project article').stick_in_parent({

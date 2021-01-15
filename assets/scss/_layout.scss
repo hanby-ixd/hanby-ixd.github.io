@@ -174,7 +174,7 @@
 		@media (min-width: $breakpoint-medium) {
 			float: right;
 			right: 0;
-			width: 40%;
+			width: 25%; //40% - contents size
 			position: absolute;
 			right: 5%;
 		}
@@ -190,7 +190,7 @@
 
 		@media (min-width: $breakpoint-medium) {
 			float: left;
-			width: 55%;
+			width: 70%; //55% - img size
 		}
 	}
 

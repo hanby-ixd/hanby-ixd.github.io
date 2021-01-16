@@ -19,7 +19,10 @@ agency:
   url: "https://github.com/arnolds/pineapple"
   year: "2017"
 
-
+images:
+  - image:
+    url: "/assets/images/projects/yellowpineapple/devices.jpg"
+    alt: "Yellow Pineapple website on tablet, mobile and desktop"
 
 
 ---
@@ -34,5 +37,5 @@ Pineapples are delicious tropical fruit. There are more than a hundred varieties
 Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.
 Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.
 Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.
-<br>
+<br><br>
 ![test](/assets/images/projects/yellowpineapple/desktop.jpg)

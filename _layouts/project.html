@@ -12,8 +12,11 @@
 	<main class="content">
 		<section class="project">
 			<div class="container">
-
 				<article>
+					{% for image in page.images %}
+						<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+					{% endfor %}
+					<br>
 					<span class="h2">Project Title</span>
 					<h1>
 						<a href="{{ page.project.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</a>

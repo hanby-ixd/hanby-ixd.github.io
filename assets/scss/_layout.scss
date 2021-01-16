@@ -74,7 +74,7 @@
 
 	@media (min-width: $breakpoint-medium) {
 		li {
-			width: 33.33333%;
+			width: 25%;
 		}
 	}
 
@@ -168,29 +168,34 @@
 		max-width: 100%;
 	}
 
-	article {
+	/* article {
 		margin-bottom: 3rem;
 
 		@media (min-width: $breakpoint-medium) {
 			float: right;
 			right: 0;
-			width: 25%; //40% - contents size
+			width: 40%;
 			position: absolute;
 			right: 5%;
 		}
-	}
+	} */
 
 	aside {
-		margin-left: -3rem;
-		margin-right: -3rem;
+		li {
+			margin-left: -3rem;
+			margin-right: -3rem;
 
-		@media (min-width: $breakpoint-small) {
-			@include clearfix;
+			@media (min-width: $breakpoint-small) {
+				@include clearfix;
+			}
+
+			@media (min-width: $breakpoint-medium) {
+			}
 		}
 
-		@media (min-width: $breakpoint-medium) {
-			float: left;
-			width: 70%; //55% - img size
+		div {
+			max-width: 50%;
+			margin: auto;
 		}
 	}
 

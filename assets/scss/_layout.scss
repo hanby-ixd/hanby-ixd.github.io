@@ -172,14 +172,15 @@
 		margin-bottom: 3rem;
 
 		@media (min-width: $breakpoint-medium) {
-			float: right;
+			margin: auto;
 			right: 0;
 			width: 40%;
-			position: absolute;
+			//position: absolute;
 			right: 5%;
 		}
 	}
 
+	/*
 	aside {
 		margin-left: -3rem;
 		margin-right: -3rem;
@@ -193,6 +194,7 @@
 			width: 55%;
 		}
 	}
+	*/
 
 	.project-meta {
 		margin: 3rem 0 0;

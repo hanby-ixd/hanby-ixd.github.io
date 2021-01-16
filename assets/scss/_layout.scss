@@ -51,7 +51,7 @@
 	@media (min-width: $breakpoint-medium) {
 		p {
 			font-size: 2.7rem;
-			max-width: 60%;
+			max-width: 66.66666%;
 		}
 	}
 }
@@ -168,7 +168,7 @@
 		max-width: 100%;
 	}
 
-	/* article {
+	article {
 		margin-bottom: 3rem;
 
 		@media (min-width: $breakpoint-medium) {
@@ -178,24 +178,19 @@
 			position: absolute;
 			right: 5%;
 		}
-	} */
+	}
 
 	aside {
-		li {
-			margin-left: -3rem;
-			margin-right: -3rem;
+		margin-left: -3rem;
+		margin-right: -3rem;
 
-			@media (min-width: $breakpoint-small) {
-				@include clearfix;
-			}
-
-			@media (min-width: $breakpoint-medium) {
-			}
+		@media (min-width: $breakpoint-small) {
+			@include clearfix;
 		}
 
-		div {
-			max-width: 78.5%;
-			margin: auto;
+		@media (min-width: $breakpoint-medium) {
+			float: left;
+			width: 55%;
 		}
 	}
 

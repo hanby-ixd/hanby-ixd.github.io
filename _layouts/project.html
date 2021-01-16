@@ -12,13 +12,14 @@
 	<main class="content">
 		<section class="project">
 			<div class="container">
+
 				<article>
 					<span class="h2">Project Title</span>
 					<h1>
 						<a href="{{ page.project.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</a>
 					</h1>
 					<span class="h2">Role</span>
-					{{ page.content }}
+					<p>{{ page.project.role }}</p>
 					<div class="project-meta">
 						<span class="h2">Technologies</span>
 						<p>{{ page.project.tech }}</p>
@@ -27,6 +28,7 @@
 						<span class="h2">Year</span>
 						<p>{{ page.agency.year }}</p>
 					</div>
+					{{ page.content }}
 				</article>
 				<!--
 				<aside>

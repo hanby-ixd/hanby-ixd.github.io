@@ -27,16 +27,30 @@
 						<a href="{{ page.project.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</a>
 					</h1>
 					-->
+					<span class="h2">Duration</span>
+					<p>{{ page.project.duration }}</p>
+					<span class="h2">Project Type</span>
+					<p>{{ page.project.ptype }}</p>
+					<span class="h2">Organization</span>
+					<a href="{{ page.project.url }}"><u>{{ page.project.organization }}</u></a>
 					<span class="h2">Role</span>
 					<p>{{ page.project.role }}</p>
+					<p>{{ page.project.supporter1 }}</p>
+					<p>{{ page.project.supporter2 }}</p>
+					<span class="h2">Tools</span>
+					<p>{{ page.project.tools }}</p>
+					<span class="h2">Output</span>
+					<p>{{ page.project.output }}</p>
+					<!--
 					<div class="project-meta">
 						<span class="h2">Technologies</span>
 						<p>{{ page.project.tech }}</p>
 						<span class="h2">Agency</span>
 						<p><a title="{{ page.agency.title }}" href="{{ page.agency.url }}" target="_blank" rel="nofollow">{{ page.agency.title }}</a></p>
-						<span class="h2">Year</span>
-						<p>{{ page.agency.year }}</p>
+						<span class="h2">Duration</span>
+						<p>{{ page.agency.duration }}</p>
 					</div>
+				-->
 					{{ page.content }}
 				</article>
 				<!--

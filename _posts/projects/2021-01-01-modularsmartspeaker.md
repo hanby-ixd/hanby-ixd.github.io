@@ -4,13 +4,13 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "HAI, VUI, Tactility"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  title: "Modular Smart Speaker"
+  subtitle: "Effect of Smart Speaker’s Speech and Tactility Types on Users’ Perception"
+  type: "Human-Agent Interactionn(HAI)"
+  logo: "/assets/images/projects/modular_smart_speaker/logo.png"
   role: "Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay."
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
@@ -21,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
+    url: "/assets/images/projects/modular_smart_speaker/main.jpeg"
     alt: "Yellow Pineapple website on tablet, mobile and desktop"
 
 

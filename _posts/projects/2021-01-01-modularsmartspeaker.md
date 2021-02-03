@@ -41,13 +41,14 @@ images:
 <br>
 ## Introduction
 스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다.
-스마트 스피커의 **음성**과 **외형**을 통해 **캐릭터**를 부여할 수 있으며, **사람의 목소리**를 통한 인터랙션은 사용자가 스마트 스피커를 **사회적 행위자**로 느낄 수 있게 만든다.<sup>[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>
-최근 연구에 따르면, 사용자는 스마트 스피커를 사회적 행위자로 인식하면서, 스마트 스피커와 자신과의 **관계**에 대한 선호가 달랐다.<sup>[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>
-<br><br>
+스마트 스피커의 **음성**과 **외형**을 통해 **캐릭터**를 부여할 수 있으며, **사람의 목소리**를 통한 인터랙션은 사용자가 스마트 스피커를 **사회적 행위자**로 느낄 수 있게 만든다.[^1]
+최근 연구에 따르면, 사용자는 스마트 스피커를 사회적 행위자로 인식하면서, 스마트 스피커와 자신과의 **관계**에 대한 선호가 달랐다.[^2]
 
+<br><br>
 ## Opportunity
 
-<br><br>
-<a name="footnote_1">1</a>. Computers are Social Actors  
-<a name="footnote_2">2</a>. 주석에 관한 설명을 이곳에...
 <br><br><br>
+**각주**
+
+[^1]: Computers are Social Actors
+[^2]: 연결의 애매함

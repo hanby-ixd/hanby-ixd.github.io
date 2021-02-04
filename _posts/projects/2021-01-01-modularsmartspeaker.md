@@ -32,22 +32,69 @@ images:
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/bg.png">
   <br>
-  <font size="2em" color="gray">스마트 스피커는 음성과 외형을 통해 캐릭터를 부여할 수 있다.</font>
+  <font size="2em" color="gray">스마트 스피커는 발화와 외형을 통해 성격을 표현할 수 있다.</font>
 </p>
-
 <br><br>
-# Background
 
+# 01. Background
 <br>
+
 ## Introduction
-스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다.
-스마트 스피커는 **음성**과 **외형**을 통해 **캐릭터**를 부여할 수 있으며, **사람의 목소리**를 통한 상호작용은 사용자가 스마트 스피커를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">01</span>](#footnote_1)</sup>로 느낄 수 있게 만든다<sup id="R01">[<span style="color:gray">01</span>](#reference_1)</sup>.
-최근 연구에 따르면, 사용자는 스마트 스피커를 사회적 행위자로 인식하면서, 스마트 스피커와 자신과의 **관계**<sup id="F02">[<span style="color:MediumSeaGreen">02</span>](#footnote_2)</sup>에 대한 선호가 달랐다<sup id="R02">[<span style="color:gray">02</span>](#reference_2)</sup>.
+스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다.  
+**사람의 목소리**를 통한 상호작용을 경험할 때, 사용자는 스마트 스피커를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">01</span>](#footnote_1)</sup>로 느끼게 된다<sup id="R01">[<span style="color:gray">01</span>](#reference_1)</sup>.
+최근 연구에 따르면, 사용자가 스마트 스피커를 사회적 행위자로 인식함에 따라, 스피커와의 **사회적 관계**<sup id="F02">[<span style="color:MediumSeaGreen">02</span>](#footnote_2)</sup> 형성을 기대하게 되었다<sup id="R02">[<span style="color:gray">02</span>](#reference_2)</sup>.
+특히, 아시아에선 일반적으로 **수직적** 관계의 발화와 **수평적** 관계의 발화가 사용자에게 큰 영향을 끼친다<sup id="R03">[<span style="color:gray">03</span>](#reference_3)</sup>.  
+발화 뿐만 아니라 외형, 특히 **촉각** 요소를 통해서도 스피커의 **성격**을 표현할 수 있다. 스마트 스피커는 특성상 사용자와의 소통이 중요한데, **촉각** 요소는 사람과의 감정 소통에 영향을 주기 때문에 사용자와 스마트 스피커 간의 관계 형성에서 중요한 역할을 할 수 있다<sup id="R04">[<span style="color:gray">04</span>](#reference_4)</sup>.
 <br><br>
 
 ## Opportunity
+스마트 스피커의 **발화**와 **촉각** 요소가 사용자의 **인식**과 **관계 설정**에 영향을 미칠 수 있다.
+<br><br>
 
-<br><br><br>
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/goal.png">
+</p>
+<br><br><br><br>
+
+# 02. Goal
+<br>
+
+## Research Question
+"스마트 스피커의 다양한 **발화**와 **촉각** 요소가 **모듈화** 되었을 때, 사용자에게 어떤 영향을 줄 수 있을까?"
+<br><br>
+
+## Hypothesis
+01. 스마트 스피커의 **발화** 요소에 따라 사용자의 인식이 다를 것이다.   
+02. 스마트 스피커의 **촉각** 요소에 따라 사용자의 인식이 다를 것이다.
+03. 스마트 스피커의 **발화**와 **촉각** 요소가 결합한 방식에 따라 사용자의 인식이 다를 것이다.
+<br><br><br><br>
+
+# 03. Study Design
+<br>
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/sd.png">
+  <br>
+  <font size="2em" color="gray">독립 변수: 발화 타입(2가지) X 촉각-소재(2가지) X 촉각-마감(2가지)</font>
+</p>
+<br><br>
+
+## Independent Variables
+독립 변수는 총 8가지 조건으로 이루어져 있다.  
+발화 타입은 사용자가 스마트 스피커에 대해 기대하는 관계 중 가장 선호하는 **비서**와 **친구**를, 촉각 특성은 **유연함**과 **부드러움** 축을 선택하여 변수로 사용하였다<sup id="R02">[<span style="color:gray">02,</span>](#reference_2)</sup><sup id="R05">[<span style="color:gray"> 05</span>](#reference_5)</sup>.
+01. 발화 타입: 비서(honorific), 친구(familiar)
+02. 유연함(flexibility): 유연한(flexible) - 단단한 (hard)
+03. 부드러움(smoothness): 부드러운(smoothness) - 거친 (rough)
+<br><br>
+
+## Dependent Variables
+각 조건의 스마트 스피커에 대해서 아래 3가지 종속 변수를 측정하였다.
+01. 유용성(usefulness)<sup id="R06">[<span style="color:gray"> 06</span>](#reference_6)</sup>
+02. 사교성(sociability)<sup id="R06">[<span style="color:gray"> 06</span>](#reference_6)</sup>
+03. 서비스 평가(service evaluation)<sup id="R07">[<span style="color:gray"> 07</span>](#reference_7)</sup>
+<br><br><br><br>
 
 ---  
 **References**  
@@ -56,12 +103,22 @@ images:
 
 <a name="reference_2"><font size="2em" color="gray">R02</font></a> [<font size="2em" color="MediumSeaGreen"><u>An Empirical Study on Expectation of Relationship Between Human and Smart Devices—With Smart Speaker as an Example</u></font>](https://ieeexplore.ieee.org/abstract/document/8923391?casa_token=QzXdhmdq7gQAAAAA:RWJ_Fg1L9h07OJhmod52uaqrCiVvr1wOUbln4MoP5JhUC-ikQ4Av19w07AYYwGSnunC0uHY_xA) <font size="2em">(2019) by Shilong Wu, Sinan He, Yu Peng, Weiying Li, Moli Zhou and Daisong Guan in IEEE DSC</font> [↩](#R02)
 
-<br><br>
+<a name="reference_3"><font size="2em" color="gray">R03</font></a> [<font size="2em" color="MediumSeaGreen"><u>Am I Acceptable to You? Effect of a Robot’s Verbal Language Forms on People’s Social Distance from Robots</u></font>](https://www.sciencedirect.com/science/article/pii/S0747563212002695?casa_token=xOkGbYxtMEEAAAAA:SRxRnyczyIb_fAgdEbLSgjopSu-0gdWXfGZ1DHCuu5WLiPhjftr2D1FDaAxl9dFL_Lt0Is2vQg) <font size="2em">(2013) by Yunkyung Kim, Sonya S. Kwak and Myung-suk Kim in Computers in Human Behavior</font> [↩](#R03)
+
+<a name="reference_4"><font size="2em" color="gray">R04</font></a> [<font size="2em" color="MediumSeaGreen"><u>Emotion Evoked by Texture and Application to Emotional Communication</u></font>](https://dl.acm.org/doi/abs/10.1145/2702613.2732768?casa_token=o5DfBNDSsUEAAAAA:5eml-ZQAGe_wtSTCuVEqHH1fvTQNMvEm7NUwnwhJNwlgC5MtcNBle44IeGD8jtQsYr3LzjlG4FzjBw) <font size="2em">(2015) by Yurika Ebe and Hiroyuki Umemuro in ACM CHI</font> [↩](#R04)
+
+<a name="reference_5"><font size="2em" color="gray">R05</font></a> [<font size="2em" color="MediumSeaGreen"><u>The Effect of Tactility and Socio-relational Context on Social Presence and User Satisfaction</u></font>](https://ieeexplore.ieee.org/abstract/document/8673144?casa_token=BLle6bmdd8EAAAAA:9HpWZQPZ370QWDXkiNMqCZ_mrJLlv1XdAWUvKpfN9WPeTXgIHMjnzxW7buGlbXsga8YBv7Cfrg) <font size="2em">(2019) by Dahyun Kang in ACM/IEEE HRI</font> [↩](#R05)
+
+<a name="reference_6"><font size="2em" color="gray">R06</font></a> [<font size="2em" color="MediumSeaGreen"><u>The Influence of Social Presence on Acceptance of a Companion Robot by Older People</u></font>](http://rua.ua.es/dspace/handle/10045/12586) <font size="2em">(2008) by Marcel Heerink, Ben Kröse, Vanessa Evers and Bob Wielinga in Journal of Physical Agents</font> [↩](#R06)
+
+<a name="reference_7"><font size="2em" color="gray">R07</font></a> [<font size="2em" color="MediumSeaGreen"><u>Gracefully Mitigating Breakdowns in Robotic Services</u></font>](https://ieeexplore.ieee.org/abstract/document/5453195?casa_token=JTOK68MWehYAAAAA:d1dfksRzdu3tRLLPbKT49SyONP6nNbkArDvRwkgO8PwTVTiu1nbb3UReQMhX_mqjBztVky_fJA) <font size="2em">(2010) by Min Kyung Lee, Sara Kiesler, Jodi Forlizzi, Siddhartha Srinivasa and Paul Rybski in ACM/IEEE HRI</font> [↩](#R07)
+
+<br>
 
 **Footnotes**  
 
 <a name="footnote_1"><font size="2em" color="MediumSeaGreen">F01</font></a> <font size="2em">사회적 행위자(Social Actor): 사회적 행동을 수행하는 사람 | <font color="gray">R01</font>에 따르면, 사람들은 컴퓨터의 목소리가 다르면 같은 컴퓨터에서라도 이를 별개의 사회적 행위자로 인식하였다.</font> [↩](#F01)  
 
-<a name="footnote_2"><font size="2em" color="MediumSeaGreen">F02</font></a> <font size="2em"> <font color="gray">R02</font>에 따르면, 사용자가 스마트 스피커에 대해 기대하는 관계는 어시스턴트(51.3 %)와 친구(48.7 %)이다.</font> [↩](#F02)
+<a name="footnote_2"><font size="2em" color="MediumSeaGreen">F02</font></a> <font size="2em"> <font color="gray">R02</font>에 따르면, 사용자가 스마트 스피커에 대해 기대하는 관계는 비서(51.3 %)와 친구(48.7 %)이다.</font> [↩](#F02)
 
 <br><br><br>

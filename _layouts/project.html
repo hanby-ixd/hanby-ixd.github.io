@@ -16,7 +16,7 @@
 					{% for image in page.images %}
 						<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
 					{% endfor %}
-					<br>
+					<br><br>
 					<!-- <span class="h2">Project Title</span> -->
 					<h1>
 						<p>{{ page.project.title }}</p>
@@ -45,6 +45,7 @@
 					<p>{{ page.project.tools }}</p>
 					<span class="h2">Output</span>
 					<p>{{ page.project.output }}</p>
+					<br>
 					<!--
 					<div class="project-meta">
 						<span class="h2">Technologies</span>

@@ -37,14 +37,15 @@ images:
 <br><br>
 
 
-# 1. Background
+# Background
 <br>
 
-## Introduction
 스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다. 스마트 스피커는 다양한 **음성**과 **외형** 요소를 통해 개성을 표현할 수 있으며, 사용자의 인식에 영향을 줄 수 있다.
-<br><br>
+<br><br><br>
 
-## Voice
+<font size="5em" color="gray">1) Voice</font>
+<br>
+
 스마트 스피커의 **음성**을 통한 상호작용은 사용자에게 다음과 같은 영향을 준다.  
 01. 사용자는 **목소리** 기반 상호작용을 통해, 컴퓨터(스마트 스피커)를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>로 인식한다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
 02. 사용자는 스마트 스피커를 **사회적 행위자**로 인식함에 따라, 특정 **관계** 형성을 기대한다<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>.  
@@ -69,29 +70,35 @@ images:
   <br>
   <font size="2em" color="gray">스마트 스피커의 관계 포지셔닝에 따라 발화 방식이 달라질 수 있다.</font>
 </p>
-<br><br>
+<br><br><br>
 
-## Appearance
+<font size="5em" color="gray">2) Appearance</font>
+<br>
+
 음성뿐만 아니라 **외형** 요소 또한 사용자의 인식에 영향을 줄 수 있다.
-다양한 외형 요소가 있지만, 자주 사용되지 않는 **촉각**은 다음과 같은 특성이 있다.  
+다양한 외형 요소가 있지만, 다른 요소에 비해 자주 사용되지 않는 **촉각**은 다음과 같은 특성이 있다.  
 01. 촉각은 **직접적**이고 **직관적**이며 **감정 정보**를 전달하는 데 적합하다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 02. 촉각은 **정서적 소통**을 더욱 풍부하게 만들고 특정 **감정을 유발**할 수 있다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 
-따라서 적절한 촉각을 사용하여 스마트 스피커에 대한 사용자의 감정을 극대화 시킬 수 있다.
+촉각의 5개의 형용사 척도 중, 2가지 주요 차원이자 서로 직교하는 치수는 **rough-smooth**와 **soft-hard**이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
+이 두 축은 텔레프레젠스 로봇의 촉감과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 **의인화**와 **비의인화** 촉감의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.  
 
 <br><br>
-
-## Opportunity
-스마트 스피커의 **발화**와 **촉각** 요소가 사용자의 **인식**과 **관계 설정**에 영향을 미칠 수 있다.
-<br><br>
-
-<br>
 <p align="center">
-  <img src="/assets/images/projects/modular_smart_speaker/goal.png">
+  <img src="/assets/images/projects/modular_smart_speaker/appearance.png">
+  <br>
+  <font size="2em" color="gray">스마트 스피커의 관계 포지셔닝에 따라 발화 방식이 달라질 수 있다.</font>
 </p>
+<br><br>
+스마트 스피커 또한, 관계 설정에 따라 두 촉감 축을 기반으로 사용자의 인식에 영향을 미치는지 알아볼 수 있다.
+<br><br><br>
+
+<font size="5em" color="gray">3) Opportunity</font>
+<br>
+스마트 스피커의 **발화**와 **촉각** 요소가 사용자의 **인식**과 **관계 설정**에 영향을 미칠 수 있다.
 <br><br><br><br>
 
-# 02. Goal
+# Goal
 <br>
 
 ## Research Question
@@ -142,11 +149,13 @@ images:
 
 <a name="reference_4"><font size="2em" color="gray">4.</font></a> [<font size="2em" color="MediumSeaGreen"><u>Emotion Evoked by Texture and Application to Emotional Communication</u></font>](https://dl.acm.org/doi/abs/10.1145/2702613.2732768?casa_token=o5DfBNDSsUEAAAAA:5eml-ZQAGe_wtSTCuVEqHH1fvTQNMvEm7NUwnwhJNwlgC5MtcNBle44IeGD8jtQsYr3LzjlG4FzjBw) <font size="2em">(2015) by Yurika Ebe and Hiroyuki Umemuro in ACM CHI</font> [↩](#R04)
 
-<a name="reference_5"><font size="2em" color="gray">5.</font></a> [<font size="2em" color="MediumSeaGreen"><u>The Effect of Tactility and Socio-relational Context on Social Presence and User Satisfaction</u></font>](https://ieeexplore.ieee.org/abstract/document/8673144?casa_token=BLle6bmdd8EAAAAA:9HpWZQPZ370QWDXkiNMqCZ_mrJLlv1XdAWUvKpfN9WPeTXgIHMjnzxW7buGlbXsga8YBv7Cfrg) <font size="2em">(2019) by Dahyun Kang in ACM/IEEE HRI</font> [↩](#R05)
+<a name="reference_5"><font size="2em" color="gray">5.</font></a> [<font size="2em" color="MediumSeaGreen"><u>Individual Differences in Perceptual Space for Tactile Textures: Evidence from Multidimensional Scaling</u></font>](https://link.springer.com/article/10.3758/BF03212154) <font size="2em">(2000) by Mark Hollins, Sliman Bensmaïa, Kristie Karlof and Forrest Young in Perception & Psychophysics</font> [↩](#R05)
 
-<a name="reference_6"><font size="2em" color="gray">6.</font></a> [<font size="2em" color="MediumSeaGreen"><u>The Influence of Social Presence on Acceptance of a Companion Robot by Older People</u></font>](http://rua.ua.es/dspace/handle/10045/12586) <font size="2em">(2008) by Marcel Heerink, Ben Kröse, Vanessa Evers and Bob Wielinga in Journal of Physical Agents</font> [↩](#R06)
+<a name="reference_6"><font size="2em" color="gray">6.</font></a> [<font size="2em" color="MediumSeaGreen"><u>The Effect of Tactility and Socio-relational Context on Social Presence and User Satisfaction</u></font>](https://ieeexplore.ieee.org/abstract/document/8673144?casa_token=BLle6bmdd8EAAAAA:9HpWZQPZ370QWDXkiNMqCZ_mrJLlv1XdAWUvKpfN9WPeTXgIHMjnzxW7buGlbXsga8YBv7Cfrg) <font size="2em">(2019) by Dahyun Kang in ACM/IEEE HRI</font> [↩](#R06)
 
-<a name="reference_7"><font size="2em" color="gray">7.</font></a> [<font size="2em" color="MediumSeaGreen"><u>Gracefully Mitigating Breakdowns in Robotic Services</u></font>](https://ieeexplore.ieee.org/abstract/document/5453195?casa_token=JTOK68MWehYAAAAA:d1dfksRzdu3tRLLPbKT49SyONP6nNbkArDvRwkgO8PwTVTiu1nbb3UReQMhX_mqjBztVky_fJA) <font size="2em">(2010) by Min Kyung Lee, Sara Kiesler, Jodi Forlizzi, Siddhartha Srinivasa and Paul Rybski in ACM/IEEE HRI</font> [↩](#R07)
+<a name="reference_7"><font size="2em" color="gray">7.</font></a> [<font size="2em" color="MediumSeaGreen"><u>The Influence of Social Presence on Acceptance of a Companion Robot by Older People</u></font>](http://rua.ua.es/dspace/handle/10045/12586) <font size="2em">(2008) by Marcel Heerink, Ben Kröse, Vanessa Evers and Bob Wielinga in Journal of Physical Agents</font> [↩](#R07)
+
+<a name="reference_8"><font size="2em" color="gray">8.</font></a> [<font size="2em" color="MediumSeaGreen"><u>Gracefully Mitigating Breakdowns in Robotic Services</u></font>](https://ieeexplore.ieee.org/abstract/document/5453195?casa_token=JTOK68MWehYAAAAA:d1dfksRzdu3tRLLPbKT49SyONP6nNbkArDvRwkgO8PwTVTiu1nbb3UReQMhX_mqjBztVky_fJA) <font size="2em">(2010) by Min Kyung Lee, Sara Kiesler, Jodi Forlizzi, Siddhartha Srinivasa and Paul Rybski in ACM/IEEE HRI</font> [↩](#R08)
 
 <br>
 

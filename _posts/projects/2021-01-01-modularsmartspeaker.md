@@ -37,7 +37,7 @@ images:
 <br><br>
 
 
-# Background
+<font size="6em">Background</font>
 <br>
 
 스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다. 스마트 스피커는 다양한 **음성**과 **외형** 요소를 통해 개성을 표현할 수 있으며, 사용자의 인식에 영향을 줄 수 있다.
@@ -96,9 +96,9 @@ images:
 <font size="5em" color="gray">3) Opportunity</font>
 <br>
 스마트 스피커의 **발화**와 **촉각** 요소가 사용자의 **인식**과 **관계 설정**에 영향을 미칠 수 있다.
-<br><br><br><br>
+<br><br><br><br><br>
 
-# Goal
+<font size="6em">Goal</font>
 <br>
 
 ## Research Question

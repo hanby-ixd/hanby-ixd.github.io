@@ -30,7 +30,7 @@ images:
 <br>
 <!-- ![background](/assets/images/projects/modular_smart_speaker/bg.png) -->
 <p align="center">
-  <img src="/assets/images/projects/modular_smart_speaker/bg.png">
+  <img src="/assets/images/projects/modular_smart_speaker/intro.png">
   <br>
   <font size="2em" color="gray">스마트 스피커는 다양한 음성과 외형 요소를 통해 개성을 표현할 수 있다.</font>
 </p>
@@ -40,17 +40,19 @@ images:
 <font size="6em">Background</font>
 <br>
 
-스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다. 스마트 스피커는 다양한 **음성**과 **외형** 요소를 통해 개성을 표현할 수 있으며, 사용자의 인식에 영향을 줄 수 있다.
+Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스마트 스피커는 어떻게 디자인될 수 있을까?"  
+<br>
+스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다. 스마트 스피커는 다양한 **음성**과 **외형** 요소를 통해 **개성**을 표현할 수 있으며, 사용자의 **인식**과 **만족도**에 영향을 줄 수 있다.
 <br><br><br>
 
-<font size="5em" color="gray">1) Voice</font>
+<font size="5em">1) Voice</font>
 <br>
 
 스마트 스피커의 **음성**을 통한 상호작용은 사용자에게 다음과 같은 영향을 준다.  
 01. 사용자는 **목소리** 기반 상호작용을 통해, 컴퓨터(스마트 스피커)를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>로 인식한다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
 02. 사용자는 스마트 스피커를 **사회적 행위자**로 인식함에 따라, 특정 **관계** 형성을 기대한다<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>.  
 
-또한, 사용자는 같은 컴퓨터에서라도 발화 방식이 다르면 이를 **별개의 사회적 행위자**로 인식하며, 스마트 스피커에 대해 가장 기대하는 관계는 **비서**와 **친구**<sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>이다<sup id="R01">[<span style="color:gray">1,</span>](#reference_1)</sup><sup id="R02">[<span style="color:gray"> 2</span>](#reference_2)</sup>.  
+또한, 사용자는 같은 컴퓨터에서라도 **발화 방식**이 다르면 이를 **별개의 사회적 행위자**로 인식하며, 스마트 스피커에 대해 가장 기대하는 관계는 **비서**와 **친구**<sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>이다<sup id="R01">[<span style="color:gray">1,</span>](#reference_1)</sup><sup id="R02">[<span style="color:gray"> 2</span>](#reference_2)</sup>.  
 
 <br><br>
 <p align="center">
@@ -61,7 +63,7 @@ images:
 <br><br>
 
 아시아에서 음성 요소는 **관계**의 영향을 많이 받는다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
-특히, **수평적** 관계와 **수직적** 관계에 따라 **발화** 방식이 분명하게 달라진다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
+특히, **수평적** 관계와 **수직적** 관계에 따라 **발화 방식**이 분명하게 달라진다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
 한국어의 어법 문화에서는 일반적으로 **반말**과 **존댓말**로 구분할 수 있다.
 
 <br><br>
@@ -72,50 +74,67 @@ images:
 </p>
 <br><br><br>
 
-<font size="5em" color="gray">2) Appearance</font>
+<font size="5em">2) Appearance</font>
 <br>
 
 음성뿐만 아니라 **외형** 요소 또한 사용자의 인식에 영향을 줄 수 있다.
-다양한 외형 요소가 있지만, 다른 요소에 비해 자주 사용되지 않는 **촉각**은 다음과 같은 특성이 있다.  
+다양한 외형 요소 중 **촉각**은 다음과 같은 특성이 있다.  
 01. 촉각은 **직접적**이고 **직관적**이며 **감정 정보**를 전달하는 데 적합하다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 02. 촉각은 **정서적 소통**을 더욱 풍부하게 만들고 특정 **감정을 유발**할 수 있다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 
-촉각의 5개의 형용사 척도 중, 2가지 주요 차원이자 서로 직교하는 치수는 **rough-smooth**와 **soft-hard**이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
-이 두 축은 텔레프레젠스 로봇의 촉감과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 **의인화**와 **비의인화** 촉감의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.  
+촉각의 5가지 형용사 척도<sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup> 중, 2가지 주요 차원이자 서로 직교하는 치수는 **smooth-rough**와 **hard-soft**이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
+이 두 축은 텔레프레젠스 로봇의 촉각과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 **의인화**와 **비의인화** 촉각<sup id="F04">[<span style="color:MediumSeaGreen">4</span>](#footnote_4)</sup>의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.
 
 <br><br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/appearance.png">
   <br>
-  <font size="2em" color="gray">스마트 스피커의 관계 포지셔닝에 따라 발화 방식이 달라질 수 있다.</font>
+  <font size="2em" color="gray">촉각의 주요 형용사 척도 (smooth-rough, hard-soft)</font>
 </p>
 <br><br>
-스마트 스피커 또한, 관계 설정에 따라 두 촉감 축을 기반으로 사용자의 인식에 영향을 미치는지 알아볼 수 있다.
-<br><br><br>
 
-<font size="5em" color="gray">3) Opportunity</font>
-<br>
-스마트 스피커의 **발화**와 **촉각** 요소가 사용자의 **인식**과 **관계 설정**에 영향을 미칠 수 있다.
-<br><br><br><br><br>
+사람과 같은 **사회적 관계**를 형성하지만 사람의 형상이 없는 스마트 스피커 또한, 두 **촉각** 축을 기반으로 사용자의 **인식**에 영향을 미치는지 알아볼 수 있다.
+
+<br><br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/background.png">
+  <br>
+  <font size="2em" color="gray"> {음성: 발화 방식} X {외형: 촉각}</font>
+</p>
+<br><br><br><br><br><br><br><br>
 
 <font size="6em">Goal</font>
 <br>
 
-## Research Question
-"스마트 스피커의 다양한 **발화**와 **촉각** 요소가 **모듈화** 되었을 때, 사용자에게 어떤 영향을 줄 수 있을까?"
+<font size="5em">1) Research Question</font>
+<br>
+
+"스마트 스피커의 **음성 기반 상호작용**과 **발화**를 통한 관계 설정에 있어, **촉각**이 사용자의 인식에 어떤 영향을 줄 수 있을까?"
+<br><br><br>
+
+<font size="5em">2) Hypothesis</font>   
+01. 스마트 스피커의 **발화**에 따라 사용자의 인식이 다를 것이다.
+02. 스마트 스피커의 **촉각**에 따라 사용자의 인식이 다를 것이다.
+03. 스마트 스피커의 **발화**에 따라 사용자가 선호하는 **촉각**이 다를 것이다.
+<br><br><br>
+
+<font size="5em">3) Research Design</font>
+<br>
+
+스마트 스피커의 **발화**와 **촉각**을 **모듈화** 하여 프로토타이핑한 후, 사용자 인식에 대한 **정량 조사**를 진행한다.
+
 <br><br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/goal.png">
+  <br>
+  <font size="2em" color="gray"> {음성: 발화 방식(반말, 존댓말)} X {외형: 촉각(soft+smooth, soft+rough, hard+rough, hard+smooth)}</font>
+</p>
+<br><br><br><br><br><br><br><br>
 
-## Hypothesis
-01. 스마트 스피커의 **발화** 요소에 따라 사용자의 인식이 다를 것이다.   
-02. 스마트 스피커의 **촉각** 요소에 따라 사용자의 인식이 다를 것이다.
-03. 스마트 스피커의 **발화**와 **촉각** 요소가 결합한 방식에 따라 사용자의 인식이 다를 것이다.
-<br><br><br><br>
 
-
-# 03. Study Design
+<font size="6em">Study Design</font>
 <br>
 
-<br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/sd.png">
   <br>
@@ -163,5 +182,7 @@ images:
 
 <a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> <font size="2em">사회적 행위자(Social Actor): 사회적 행동을 수행하는 사람</font> [↩](#F01)  
 <a name="footnote_2"><font size="2em" color="MediumSeaGreen">2.</font></a> <font size="2em">비서: 51.3%, 친구: 48.7%</font> [↩](#F02)   
+<a name="footnote_3"><font size="2em" color="MediumSeaGreen">3.</font></a> <font size="2em">촉각의 5가지 형용사 척도: smooth-rough, hard-soft, cool-warm, flat-bumpy, slippery-sticky</font> [↩](#F03)   
+<a name="footnote_4"><font size="2em" color="MediumSeaGreen">4.</font></a> <font size="2em">의인화 촉각: Anthropomorphic Tactility(AT), 비의인화 촉각: Non-anthropomorphic Tactility(NAT)</font> [↩](#F04)   
 
 <br><br><br>

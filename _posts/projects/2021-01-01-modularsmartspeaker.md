@@ -49,12 +49,12 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <br>
 
 스마트 스피커의 **음성**을 통한 상호작용은 사용자에게 다음과 같은 영향을 준다.  
-01. 사용자는 **목소리** 기반 상호작용을 통해, 컴퓨터(스마트 스피커)를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>로 인식한다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
+01. 사용자는 **음성** 기반 상호작용을 통해, 컴퓨터(스마트 스피커)를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>로 인식한다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
 02. 사용자는 스마트 스피커를 **사회적 행위자**로 인식함에 따라, 특정 **관계** 형성을 기대한다<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>.  
 
-또한, 사용자는 같은 컴퓨터에서라도 **발화 방식**이 다르면 이를 **별개의 사회적 행위자**로 인식하며, 스마트 스피커에 대해 가장 기대하는 관계는 **비서**와 **친구**<sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>이다<sup id="R01">[<span style="color:gray">1,</span>](#reference_1)</sup><sup id="R02">[<span style="color:gray"> 2</span>](#reference_2)</sup>.  
+또한, 사용자는 같은 컴퓨터에서라도 **음성**이 다르면 이를 **별개의 사회적 행위자**로 인식하며, 스마트 스피커에 대해 가장 기대하는 관계는 **비서**와 **친구**<sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>이다<sup id="R01">[<span style="color:gray">1,</span>](#reference_1)</sup><sup id="R02">[<span style="color:gray"> 2</span>](#reference_2)</sup>.  
 
-<br><br>
+<br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/voice.png">
   <br>
@@ -63,10 +63,10 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <br><br>
 
 아시아에서 음성 요소는 **관계**의 영향을 많이 받는다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
-특히, **수평적** 관계와 **수직적** 관계에 따라 **발화 방식**이 분명하게 달라진다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
+특히, **수평적** 관계와 **수직적** 관계에 따라 **언어적 소통(verbal communication)**<sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup>이 분명하게 달라진다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
 한국어의 어법 문화에서는 일반적으로 **반말**과 **존댓말**로 구분할 수 있다.
 
-<br><br>
+<br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/voice2.png">
   <br>
@@ -82,10 +82,10 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 01. 촉각은 **직접적**이고 **직관적**이며 **감정 정보**를 전달하는 데 적합하다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 02. 촉각은 **정서적 소통**을 더욱 풍부하게 만들고 특정 **감정을 유발**할 수 있다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 
-촉각의 5가지 형용사 척도<sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup> 중, 2가지 주요 차원이자 서로 직교하는 치수는 **smooth-rough**와 **hard-soft**이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
-이 두 축은 텔레프레젠스 로봇의 촉각과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 **의인화**와 **비의인화** 촉각<sup id="F04">[<span style="color:MediumSeaGreen">4</span>](#footnote_4)</sup>의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.
+촉각의 5가지 형용사 척도<sup id="F04">[<span style="color:MediumSeaGreen">4</span>](#footnote_4)</sup> 중, 2가지 주요 차원이자 서로 직교하는 치수는 **smooth-rough**와 **hard-soft**이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
+이 두 축은 텔레프레젠스 로봇의 촉각과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 **의인화**와 **비의인화** 촉각<sup id="F05">[<span style="color:MediumSeaGreen">5</span>](#footnote_5)</sup>의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.
 
-<br><br>
+<br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/appearance.png">
   <br>
@@ -95,7 +95,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 
 사람과 같은 **사회적 관계**를 형성하지만 사람의 형상이 없는 스마트 스피커 또한, 두 **촉각** 축을 기반으로 사용자의 **인식**에 영향을 미치는지 알아볼 수 있다.
 
-<br><br>
+<br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/background.png">
   <br>
@@ -109,21 +109,15 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="5em">1) Research Question</font>
 <br>
 
-"스마트 스피커의 **음성 기반 상호작용**과 **발화**를 통한 관계 설정에 있어, **촉각**이 사용자의 인식에 어떤 영향을 줄 수 있을까?"
+"스마트 스피커의 **음성 기반 상호작용**과 **발화(VC)**를 통한 관계 설정에 있어, **촉각**이 사용자의 인식에 어떤 영향을 줄 수 있을까?"
 <br><br><br>
 
-<font size="5em">2) Hypothesis</font>   
-01. 스마트 스피커의 **발화**에 따라 사용자의 인식이 다를 것이다.
-02. 스마트 스피커의 **촉각**에 따라 사용자의 인식이 다를 것이다.
-03. 스마트 스피커의 **발화**에 따라 사용자가 선호하는 **촉각**이 다를 것이다.
-<br><br><br>
-
-<font size="5em">3) Research Design</font>
+<font size="5em">2) Research Design</font>
 <br>
 
-스마트 스피커의 **발화**와 **촉각**을 **모듈화** 하여 프로토타이핑한 후, 사용자 인식에 대한 **정량 조사**를 진행한다.
+스마트 스피커의 **발화(VC)**와 **촉각**을 **모듈화** 하여 프로토타이핑한 후, 사용자 인식에 대한 **정량 조사**를 진행한다.
 
-<br><br>
+<br>
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/goal.png">
   <br>
@@ -135,27 +129,157 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="6em">Study Design</font>
 <br>
 
+<font size="5em">1) Independent Variables</font>
+<br>
+실험 조건은 다음과 같이 총 8가지로 설정하였다.  
+01. **발화(VC)**:
+  - a. 존댓말(assistant-like)
+  - b. 반말(companion-like)  
+<br>
+02. **촉각**:
+  - a. 부드러운 천(soft+smooth)
+  - b. 거친 천(soft+rough)
+  - c. 부드러운 플라스틱(hard+smooth)
+  - d. 거친 플라스틱(hard+rough)
+
+<br>
 <p align="center">
-  <img src="/assets/images/projects/modular_smart_speaker/sd.png">
+  <img src="/assets/images/projects/modular_smart_speaker/IV.png">
   <br>
-  <font size="2em" color="gray">독립 변수: 발화 타입(2가지) X 촉각-소재(2가지) X 촉각-마감(2가지)</font>
+  <font size="2em" color="gray">독립 변수: 발화(2가지) X 촉각(4가지)</font>
+</p>
+<br><br><br>
+
+<font size="5em">2) Dependent Variables</font>
+<br>
+각 실험 조건에 대해서 아래 3가지를 측정하였다.
+측정을 통해, 사용자가 각 조건의 스마트 스피커를 얼마나 **유용**하게 생각했는지, 얼마나 **사회적인 존재**로 인지했는지, 얼마나 서비스에 대해 **만족**하는지 확인하였다.
+01. **유용성**(perceived usefulness)<sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
+02. **사교성**(perceived sociability)<sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
+03. **서비스 평가**(service evaluation)<sup id="R08">[<span style="color:gray">8</span>](#reference_8)</sup>
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/DV.png">
+  <br>
+  <font size="2em" color="gray">3가지 측정에 대한 아이템</font>
+</p>
+<br><br><br>
+
+<font size="5em">3) Prototype Development</font>
+<br>
+
+Wizard of Oz 실험을 위한 모듈형 스마트 스피커를 디자인하고 개발하였다.
+<br>
+
+01. 모듈형 스마트 스피커는 **전원부**와 **촉각 모듈**로 나눠질 수 있으며, 촉각 모듈은 전원부 위에 올려놓을 수 있다.
+02. 촉각 모듈은 부드러운 천, 거친 천, 부드러운 플라스틱, 거친 플라스틱으로 이루어졌으며, 총 4가지 이다.
+03. 촉각 모듈을 쉽게 탈부착할 수 있도록 전원부와 촉각 모듈 모서리에 네오디움 자석이 붙어있다.
+04. 전원부에는 아두이노, 블루투스 모듈, 스피커, 버튼, LED가 포함되어 있다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/PD.png">
+  <br>
+  <font size="2em" color="gray">사용한 소프트웨어: Solidworks, Arduino, Clova Dubbing</font>
+</p>
+<br><br><br>
+
+<font size="5em">4) Recruitment</font>
+<br>
+
+**연구실 조사(in-lab study)**로 진행되었으며, 분산분석(ANOVA)를 위해 **혼합 설계**(mixed design)하였다.
+01. **발화(VC)**: between design - 피실험자는 **한 가지** 발화만 경험한다.
+02. **촉각**: within design - 피실험자는 **네 가지** 촉각을 모두 경험한다. (랜덤 순서)
+
+
+피실험자: 48명 (23세~39세, 여성 23명, 남성 25명)
+
+<br><br><br>
+
+<font size="5em">5) Procedure</font>
+<br>
+
+피실험자는 최근 유행하는 음식, 노래, TV 프로그램에 대해 모듈형 스마트 스피커에게 질문한다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/procedure.png">
+  <br>
+  <font size="2em" color="gray">모듈형 스마트 스피커의 대사 설계</font>
 </p>
 <br><br>
 
-## Independent Variables
-독립 변수는 총 8가지 조건으로 이루어져 있다.  
-발화 타입은 사용자가 스마트 스피커에 대해 기대하는 관계 중 가장 선호하는 **비서**와 **친구**를, 촉각 특성은 **유연함**과 **부드러움** 축을 선택하여 변수로 사용하였다<sup id="R02">[<span style="color:gray">02,</span>](#reference_2)</sup><sup id="R05">[<span style="color:gray"> 05</span>](#reference_5)</sup>.
-01. 발화 타입: 비서(honorific), 친구(familiar)
-02. 유연함(flexibility): 유연한(flexible) - 단단한 (hard)
-03. 부드러움(smoothness): 부드러운(smoothness) - 거친 (rough)
+촉각 모듈을 전원부 위에 놓으면 스마트 스피커의 발화가 시작되고 피실험자는 스피커에게 촉각 모듈마다 3가지 질문을 반복한다. 
+피실험자는 각 촉각 조건에 대한 실험이 끝날때마다, 해당 촉각 모듈을 부착한 스마트 스피커의 인상 평가를 진행한다. 
+촉각 모듈의 순서는 각 피실험자에게 무작위 순서로 배정되었다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/procedure2.png">
+  <br>
+  <font size="2em" color="gray">피실험자는 무작위 순서로 배정된 촉각 모듈을 모두 경험한다.</font>
+</p>
+<br><br><br><br><br><br><br><br>
+
+
+<font size="6em">Results</font>
+<br>
+
+<font size="5em">1) Data Analysis</font>
+<br>
+
+모듈형 스마트 스피커의 유용성, 사교성 및 서비스 평가 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 유의한 결과가 나왔다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/results.png">
+  <br>
+  <font size="2em" color="gray">각 측정에 대한 신뢰도 분석 후 크론바 알파 값</font>
+</p>
 <br><br>
 
-## Dependent Variables
-각 조건의 스마트 스피커에 대해서 아래 3가지 종속 변수를 측정하였다.
-01. 유용성(usefulness)<sup id="R06">[<span style="color:gray"> 06</span>](#reference_6)</sup>
-02. 사교성(sociability)<sup id="R06">[<span style="color:gray"> 06</span>](#reference_6)</sup>
-03. 서비스 평가(service evaluation)<sup id="R07">[<span style="color:gray"> 07</span>](#reference_7)</sup>
-<br><br><br><br>
+발화(VC)와 촉각에 대한 각 측정의 **주효과**를 분산분석(ANOVA)을 사용하여 해석하였다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/results2.png">
+</p>
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/results3.png">
+  <br>
+  <font size="2em" color="gray">분산분석 결과, 촉각에 대한 주효과만 존재했다.</font>
+</p>
+<br><br>
+
+발화(VC)와 촉각에 대한 각 측정의 **상호작용 효과**를 분산분석(ANOVA)을 사용하여 해석하였다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/results4.png">
+  <br>
+  <font size="2em" color="gray">//</font>
+</p>
+<br><br>
+
+전체적인 해석 ~~
+<br><br><br>
+
+<font size="5em">2) Implication</font>
+<br>
+
+~~
+스마트 스피커의 발화 유형에 따라 스마트 스피커의 질감 설정이 달라질 수 있으며, 특정 상황에서 스마트 스피커의 질감을 다르게 만들 수 있다.
+유연한 소재: 리셉션 데스크나 가정에서와 같이 상대적으로 사교적인 상황에서 적용 가능
+거친 마감: 스마트 스피커가 유용한 정보를 제공하는 상황에서 적용 가능
+<br><br><br>
+
+<font size="5em">3)Future Work</font>
+<br>
+
+앞으로 ~~
+<br><br><br><br><br><br><br><br>
 
 ---  
 **References**  
@@ -182,7 +306,8 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 
 <a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> <font size="2em">사회적 행위자(Social Actor): 사회적 행동을 수행하는 사람</font> [↩](#F01)  
 <a name="footnote_2"><font size="2em" color="MediumSeaGreen">2.</font></a> <font size="2em">비서: 51.3%, 친구: 48.7%</font> [↩](#F02)   
-<a name="footnote_3"><font size="2em" color="MediumSeaGreen">3.</font></a> <font size="2em">촉각의 5가지 형용사 척도: smooth-rough, hard-soft, cool-warm, flat-bumpy, slippery-sticky</font> [↩](#F03)   
-<a name="footnote_4"><font size="2em" color="MediumSeaGreen">4.</font></a> <font size="2em">의인화 촉각: Anthropomorphic Tactility(AT), 비의인화 촉각: Non-anthropomorphic Tactility(NAT)</font> [↩](#F04)   
+<a name="footnote_3"><font size="2em" color="MediumSeaGreen">3.</font></a> <font size="2em">언어적 의사소통(Verbal Communication, VC): 말을 통해 전달되는 메시지와 같이, 구두 의사소통의 한 유형, 비언어적 의사소통(Non-verbal Communication, NVC): 억양이나 음높이, 제스처 및 표정과 같은 말(word) 없이 단서를 주고받는 의사소통</font> [↩](#F03)   
+<a name="footnote_4"><font size="2em" color="MediumSeaGreen">4.</font></a> <font size="2em">촉각의 5가지 형용사 척도: smooth-rough, hard-soft, cool-warm, flat-bumpy, slippery-sticky</font> [↩](#F04)   
+<a name="footnote_5"><font size="2em" color="MediumSeaGreen">5.</font></a> <font size="2em">의인화 촉각: Anthropomorphic Tactility(AT), 비의인화 촉각: Non-anthropomorphic Tactility(NAT)</font> [↩](#F05)   
 
 <br><br><br>

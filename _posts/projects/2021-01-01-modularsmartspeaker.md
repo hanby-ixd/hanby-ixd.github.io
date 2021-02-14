@@ -72,7 +72,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
   <br>
   <font size="2em" color="gray">스마트 스피커의 관계 포지셔닝에 따라 발화 방식이 달라질 수 있다.</font>
 </p>
-<br><br><br>
+<br><br>
 
 <font size="5em">2) Appearance</font>
 <br>
@@ -101,7 +101,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
   <br>
   <font size="2em" color="gray"> {음성: 발화 방식} X {외형: 촉각}</font>
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <font size="6em">Goal</font>
 <br>
@@ -123,7 +123,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
   <br>
   <font size="2em" color="gray"> {음성: 발화 방식(반말-존댓말)} X {외형: 촉각(soft-hard축, smooth-rough축)}</font>
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <font size="6em">Study Design</font>
@@ -148,7 +148,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
   <br>
   <font size="2em" color="gray">독립 변수: 발화(2가지) X 촉각(4가지)</font>
 </p>
-<br><br><br>
+<br><br>
 
 <font size="5em">2) Dependent Variables</font>
 <br>
@@ -164,7 +164,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
   <br>
   <font size="2em" color="gray">3가지 측정에 대한 아이템</font>
 </p>
-<br><br><br>
+<br><br>
 
 <font size="5em">3) Prototype Development</font>
 <br>
@@ -183,7 +183,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
   <br>
   <font size="2em" color="gray">사용한 소프트웨어: Solidworks, Arduino, Clova Dubbing</font>
 </p>
-<br><br><br>
+<br><br>
 
 <font size="5em">4) Recruitment</font>
 <br>
@@ -195,7 +195,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 
 피실험자: 48명 (23세~39세, 여성 23명, 남성 25명)
 
-<br><br><br>
+<br><br>
 
 <font size="5em">5) Procedure</font>
 <br>
@@ -223,7 +223,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
   <br>
   <font size="2em" color="gray">피실험자는 무작위 순서로 배정된 촉각 모듈을 모두 경험한다.</font>
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <font size="6em">Results</font>
@@ -256,7 +256,6 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 02. **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **사교적**이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.24, SD = 0.15 vs. M<sub>hard</sub> = 3.64, SD = 0.14)</font>  
 03. **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **서비스가 좋다**고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.17, SD = 0.12 vs. M<sub>hard</sub> = 4.87, SD = 0.14)</font>  
 04. **거친(rough)** 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 **서비스가 좋다**고 인식했다. <font size="2em">(M<sub>smooth</sub> = 4.89, SD = 0.14 vs. M<sub>rough</sub> = 5.14, SD = 0.12)</font>  
-<br>
 
 <br>
 <p align="center">
@@ -307,9 +306,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
   <br>
   <font size="2em" color="gray">피실험자는 발화가 존댓말일 때 플라스틱을, 발화가 반말일 때 천을 선호하였다.</font>
 </p>
-<br>
-
-<br><br><br>
+<br><br>
 
 <font size="5em">2) Design Implications</font>
 <br>
@@ -335,7 +332,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 03. 사용자의 기분, 성격과 같은 특성도 고려할 수 있습니다.
 
 따라서, 본 연구는 스마트 스피커의 다양한 음성 인자와 외형 요인을 탐구하고, 사용자의 특성에 따라 요구되는 스마트 스피커의 속성 조사를 위한 향후 연구가 필요하다.
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ---  
 **References**  

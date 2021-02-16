@@ -9,15 +9,16 @@ meta:
 project:
   title: "Modular Smart Speaker"
   subtitle: "Effect of Smart Speaker's Speech and Tactility Types on Users' Perception"
-  type: "Human-Agent Interaction(HAI)"
+  type: "Human-Agent Interaction (HAI)"
   logo: "/assets/images/projects/modular_smart_speaker/logo.png"
-  duration: "2020.07~08 (2개월)"
+  duration: "2020.07 ~ 08 (2개월)"
   ptype: "Human-Agent Interaction 연구 프로젝트"
   typedetail: "기여도: 100% | KIST AIㆍ로봇연구소 지능로봇연구단"
   role: "프로젝트 기획, 문헌 조사, 인터랙션 디자인, 제품 디자인, 프로토타입 개발, 사용자 조사, 데이터 분석"
-  supporter1: "Dr. Dahyun Kang & Dr. Sonya S. Kwak: 프로젝트 지도"
-  tools: "SolidWorks, Arduino, Clova Dubbing, SPSS"
-  output: "제품 프로토타입, 연구 논문"
+  supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 지도"
+  supporter2: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"
+  tools: "SolidWorks, Arduino, Clova Dubbing"
+  output: "제품 프로토타입"
 
 images:
   - image:

@@ -84,7 +84,7 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 
 <br>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=5lqwN60rzqY&t=12s">
+  <a href="https://youtu.be/5lqwN60rzqY">
   <img src="/assets/images/projects/robotic_cabinet/youtube.png">
   </a>
   <br>

@@ -82,7 +82,8 @@ Design Question: "사람들의 **정리 정돈**을 **로봇 기술**을 통해 
 IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>이라는 새로운 로봇 가구 시스템을 개발했다.  
 <br>
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5lqwN60rzqY" frameborder="0" allowfullscreen></iframe></p>
+{% include video.html id="5lqwN60rzqY" %}
+
 <p align="center"><font size="2em" color="gray">ROGNAN은 옷장, 소파, 책상, 침대 등 다양한 가구로 구성되어 있으며 각 가구는 사용자가 공간을 효율적으로 사용할 수 있도록 위치를 변경할 수 있다.</font></p>
 <br>
 

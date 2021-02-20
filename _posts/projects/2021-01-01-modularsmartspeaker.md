@@ -41,19 +41,19 @@ images:
 <font size="6em">Background</font>
 <br>
 
-Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스마트 스피커는 어떻게 디자인될 수 있을까?"  
+Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</span>에 맞게 <span style="background-color:#EBEBEB">변경</span>할 수 있는 스마트 스피커는 어떻게 디자인될 수 있을까?"  
 <br>
-스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다. 스마트 스피커는 다양한 **음성**과 **외형** 요소를 통해 **개성**을 표현할 수 있으며, 사용자의 **인식**과 **만족도**에 영향을 줄 수 있다.
+스마트 스피커는 대화형 인공지능이 탑재된 음성 기반 스피커이다. 스마트 스피커는 다양한 <span style="background-color:#EBEBEB">음성</span>과 <span style="background-color:#EBEBEB">외형</span> 요소를 통해 <span style="background-color:#EBEBEB">개성</span>을 표현할 수 있으며, 사용자의 <span style="background-color:#EBEBEB">인식</span>과 <span style="background-color:#EBEBEB">만족도</span>에 영향을 줄 수 있다.
 <br><br><br>
 
 <font size="5em">1) Voice</font>
 <br>
 
-스마트 스피커의 **음성**을 통한 상호작용은 사용자에게 다음과 같은 영향을 준다.  
-01. 사용자는 **음성** 기반 상호작용을 통해, 컴퓨터(스마트 스피커)를 **사회적 행위자**<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>로 인식한다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
-02. 사용자는 스마트 스피커를 **사회적 행위자**로 인식함에 따라, 특정 **관계** 형성을 기대한다<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>.  
+스마트 스피커의 <span style="background-color:#EBEBEB">음성</span>을 통한 상호작용은 사용자에게 다음과 같은 영향을 준다.  
+01. 사용자는 <span style="background-color:#EBEBEB">음성</span> 기반 상호작용을 통해, 컴퓨터(스마트 스피커)를 <span style="background-color:#EBEBEB">사회적 행위자</span><sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>로 인식한다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
+02. 사용자는 스마트 스피커를 <span style="background-color:#EBEBEB">사회적 행위자</span>로 인식함에 따라, 특정 <span style="background-color:#EBEBEB">관계</span> 형성을 기대한다<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>.  
 
-또한, 사용자는 같은 컴퓨터에서라도 **음성**이 다르면 이를 **별개의 사회적 행위자**로 인식하며, 스마트 스피커에 대해 가장 기대하는 관계는 **비서**와 **친구**<sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>이다<sup id="R01">[<span style="color:gray">1,</span>](#reference_1)</sup><sup id="R02">[<span style="color:gray"> 2</span>](#reference_2)</sup>.  
+또한, 사용자는 같은 컴퓨터에서라도 <span style="background-color:#EBEBEB">음성</span>이 다르면 이를 <span style="background-color:#EBEBEB">별개의 사회적 행위자</span>로 인식하며, 스마트 스피커에 대해 가장 기대하는 관계는 <span style="background-color:#EBEBEB">비서</span>와 <span style="background-color:#EBEBEB">친구</span><sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>이다<sup id="R01">[<span style="color:gray">1,</span>](#reference_1)</sup><sup id="R02">[<span style="color:gray"> 2</span>](#reference_2)</sup>.  
 
 <br>
 <p align="center">
@@ -63,9 +63,9 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 </p>
 <br>
 
-아시아에서 음성 요소는 **관계**의 영향을 많이 받는다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
-특히, **수평적** 관계와 **수직적** 관계에 따라 **언어적 소통(verbal communication)**<sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup>이 분명하게 달라진다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
-한국어의 어법 문화에서는 일반적으로 **반말**과 **존댓말**로 구분할 수 있다.
+아시아에서 음성 요소는 <span style="background-color:#EBEBEB">관계</span>의 영향을 많이 받는다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
+특히, <span style="background-color:#EBEBEB">수평적</span> 관계와 <span style="background-color:#EBEBEB">수직적</span> 관계에 따라 <span style="background-color:#EBEBEB">언어적 소통(verbal communication)</span><sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup>이 분명하게 달라진다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>.
+한국어의 어법 문화에서는 일반적으로 <span style="background-color:#EBEBEB">반말</span>과 <span style="background-color:#EBEBEB">존댓말</span>로 구분할 수 있다.
 
 <br>
 <p align="center">
@@ -78,13 +78,13 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="5em">2) Appearance</font>
 <br>
 
-음성뿐만 아니라 **외형** 요소 또한 사용자의 인식에 영향을 줄 수 있다.
-다양한 외형 요소 중 **촉각**은 다음과 같은 특성이 있다.  
-01. 촉각은 **직접적**이고 **직관적**이며 **감정 정보**를 전달하는 데 적합하다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
-02. 촉각은 **정서적 소통**을 더욱 풍부하게 만들고 특정 **감정을 유발**할 수 있다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
+음성뿐만 아니라 <span style="background-color:#EBEBEB">외형</span> 요소 또한 사용자의 인식에 영향을 줄 수 있다.
+다양한 외형 요소 중 <span style="background-color:#EBEBEB">촉각</span>은 다음과 같은 특성이 있다.  
+01. 촉각은 <span style="background-color:#EBEBEB">직접적</span>이고 <span style="background-color:#EBEBEB">직관적</span>이며 <span style="background-color:#EBEBEB">감정 정보</span>를 전달하는 데 적합하다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
+02. 촉각은 <span style="background-color:#EBEBEB">정서적 소통</span>을 더욱 풍부하게 만들고 특정 <span style="background-color:#EBEBEB">감정을 유발</span>할 수 있다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>.  
 
-촉각의 5가지 형용사 척도<sup id="F04">[<span style="color:MediumSeaGreen">4</span>](#footnote_4)</sup> 중, 2가지 주요 차원이자 서로 직교하는 치수는 **smooth-rough**와 **hard-soft(flexible)**이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
-이 두 축은 텔레프레젠스 로봇의 촉각과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 **의인화**와 **비의인화** 촉각<sup id="F05">[<span style="color:MediumSeaGreen">5</span>](#footnote_5)</sup>의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.
+촉각의 5가지 형용사 척도<sup id="F04">[<span style="color:MediumSeaGreen">4</span>](#footnote_4)</sup> 중, 2가지 주요 차원이자 서로 직교하는 치수는 <span style="background-color:#EBEBEB">smooth-rough</span>와 <span style="background-color:#EBEBEB">hard-soft</span>이다<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>.
+이 두 축은 텔레프레젠스 로봇의 촉각과 사회적 관계에 관한 인간-로봇 상호작용 실험에서도 <span style="background-color:#EBEBEB">의인화</span>와 <span style="background-color:#EBEBEB">비의인화</span> 촉각<sup id="F05">[<span style="color:MediumSeaGreen">5</span>](#footnote_5)</sup>의 기준이 되었다<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>.
 
 <br>
 <p align="center">
@@ -94,7 +94,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 </p>
 <br>
 
-사람과 같은 **사회적 관계**를 형성하지만, 사람의 형상이 없는 스마트 스피커 또한, 두 **촉각** 축을 기반으로 사용자의 **인식**에 영향을 미치는지 알아볼 수 있다.
+사람과 같은 <span style="background-color:#EBEBEB">사회적 관계</span>를 형성하지만, 사람의 형상이 없는 스마트 스피커 또한, 두 <span style="background-color:#EBEBEB">촉각</span> 축을 기반으로 사용자의 <span style="background-color:#EBEBEB">인식</span>에 영향을 미치는지 알아볼 수 있다.
 
 <br>
 <p align="center">
@@ -110,13 +110,13 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="5em">1) Research Question</font>
 <br>
 
-"스마트 스피커의 **음성 기반 상호작용**과 **발화(VC)**를 통한 관계 설정에 있어, **촉각**이 사용자의 인식에 어떤 영향을 줄 수 있을까?"
+"스마트 스피커의 <span style="background-color:#EBEBEB">음성 기반 상호작용</span>과 <span style="background-color:#EBEBEB">발화(VC)</span>를 통한 관계 설정에 있어, <span style="background-color:#EBEBEB">촉각</span>이 사용자의 인식에 어떤 영향을 줄 수 있을까?"
 <br><br><br>
 
 <font size="5em">2) Research Design</font>
 <br>
 
-스마트 스피커의 **발화(VC)**와 **촉각**을 **모듈화**하여 프로토타이핑한 후, 사용자 인식에 대한 **정량 조사**를 진행한다.
+스마트 스피커의 <span style="background-color:#EBEBEB">발화(VC)</span>와 <span style="background-color:#EBEBEB">촉각</span>을 <span style="background-color:#EBEBEB">모듈화</span>하여 프로토타이핑한 후, 사용자 인식에 대한 <span style="background-color:#EBEBEB">정량 조사</span>를 진행한다.
 
 <br>
 <p align="center">
@@ -133,11 +133,11 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="5em">1) Independent Variables</font>
 <br>
 실험 조건은 다음과 같이 총 8가지로 설정하였다.  
-01. **발화(VC)**:
+01. <span style="background-color:#EBEBEB">발화</span>:
   - a. 존댓말(assistant-like)
   - b. 반말(companion-like)  
 <br>
-02. **촉각**(soft-hard축, smooth-rough축):
+02. <span style="background-color:#EBEBEB">촉각 (soft-hard축, smooth-rough축)</span>:
   - a. 부드러운 천(soft+smooth)
   - b. 거친 천(soft+rough)
   - c. 부드러운 플라스틱(hard+smooth)
@@ -154,10 +154,10 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="5em">2) Dependent Variables</font>
 <br>
 각 실험 조건에 대해서 아래 3가지를 측정하였다.
-측정을 통해, 사용자가 각 조건의 스마트 스피커를 얼마나 **유용**하게 생각했는지, 얼마나 **사회적인 존재**로 인지했는지, 얼마나 서비스에 대해 **만족**하는지 확인하였다.
-01. **유용성**(perceived usefulness)<sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
-02. **사교성**(perceived sociability)<sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
-03. **서비스 평가**(service evaluation)<sup id="R08">[<span style="color:gray">8</span>](#reference_8)</sup>
+측정을 통해, 사용자가 각 조건의 스마트 스피커를 얼마나 <span style="background-color:#EBEBEB">유용</span>하게 생각했는지, 얼마나 <span style="background-color:#EBEBEB">사회적인 존재</span>로 인지했는지, 얼마나 서비스에 대해 <span style="background-color:#EBEBEB">만족</span>하는지 확인하였다.
+01. <span style="background-color:#EBEBEB">유용성(perceived usefulness)</span><sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
+02. <span style="background-color:#EBEBEB">사교성perceived sociability)</span><sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
+03. <span style="background-color:#EBEBEB">서비스 평가(service evaluation)</span><sup id="R08">[<span style="color:gray">8</span>](#reference_8)</sup>
 
 <br>
 <p align="center">
@@ -170,7 +170,7 @@ Design Question: "사람들의 **선호**에 맞게 **변경**할 수 있는 스
 <font size="5em">3) Prototype Development</font>
 <br>
 
-Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#footnote_6)</sup> 실험을 위한 모듈형 스마트 스피커의 **전원부**와 **촉각 모듈**을 디자인하고 개발하였다.
+<span style="background-color:#EBEBEB">Wizard of Oz 기법</span><sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#footnote_6)</sup> 실험을 위한 모듈형 스마트 스피커의 <span style="background-color:#EBEBEB">전원부</span>와 <span style="background-color:#EBEBEB">촉각 모듈</span>을 디자인하고 개발하였다.
 <br>
 
 01. 모듈형 스마트 스피커는 전원부와 촉각 모듈로 나뉠 수 있으며, 촉각 모듈은 전원부 위에 올려놓을 수 있다.
@@ -189,9 +189,9 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 <font size="5em">4) Recruitment</font>
 <br>
 
-**연구실 조사(in-lab study)**로 진행되었으며, 분산분석(ANOVA)를 위해 **혼합 설계**(mixed design)하였다.
-01. **발화(VC)**: between design - 피실험자는 **한 가지** 발화만 경험한다.
-02. **촉각**: within design - 피실험자는 **네 가지** 촉각을 모두 경험한다. (무작위 순서)
+<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>를 위해 <span style="background-color:#EBEBEB">혼합 설계(mixed design)</span>하였다.
+01. <span style="background-color:#EBEBEB">발화(VC)</span>: between design - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 발화만 경험한다.
+02. <span style="background-color:#EBEBEB">촉각</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">네 가지</span> 촉각을 모두 경험한다. (무작위 순서)
 
 
 피실험자: 48명 (23세~39세, 여성 23명, 남성 25명)
@@ -201,7 +201,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 <font size="5em">5) Procedure</font>
 <br>
 
-피실험자는 최근 유행하는 **음식, 노래, TV 프로그램**에 대해 모듈형 스마트 스피커에 아래와 같이 질문한다.
+피실험자는 최근 유행하는 <span style="background-color:#EBEBEB">음식, 노래, TV 프로그램</span>에 대해 모듈형 스마트 스피커에 아래와 같이 질문한다.
 
 <br>
 <p align="center">
@@ -211,7 +211,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 </p>
 <br>
 
-촉각 모듈은 모든 피실험자에게 **무작위 순서**로 배정되어있으며 실험 과정은 다음과 같다.
+촉각 모듈은 모든 피실험자에게 <span style="background-color:#EBEBEB">무작위 순서</span>로 배정되어있으며 실험 과정은 다음과 같다.
 01. 피실험자는 왼쪽 촉각 모듈부터 전원부 위에 올려놓는다.
 02. 촉각 모듈을 전원부 위에 놓으면 스마트 스피커의 인사가 시작된다.
 03. 피실험자는 음식, 노래, TV 프로그램에 대해 스마트 스피커에 질문한다. 
@@ -233,10 +233,10 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 <font size="5em">1) Data Analysis</font>
 <br>
 
-실험을 통해 모듈형 스마트 스피커의 발화와 촉각이 사용자의 인식에 미치는 영향을 조사하기 위해 **이원분산분석**(two-way ANOVA)을 수행했다.  
+실험을 통해 모듈형 스마트 스피커의 발화와 촉각이 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">이원분산분석(two-way ANOVA)</span>을 수행했다.  
 <br>
 
-모듈형 스마트 스피커의 유용성, 사교성 및 서비스 평가 측정은 **크론바 알파 값 0.6** 이상으로, 모든 문항에 대해 **유의**한 결과가 나왔다.
+모듈형 스마트 스피커의 유용성, 사교성 및 서비스 평가 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.
 
 <br>
 <p align="center">
@@ -246,17 +246,17 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 </p>
 <br>
 
-각 측정의 유의한 **주 효과**는 촉각에서만 나타났다.
-01. **smooth-rough축**이 **유용성**에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 13.707, p = 0.001)</font>  
-02. **soft-hard축**이 **사교성**에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 15.329, p < 0.0005)</font>  
-03. **soft-hard축**과 **smooth-rough축**이 **서비스 평가**에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>SH(1,46)</sub> = 5.056, p<sub>SH</sub> < 0.029 / F<sub>SR(1,46)</sub> = 3.987, p<sub>SR</sub> = 0.052)</font>  
+각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과</span>는 촉각에서만 나타났다.
+01. <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">유용성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 13.707, p = 0.001)</font>  
+02. <span style="background-color:#EBEBEB">soft-hard축</span>이 <span style="background-color:#EBEBEB">사교성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 15.329, p < 0.0005)</font>  
+03. <span style="background-color:#EBEBEB">soft-hard축</span>과 <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">서비스 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>SH(1,46)</sub> = 5.056, p<sub>SH</sub> < 0.029 / F<sub>SR(1,46)</sub> = 3.987, p<sub>SR</sub> = 0.052)</font>  
 <br>
 
-**주 효과(main effect)**에서 피실험자의 인식은 다음과 같다.
-01. **거친(rough)** 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 **유용**하다고 인식했다. <font size="2em">M<sub>smooth</sub> = 4.96, SD = 0.13 vs. M<sub>rough</sub> = 5.30, SD = 0.12)</font>  
-02. **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **사교적**이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.24, SD = 0.15 vs. M<sub>hard</sub> = 3.64, SD = 0.14)</font>  
-03. **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **서비스가 좋다**고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.17, SD = 0.12 vs. M<sub>hard</sub> = 4.87, SD = 0.14)</font>  
-04. **거친(rough)** 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 **서비스가 좋다**고 인식했다. <font size="2em">(M<sub>smooth</sub> = 4.89, SD = 0.14 vs. M<sub>rough</sub> = 5.14, SD = 0.12)</font>  
+<span style="background-color:#EBEBEB">주 효과(main effect)</span>에서 피실험자의 인식은 다음과 같다.
+01. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">M<sub>smooth</sub> = 4.96, SD = 0.13 vs. M<sub>rough</sub> = 5.30, SD = 0.12)</font>  
+02. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.24, SD = 0.15 vs. M<sub>hard</sub> = 3.64, SD = 0.14)</font>  
+03. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.17, SD = 0.12 vs. M<sub>hard</sub> = 4.87, SD = 0.14)</font>  
+04. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(M<sub>smooth</sub> = 4.89, SD = 0.14 vs. M<sub>rough</sub> = 5.14, SD = 0.12)</font>  
 
 <br>
 <p align="center">
@@ -270,17 +270,17 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 </p>
 <br>
 
-발화(VC)와 촉각에 대한 각 측정의 **교호작용 효과(interaction effect)**는 다음과 같다.
-01. **유용성**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 13.833, p = 0.001)</font>  
-02. **사교성**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 5.977, p = 0.018)</font>   
-03. **서비스 평가**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 6.811, p = 0.012)</font>   
+발화(VC)와 촉각에 대한 각 측정의 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
+01. <span style="background-color:#EBEBEB">유용성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 13.833, p = 0.001)</font>  
+02. <span style="background-color:#EBEBEB">사교성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 5.977, p = 0.018)</font>   
+03. <span style="background-color:#EBEBEB">서비스 평가</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 6.811, p = 0.012)</font>   
 <br>
 
-**교호작용 효과**에서 피실험자의 인식은 다음과 같다.
-01. 발화가 **존댓말(assistant-like)**일 때, **플라스틱(hard)** 스마트 스피커가 천(soft) 스마트 스피커보다 더 **유용**하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.01, SD = 1.03 vs. M<sub>hard</sub> = 5.24, SD = 0.90, t = 2.302, df = 47, p = 0.026)</font>
-02. 발화가 **반말(companion-like)**일 때, **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **유용**하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.33, SD = 0.99 vs. M<sub>hard</sub> = 4.94, SD = 1.06, t = 2.548, df = 47, p = 0.014)</font>
-03. 발화가 **반말(companion-like)**일 때, **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **사교적**이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.51, SD = 1.30 vs. M<sub>hard</sub> = 3.53, SD = 1.08, t = 4.232, df = 47, p = 0.000)</font>
-04. 발화가 **반말(companion-like)**일 때, **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **서비스가** 좋다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.24, SD = 1.07 vs. M<sub>hard</sub> = 4.58, SD = 1.15, t = 3.087, df = 47, p = 0.003)</font>
+<span style="background-color:#EBEBEB">교호작용 효과</span>에서 피실험자의 인식은 다음과 같다.
+01. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커가 천(soft) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.01, SD = 1.03 vs. M<sub>hard</sub> = 5.24, SD = 0.90, t = 2.302, df = 47, p = 0.026)</font>
+02. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.33, SD = 0.99 vs. M<sub>hard</sub> = 4.94, SD = 1.06, t = 2.548, df = 47, p = 0.014)</font>
+03. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.51, SD = 1.30 vs. M<sub>hard</sub> = 3.53, SD = 1.08, t = 4.232, df = 47, p = 0.000)</font>
+04. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가</span> 좋다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.24, SD = 1.07 vs. M<sub>hard</sub> = 4.58, SD = 1.15, t = 3.087, df = 47, p = 0.003)</font>
 <br>
 
 <br>
@@ -292,10 +292,10 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 <br>
 
 피실험자의 모듈형 스피커에 대한 전반적인 인식을 정리하면 다음과 같다.
-01. 매끄러운(smooth) 표면보다 **거친(rough)** 표면을 가진 스마트 스피커를 더 **유용**하고 **서비스가 좋다**고 인식했다.
-02. 플라스틱(hard)보다 **천(soft)** 스마트 스피커를 더 **사교적**이고 **서비스가 좋다**고 인식했다.
-03. 발화가 **존댓말(assistant-like)**일 때, 천(soft)보다 **플라스틱(hard)** 스마트 스피커를 더 **유용**하다고 인식했다.
-04. 발화가 **반말(companion-like)**일 때, 플라스틱(hard)보다 **천(soft)** 스마트 스피커를 더 **유용**하고 **사교적**이며 **서비스가 좋다**고 인식했다.
+01. 매끄러운(smooth) 표면보다 <span style="background-color:#EBEBEB">거친(rough)</span> 표면을 가진 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
+02. 플라스틱(hard)보다 <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">사교적</span>이고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
+03. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, 천(soft)보다 <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다.
+04. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, 플라스틱(hard)보다 <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">사교적</span>이며 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
 
 <br>
 <p align="center">
@@ -312,16 +312,16 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 <font size="5em">2) Design Implications</font>
 <br>
 
-스마트 스피커의 **발화** 방식에 따라 스마트 스피커의 **촉각** 설정이 달라질 수 있다.
-01. **격식체**를 사용하는 스마트 스피커를 사용자가 더 **유용**하게 느끼길 바랄 때, **딱딱한** 소재를 적용할 수 있다.  
-02. **비격식체**를 사용하는 스마트 스피커를 사용자가 더 **유용**하고 **사교적**이며 **서비스가 좋게** 느끼길 바랄 때, **유연한** 소재를 적용할 수 있다.  
+스마트 스피커의 <span style="background-color:#EBEBEB">발화</span> 방식에 따라 스마트 스피커의 <span style="background-color:#EBEBEB">촉각</span> 설정이 달라질 수 있다.
+01. <span style="background-color:#EBEBEB">격식체</span>를 사용하는 스마트 스피커를 사용자가 더 <span style="background-color:#EBEBEB">유용</span>하게 느끼길 바랄 때, <span style="background-color:#EBEBEB">딱딱한</span> 소재를 적용할 수 있다.  
+02. <span style="background-color:#EBEBEB">비격식체</span>를 사용하는 스마트 스피커를 사용자가 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">사교적</span>이며 <span style="background-color:#EBEBEB">서비스가 좋게</span> 느끼길 바랄 때, <span style="background-color:#EBEBEB">유연한</span> 소재를 적용할 수 있다.  
 
-또한, **상황**에 따라 스마트 스피커의 **촉각** 설정이 달라질 수 있다.
-01. **거친** 마감: 유용한 **정보**를 제공하는 상황에서 적용 가능
-02. **유연한** 소재: 사교적인 **정서 교감**을 제공하는 상황에서 적용 가능
+또한, <span style="background-color:#EBEBEB">상황</span>에 따라 스마트 스피커의 <span style="background-color:#EBEBEB">촉각</span> 설정이 달라질 수 있다.
+01. <span style="background-color:#EBEBEB">거친</span> 마감: 유용한 <span style="background-color:#EBEBEB">정보</span>를 제공하는 상황에서 적용 가능
+02. <span style="background-color:#EBEBEB">유연한</span> 소재: 사교적인 <span style="background-color:#EBEBEB">정서 교감</span>을 제공하는 상황에서 적용 가능
 
-결과적으로 **스마트 스피커의 특성**이나 **사용자의 상황**에 따라 적절한 **촉각**을 적용할 수 있다.
-스마트 스피커 외형의 **모듈화**를 통해 기존보다 AI 설정을 쉽게 변경하거나 사용자의 상호작용을 증진시킬 수 있을 것이다.
+결과적으로 <span style="background-color:#EBEBEB">스마트 스피커의 특성</span>이나 <span style="background-color:#EBEBEB">사용자의 상황</span>에 따라 적절한 <span style="background-color:#EBEBEB">촉각</span>을 적용할 수 있다.
+스마트 스피커 외형의 <span style="background-color:#EBEBEB">모듈화</span>를 통해 기존보다 AI 설정을 쉽게 변경하거나 사용자의 상호작용을 증진시킬 수 있을 것이다.
 <br><br><br>
 
 <font size="5em">3) Limitations and Future Work</font>

@@ -231,7 +231,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 
 실험을 통해 모듈형 스마트 스피커의 발화와 촉각이 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">이원분산분석(two-way ANOVA)</span>을 수행했다.  
-<br>
+<br><br>
 
 <font size="5em">1) Measurements</font>
 <br>
@@ -249,13 +249,13 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <font size="5em">2) Main Effect</font>
 <br>
 
-각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과</span>는 촉각에서만 나타났다.
+각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과(main effect)</span>는 촉각에서만 나타났다.
 01. <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">유용성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 13.707, p = 0.001)</font>  
 02. <span style="background-color:#EBEBEB">soft-hard축</span>이 <span style="background-color:#EBEBEB">사교성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 15.329, p < 0.0005)</font>  
 03. <span style="background-color:#EBEBEB">soft-hard축</span>과 <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">서비스 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>SH(1,46)</sub> = 5.056, p<sub>SH</sub> < 0.029 / F<sub>SR(1,46)</sub> = 3.987, p<sub>SR</sub> = 0.052)</font>  
 <br>
 
-<span style="background-color:#EBEBEB">주 효과(main effect)</span>에서 피실험자의 인식은 다음과 같다.
+<span style="background-color:#EBEBEB">주 효과</span>에서 피실험자의 인식은 다음과 같다.
 01. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">M<sub>smooth</sub> = 4.96, SD = 0.13 vs. M<sub>rough</sub> = 5.30, SD = 0.12)</font>  
 02. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.24, SD = 0.15 vs. M<sub>hard</sub> = 3.64, SD = 0.14)</font>  
 03. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.17, SD = 0.12 vs. M<sub>hard</sub> = 4.87, SD = 0.14)</font>  

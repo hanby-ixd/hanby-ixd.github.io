@@ -41,7 +41,7 @@ images:
 <br>
 
 Design Question: "사람들의 <span style="background-color:#EBEBEB">정리 정돈</span>을 <span style="background-color:#EBEBEB">로봇 기술</span>을 통해 도와줄 수 있는 방법은 무엇일까?"  
-<br>
+<br><br>
 
 <font size="5em">1) Problem</font>
 <br>
@@ -258,6 +258,53 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 <font size="6em">Results</font>
 <br>
 
+실험을 통해 로보틱 캐비닛의 지능화 정도가 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>을 수행했다.  
+<br><br>
+
+<font size="5em">1) Measurements</font>
+<br>
+
+로보틱 캐비닛의 유용성, 사용 편의성, 지능 및 제품 평가 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/modular_smart_speaker/results.png">
+  <br>
+  <font size="2em" color="gray">각 측정에 대한 신뢰도 분석 후 크론바 알파 값</font>
+</p>
+<br><br>
+
+<font size="5em">2) Main Effect</font>
+<br>
+
+각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과(main effect)</span>는 다음과 같다.
+01. 로보틱 캐비닛의 <span style="background-color:#EBEBEB">지능화 정도</span>가 <span style="background-color:#EBEBEB">유용성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,14)</sub> = 7.785, p = 0.002)</font>  
+02. 로보틱 캐비닛의 <span style="background-color:#EBEBEB">지능화 정도</span>가 <span style="background-color:#EBEBEB">사용 편의성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,14)</sub> = 14.955, p < 0.001)</font>  
+03. 로보틱 캐비닛의 <span style="background-color:#EBEBEB">지능화 정도</span>가 <span style="background-color:#EBEBEB">지능</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,14)</sub> = 31.547, p < 0.001)</font>   
+04. 로보틱 캐비닛의 <span style="background-color:#EBEBEB">지능화 정도</span>가 <span style="background-color:#EBEBEB">제품 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,14)</sub> = 16.221, p < 0.001)</font>  
+<br>
+
+<span style="background-color:#EBEBEB">주 효과</span>에서 피실험자의 인식은 다음과 같다.
+01. 첫 번째로 <span style="background-color:#EBEBEB">물건 정리를 돕는</span> 로보틱 캐비닛, 그다음으로 <span style="background-color:#EBEBEB">물건 찾기를 돕는</span> 로보틱 캐비닛, 마지막으로 <span style="background-color:#EBEBEB">일반</span> 캐비닛을 차례대로 <span style="background-color:#EBEBEB">유용</span>하다고 평가했다. <font size="2em">(M<sub>organizing</sub> = 5.30, SE = 0.25 vs. M<sub>finding</sub> = 5.27, SE = 0.27 vs. M<sub>baseline</sub> = 4.06, SE = 0.34)</font>
+02. 첫 번째로 <span style="background-color:#EBEBEB">물건 정리를 돕는</span> 로보틱 캐비닛, 그다음으로 <span style="background-color:#EBEBEB">물건 찾기를 돕는</span> 로보틱 캐비닛, 마지막으로 <span style="background-color:#EBEBEB">일반</span> 캐비닛을 차례대로 <span style="background-color:#EBEBEB">사용이 편리</span>하다고 평가했다. <font size="2em">(M<sub>organizing</sub> = 5.37, SE = 0.28 vs. M<sub>finding</sub> = 5.53, SE = 0.18 vs. M<sub>baseline</sub> = 4.31, SE = 0.26)</font>
+03. 첫 번째로 <span style="background-color:#EBEBEB">물건 정리를 돕는</span> 로보틱 캐비닛, 그다음으로 <span style="background-color:#EBEBEB">물건 찾기를 돕는</span> 로보틱 캐비닛, 마지막으로 <span style="background-color:#EBEBEB">일반</span> 캐비닛을 차례대로 <span style="background-color:#EBEBEB">지능적인 존재</span>라고 평가했다. <font size="2em">(M<sub>organizing</sub> = 5.39, SE = 0.29 vs. M<sub>finding</sub> = 5.59, SE = 0.22 vs. M<sub>baseline</sub> = 3.23, SE = 0.22)</font>
+04. 첫 번째로 <span style="background-color:#EBEBEB">물건 정리를 돕는</span> 로보틱 캐비닛, 그다음으로 <span style="background-color:#EBEBEB">일반</span> 캐비닛, 마지막으로 <span style="background-color:#EBEBEB">물건 찾기를 돕는</span> 로보틱 캐비닛을 차례대로 제품에 대해 <span style="background-color:#EBEBEB">만족</span>하다고 평가했다. <font size="2em">(M<sub>organizing</sub> = 5.42, SE = 0.28 vs. M<sub>finding</sub> = 5.86, SE = 0.18 vs. M<sub>baseline</sub> = 4.06, SE = 0.22)</font>
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/results2.png">
+</p>
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/results3.png">
+</p>
+
+<br><br><br><br><br><br>
+
+<font size="6em">Conclusion</font>
+<br>
+
+어쩌구  
 <br><br><br><br><br><br>
 
 <font size="6em">Publication</font>

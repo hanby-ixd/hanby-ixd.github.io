@@ -230,10 +230,10 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <font size="6em">Results</font>
 <br>
 
-<font size="5em">1) Data Analysis</font>
+실험을 통해 모듈형 스마트 스피커의 발화와 촉각이 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">이원분산분석(two-way ANOVA)</span>을 수행했다.  
 <br>
 
-실험을 통해 모듈형 스마트 스피커의 발화와 촉각이 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">이원분산분석(two-way ANOVA)</span>을 수행했다.  
+<font size="5em">1) Measurements</font>
 <br>
 
 모듈형 스마트 스피커의 유용성, 사교성 및 서비스 평가 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.
@@ -244,6 +244,9 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
   <br>
   <font size="2em" color="gray">각 측정에 대한 신뢰도 분석 후 크론바 알파 값</font>
 </p>
+<br><br>
+
+<font size="5em">2) Main Effect</font>
 <br>
 
 각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과</span>는 촉각에서만 나타났다.
@@ -268,6 +271,9 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
   <br>
   <font size="2em" color="gray">분산분석 결과, 촉각에 대한 주 효과만 유의했다.</font>
 </p>
+<br><br>
+
+<font size="5em">3) Interaction Effect</font>
 <br>
 
 발화(VC)와 촉각에 대한 각 측정의 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
@@ -289,7 +295,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
   <br>
   <font size="2em" color="gray">분산분석 결과, 유용성 측정에서는 발화 타입에 따라 반대의 교호작용 효과가 나타났다.</font>
 </p>
-<br>
+<br><br>
 
 피실험자의 모듈형 스피커에 대한 전반적인 인식을 정리하면 다음과 같다.
 01. 매끄러운(smooth) 표면보다 <span style="background-color:#EBEBEB">거친(rough)</span> 표면을 가진 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
@@ -307,9 +313,12 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
   <br>
   <font size="2em" color="gray">피실험자는 발화가 존댓말일 때 플라스틱을, 발화가 반말일 때 천을 선호하였다.</font>
 </p>
-<br><br>
+<br><br><br><br><br><br>
 
-<font size="5em">2) Design Implications</font>
+<font size="6em">Conclusion</font>
+<br>
+
+<font size="5em">1) Design Implications</font>
 <br>
 
 스마트 스피커의 <span style="background-color:#EBEBEB">발화</span> 방식에 따라 스마트 스피커의 <span style="background-color:#EBEBEB">촉각</span> 설정이 달라질 수 있다.
@@ -324,7 +333,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 스마트 스피커 외형의 <span style="background-color:#EBEBEB">모듈화</span>를 통해 기존보다 AI 설정을 쉽게 변경하거나 사용자의 상호작용을 증진시킬 수 있을 것이다.
 <br><br><br>
 
-<font size="5em">3) Limitations and Future Work</font>
+<font size="5em">2) Limitations and Future Work</font>
 <br>
 
 본 연구의 한계점은 다음과 같다.

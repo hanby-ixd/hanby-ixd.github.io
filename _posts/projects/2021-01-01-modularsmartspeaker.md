@@ -155,9 +155,9 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 각 실험 조건에 대해서 아래 3가지를 측정하였다.
 측정을 통해, 사용자가 각 조건의 스마트 스피커를 얼마나 <span style="background-color:#EBEBEB">유용</span>하게 생각했는지, 얼마나 <span style="background-color:#EBEBEB">사회적인 존재</span>로 인지했는지, 얼마나 서비스에 대해 <span style="background-color:#EBEBEB">만족</span>하는지 확인하였다.
-01. <span style="background-color:#EBEBEB">유용성(perceived usefulness)</span><sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
-02. <span style="background-color:#EBEBEB">사교성perceived sociability)</span><sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
-03. <span style="background-color:#EBEBEB">서비스 평가(service evaluation)</span><sup id="R08">[<span style="color:gray">8</span>](#reference_8)</sup>
+01. <span style="background-color:#EBEBEB">유용성</span>(perceived usefulness)<sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
+02. <span style="background-color:#EBEBEB">사교성</span>(perceived sociability)<sup id="R07">[<span style="color:gray">7</span>](#reference_7)</sup>
+03. <span style="background-color:#EBEBEB">서비스 평가</span>(service evaluation)<sup id="R08">[<span style="color:gray">8</span>](#reference_8)</sup>
 
 <br>
 <p align="center">

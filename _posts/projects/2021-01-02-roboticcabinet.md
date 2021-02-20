@@ -123,6 +123,141 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 <font size="5em">1) Design Requirements</font>
 <br>
 
+수납장, 서랍장 등 수납 가구 사용 시 사용자의 <span style="background-color:#EBEBEB">문제점</span>과 <span style="background-color:#EBEBEB">요구</span>를 파악하기 위해 인터뷰를 실시했다.  
+
+질문은 다음과 같다.
+01. 수납 가구를 사용할 때 어떤 어려움이 있었는지 알려주세요.
+02. 위의 문제를 기술로 해결할 수 있는 방법에 대해 의견을 공유해 주세요.
+
+질문에 대한 답변은 아래 표와 같이 정리할 수 있다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd.png">
+</p>
+<br>
+
+수납 가구에 대한 사용자의 주된 문제점은 물건 <span style="background-color:#EBEBEB">정리</span>와 물건 <span style="background-color:#EBEBEB">찾기</span>였다.  
+<br><br>
+
+<font size="5em">2) Prototype Development</font>
+<br>
+인터뷰 결과를 바탕으로, 사용자의 정리 정돈 활동을 지원하는 로보틱 수납 가구를 만들기 위해 <span style="background-color:#EBEBEB">캐비닛</span>을 선택했다.  
+로보틱 수납 가구의 디자인 요구에서 선택된 인터랙션은 다음과 같다.
+
+01. 물건 <span style="background-color:#EBEBEB">정리</span>: 사용자의 분류 기준에 따라 자동으로 <span style="background-color:#EBEBEB">물건 분류</span>(A)
+02. 물건 <span style="background-color:#EBEBEB">찾기</span>: 물건을 찾기 위한 <span style="background-color:#EBEBEB">음성 인식</span>(C), 물건이 들어있는 수납 가구의 <span style="background-color:#EBEBEB">문이나 서랍이 열림</span>(F)
+<br><br>
+
+설계된 인터랙션 시나리오는 다음과 같다.
+01. 사용자가 "캐비닛"을 호출하고 음성 명령으로 <span style="background-color:#EBEBEB">물건을 넣을 위치</span>를 물으면, 해당 위치의 <span style="background-color:#EBEBEB">문이 열린다</span>.
+02. 사용자가 “캐비닛”을 호출하고 음성 명령으로 <span style="background-color:#EBEBEB">물건이 있는 위치</span>를 물으면, 해당 위치의 <span style="background-color:#EBEBEB">문이 열린다</span>.
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd2.png">
+</p>
+<br><br>
+
+인터랙션을 적용하여 <span style="background-color:#EBEBEB">Wizard of Oz 기법</span><sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup> 실험을 위한 로보틱 캐비닛을 개발하였다.
+<br>
+01. 서보 모터를 이용하여 캐비닛의 문을 열 수 있다.
+02. 적외선 통신을 통해 실험자는 캐비닛의 서보 모터를 제어할 수 있다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd3.png">
+  <br>
+  <font size="2em" color="gray">사용한 소프트웨어: Arduino, SolidWorks</font>
+</p>
+<br><br>
+
+<font size="5em">3) Independent Variables</font>
+<br>
+
+실험 조건은 다음과 같이 총 3가지로 설정하였다.  
+01. 로보틱 캐비닛의 <span style="background-color:#EBEBEB">지능화 정도</span>:
+  - a. <span style="background-color:#EBEBEB">일반</span> 캐비닛
+  - b. 물건 <span style="background-color:#EBEBEB">정리를 돕는</span> 로보틱 캐비닛
+  - c. 물건 <span style="background-color:#EBEBEB">찾기를 돕는</span> 로보틱 캐비닛
+<br><br><br>
+
+<font size="5em">4) Dependent Variables</font>
+<br>
+
+각 실험 조건에 대해서 아래 3가지를 측정하였다.
+측정을 통해, 사용자가 각 조건의 로보틱 캐비닛를 얼마나 <span style="background-color:#EBEBEB">유용</span>하게 생각했는지, 얼마나 <span style="background-color:#EBEBEB">사용이 편리</span>하다고 생각했는지, 얼마나 <span style="background-color:#EBEBEB">지능적인 존재</span>로 인지했는지, 얼마나 제품에 대해 <span style="background-color:#EBEBEB">만족</span>하는지 확인하였다.
+01. <span style="background-color:#EBEBEB">유용성</span>(perceived usefulness)<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>
+02. <span style="background-color:#EBEBEB">사용 편의성</span>(perceived ease of use)<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>
+03. <span style="background-color:#EBEBEB">지능</span>(perceived intelligence)<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>
+04. <span style="background-color:#EBEBEB">제품 평가</span>(product evaluation)<sup id="R04">[<span style="color:gray">4,</span>](#reference_4)</sup><sup id="R05">[<span style="color:gray"> 5</span>](#reference_5)</sup>
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd4.png">
+</p>
+
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd5.png">
+  <br>
+  <font size="2em" color="gray">4가지 측정에 대한 아이템</font>
+</p>
+<br><br>
+
+<font size="5em">5) Recruitment</font>
+<br>
+
+<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>를 위해 <span style="background-color:#EBEBEB">집단내 설계(within design)</span>하였다.
+01. <span style="background-color:#EBEBEB">지능화 정도</span>: within design - 피실험자는 로보틱 캐비닛의 <span style="background-color:#EBEBEB">세 가지</span> 조건을 모두 경험한다. (무작위 순서)
+
+피실험자: 16명 (20~30, 여성 7명, 남성 9명)
+<br><br><br>
+
+<font size="5em">6) Procedure</font>
+<br>
+
+피실험자는 본 실험에 앞서 <span style="background-color:#EBEBEB">20가지 생활용품</span>을 최대 4칸의 로보틱 캐비닛에 <span style="background-color:#EBEBEB">자신의 기준</span>에 맞게 분류한다. 그 기준에 맞춰 로보틱 캐비닛에  물건을 넣고 찾는 본 실험을 진행한다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd6.png">
+  <br>
+  <font size="2em" color="gray">20가지 생활용품에 대해서 피실험자마다 다른 분류 기준을 가지고 있다.</font>
+</p>
+<br><br>
+
+피실험자는 무작위 순서로 로보틱 캐비닛의 3가지 조건을 모두 경험하며, 각 조건마다 <span style="background-color:#EBEBEB">3가지의 물건을 넣고 찾는 행위</span>를 반복한다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd7.png">
+</p>
+<br>
+
+로보틱 캐비닛의 조건은 모든 피실험자에게 <span style="background-color:#EBEBEB">무작위 순서</span>로 배정되어있으며 실험 과정은 다음과 같다.  
+(물건 정리를 돕는 로보틱 캐비닛의 경우)
+01. 피실험자는 20가지 생활용품을 자신의 기준에 맞게 최대 4칸의 캐비닛에 분류한다.  
+[실험자는 피실험자의 기준을 표에 기록한다.]
+02. 실험자는 임의의 물건을 피실험자의 기준에 맞게 정리하도록 요청한다.
+03. 피실험자는 로보틱 캐비닛에게 물건을 어디에 넣어야 하는지 묻는다.  
+[실험자는 피실험자의 기준에 맞게 해당하는 칸의 문을 적외선 통신으로 연다.]
+04. 피실험자는 로보틱 캐비닛의 열린 칸에 물건을 넣는다.
+05. 실험자는 피실험자의 기준에 맞게 물건을 로보틱 캐비닛에 정리하고, 임의의 물건을 찾도록 요청한다.
+06. 피실험자는 물건의 위치를 기억하고 찾는다.
+07. 피실험자는 한 가지 조건을 경험한 후, 해당 조건의 인상 평가를 진행한다.
+08. 나머지 조건에 대해서도 2~7번과 같이 반복한다.
+
+<br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/sd8.png">
+  <br>
+  <font size="2em" color="gray">물건을 분류하고 있는 피실험자</font>
+</p>
+<br><br><br><br><br><br>
+
+<font size="6em">Results</font>
+<br>
+
 <br><br><br><br><br><br>
 
 <font size="6em">Publication</font>
@@ -134,12 +269,17 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 ---
 **References**  
 
-<a name="reference_1"><font size="2em" color="gray">1.</font></a> [<font size="2em"><u>The Effects of Organism- Versus Object-Based Robot Design Approaches on the Consumer Acceptance of Domestic Robots</u></font>](https://link.springer.com/article/10.1007/s12369-016-0388-1)<font size="2em">(2017) by Sonya S. Kwak, Jun San Kim and Jung Ju Choi in International Journal of Social Robotics</font> [↩](#R01)
+<a name="reference_1"><font size="2em" color="gray">1.</font></a> [<font size="2em"><u>The Effects of Organism- Versus Object-Based Robot Design Approaches on the Consumer Acceptance of Domestic Robots</u></font>](https://link.springer.com/article/10.1007/s12369-016-0388-1)<font size="2em"> (2017) by Sonya S. Kwak, Jun San Kim and Jung Ju Choi in International Journal of Social Robotics</font> [↩](#R01)  
+<a name="reference_2"><font size="2em" color="gray">2.</font></a> [<font size="2em"><u>Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Rechnology</u></font>](https://www.jstor.org/stable/249008?seq=1)<font size="2em"> (1989) by Fred D. Davis in MIS Quarterly</font> [↩](#R02)  
+<a name="reference_3"><font size="2em" color="gray">3.</font></a> [<font size="2em"><u>Measurement Instruments for the Anthropomorphism, Animacy, Likeability, Perceived Intelligence, and Perceived Safety of Robots</u></font>](https://link.springer.com/article/10.1007/s12369-008-0001-3)<font size="2em"> (2009) by Christoph Bartneck, Dana Kulić, Elizabeth Croft and Susana Zoghbi in International Journal of Social Robotics</font> [↩](#R03)  
+<a name="reference_4"><font size="2em" color="gray">4.</font></a> [<font size="2em"><u>Adoption of New and Really New Products: The Effects of Self-Regulation Systems and Risk Salience</u></font>](https://doi.org/10.1509%2Fjmkr.44.2.251)<font size="2em"> (2007) by Michal Herzenstein, Steven S. Posavac and J. Joško Brakus in Journal of Marketing Research</font> [↩](#R04)  
+<a name="reference_5"><font size="2em" color="gray">5.</font></a> [<font size="2em"><u>The Role of Imagination-Focused Visualization on New Product Evaluation</u></font>](https://doi.org/10.1509%2Fjmkr.46.1.46)<font size="2em"> (1989) by Min Zhao, Steve Hoeffler and Darren W. Dahl in Journal of Marketing Research</font> [↩](#R05)  
 
 <br>
 
 **Footnotes**  
 
 <a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> [<font size="2em"><u>ROGNAN robotic furniture for small space living</u></font>](https://ikea.today/rognan-robotic-furniture-for-small-space-living/) [↩](#F01)  
+<a name="footnote_2"><font size="2em" color="MediumSeaGreen">2.</font></a> <font size="2em">Wizard of Oz 기법: 개발되지 않은 서비스를 실제 서비스처럼 착각하게 만들어 테스트를 진행하는 방법</font> [↩](#F02)   
 
 <br><br><br>

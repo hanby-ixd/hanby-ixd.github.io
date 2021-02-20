@@ -301,10 +301,13 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 
 <br><br><br><br><br><br>
 
-<font size="6em">Conclusion</font>
+<font size="6em">Limitations and Future Work</font>
 <br>
 
-어쩌구  
+본 연구의 한계점은 다음과 같다.
+01. 다양한 배경을 가진 충분한 수의 피실험자를 모집한다면 실험 결과는 더 일반화 될 수 있다.
+02. 피실험자가 사는 환경에서 사용되는 물건으로 실험을 한다면 로보틱 캐비닛에 대한 피실험자의 자연스러운 인식과 반응을 조사할 수 있다.
+03. 사용자의 성향에 따라 선호하는 캐비닛이 다를 수 있다. 따라서 향후 사용자의 성향을 로봇 수납 가구의 설계 요소와 함께 고려해야한다.
 <br><br><br><br><br><br>
 
 <font size="6em">Publication</font>

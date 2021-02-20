@@ -352,7 +352,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
   <img src="/assets/images/projects/modular_smart_speaker/youtube.png">
   </a>
 </p>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ---  
 **References**  

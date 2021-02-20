@@ -252,7 +252,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 03. **soft-hard축**과 **smooth-rough축**이 **서비스 평가**에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>SH(1,46)</sub> = 5.056, p<sub>SH</sub> < 0.029 / F<sub>SR(1,46)</sub> = 3.987, p<sub>SR</sub> = 0.052)</font>  
 <br>
 
-**주 효과**에서 피실험자의 인식은 다음과 같다.
+**주 효과(main effect)**에서 피실험자의 인식은 다음과 같다.
 01. **거친(rough)** 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 **유용**하다고 인식했다. <font size="2em">M<sub>smooth</sub> = 4.96, SD = 0.13 vs. M<sub>rough</sub> = 5.30, SD = 0.12)</font>  
 02. **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **사교적**이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.24, SD = 0.15 vs. M<sub>hard</sub> = 3.64, SD = 0.14)</font>  
 03. **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **서비스가 좋다**고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.17, SD = 0.12 vs. M<sub>hard</sub> = 4.87, SD = 0.14)</font>  
@@ -270,13 +270,13 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 </p>
 <br>
 
-발화(VC)와 촉각에 대한 각 측정의 **교호 효과**는 다음과 같다.
-01. **유용성**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 13.833, p = 0.001)</font>  
-02. **사교성**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 5.977, p = 0.018)</font>   
-03. **서비스 평가**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 6.811, p = 0.012)</font>   
+발화(VC)와 촉각에 대한 각 측정의 **교호작용 효과(interaction effect)**는 다음과 같다.
+01. **유용성**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 13.833, p = 0.001)</font>  
+02. **사교성**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 5.977, p = 0.018)</font>   
+03. **서비스 평가**에 대한 **발화**와 **soft-hard축** 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 6.811, p = 0.012)</font>   
 <br>
 
-**교호 효과**에서 피실험자의 인식은 다음과 같다.
+**교호작용 효과**에서 피실험자의 인식은 다음과 같다.
 01. 발화가 **존댓말(assistant-like)**일 때, **플라스틱(hard)** 스마트 스피커가 천(soft) 스마트 스피커보다 더 **유용**하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.01, SD = 1.03 vs. M<sub>hard</sub> = 5.24, SD = 0.90, t = 2.302, df = 47, p = 0.026)</font>
 02. 발화가 **반말(companion-like)**일 때, **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **유용**하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.33, SD = 0.99 vs. M<sub>hard</sub> = 4.94, SD = 1.06, t = 2.548, df = 47, p = 0.014)</font>
 03. 발화가 **반말(companion-like)**일 때, **천(soft)** 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 **사교적**이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.51, SD = 1.30 vs. M<sub>hard</sub> = 3.53, SD = 1.08, t = 4.232, df = 47, p = 0.000)</font>
@@ -287,7 +287,7 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 <p align="center">
   <img src="/assets/images/projects/modular_smart_speaker/results4.png">
   <br>
-  <font size="2em" color="gray">분산분석 결과, 유용성 측정에서는 발화 타입에 따라 반대의 교호 효과가 나타났다.</font>
+  <font size="2em" color="gray">분산분석 결과, 유용성 측정에서는 발화 타입에 따라 반대의 교호작용 효과가 나타났다.</font>
 </p>
 <br>
 
@@ -334,6 +334,16 @@ Wizard of Oz 기법<sup id="F06">[<span style="color:MediumSeaGreen">6</span>](#
 
 따라서, 본 연구는 스마트 스피커의 다양한 음성 인자와 외형 요인을 탐구하고, 사용자의 특성에 따라 요구되는 스마트 스피커의 속성 조사를 위한 향후 연구가 필요하다.
 <br><br><br><br><br><br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/0Tf_RTPqyZs">
+  <img src="/assets/images/projects/modular_smart_speaker/youtube.png">
+  </a>
+</p>
+<br><br><br><br>
 
 ---  
 **References**  

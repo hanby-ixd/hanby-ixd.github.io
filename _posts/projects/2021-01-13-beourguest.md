@@ -10,7 +10,7 @@ project:
   title: "Be Our Guest (WIP)"
   subtitle: "로보틱 테이블의 자동 운반 시스템"
   type: "Human-Robot Interaction (HRI)"
-  logo: "/assets/images/projects/be_our_guest/logo.jpg"
+  logo: "/assets/images/projects/be_our_guest/logo.png"
   duration: "2020.10 ~"
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
@@ -23,7 +23,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/be_our_guest/main.jpg"
+    url: "/assets/images/projects/be_our_guest/main.png"
     alt:
 
 ---

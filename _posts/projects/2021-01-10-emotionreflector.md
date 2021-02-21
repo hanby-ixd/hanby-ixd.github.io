@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: projects2
 
 meta:
   keywords: "HCI, Emotion Recognition"

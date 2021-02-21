@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/modular_smart_speaker/logo.png"
   duration: "2020.07 ~ 08 (2개월)"
   ptype: "Human-Agent Interaction 연구 프로젝트"
-  typedetail: "기여도: 90% | KIST AIㆍ로봇연구소 지능로봇연구단"
+  typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
   role: "프로젝트 기획, 문헌 조사, 인터랙션 디자인, 제품 디자인, 프로토타입 개발, 사용자 조사, 데이터 분석"
   supporter1: "Dr. Dahyun Kang (KIST): 문헌 조사, 프로젝트 지도"
   supporter2: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"

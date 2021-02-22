@@ -14,8 +14,8 @@ project:
   duration: "2019.12 ~ 2020.02 (3개월)"
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
-  role: "프로젝트 기획, 제품 디자인, 인터랙션 디자인, 프로토타입 개발, 사용자 조사"
-  supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 인터랙션 디자인, 사용자 조사, 데이터 분석"
+  role: "프로젝트 기획, 제품 디자인, 인터랙션 디자인, 프로토타입 개발, 사용자 조사, 데이터 분석"
+  supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 문헌 조사, 인터랙션 디자인, 사용자 조사, 데이터 분석"
   supporter2: "Dr. Eun Ho Kim (KITECH): 프로젝트 기획, 인터랙션 디자인"
   supporter3: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"
   tools: "SolidWorks, Turtle Bot, Raspberry Pi"
@@ -30,8 +30,75 @@ images:
 ---
 <br>
 <p align="center">
-  <img src="/assets/images/projects/robotic_cabinet/intro.png">
+  <img src="/assets/images/projects/this_or_that/intro.png">
   <br>
-  <font size="2em" color="gray">유기체 지향 로봇인 SoftBank사의 Pepper와 객체 지향 로봇인 iRobot사의 Roomba.</font>
+  <font size="2em" color="gray">포인팅은 언어적, 비언어적 형태로 다양하게 표현될 수 있다.</font>
 </p>
 <br><br>
+
+<font size="6em">Background</font>
+<br>
+
+Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>의 어떤 <span style="background-color:#EBEBEB">포인팅 제스처</span>가 사람들과 효과적으로 의사소통할 수 있게 만들까?"
+<br><br>
+
+우리는 같은 공간에 있는 사람과 대화할 때 주변의 사물, 장소 등이 자주 주제가 되고, <span style="background-color:#EBEBEB">제스처</span>나 <span style="background-color:#EBEBEB">지시어</span>를 사용해 위치 정보를 공유한다.
+로봇은 컴퓨터나 인공지능 스피커와 달리 <span style="background-color:#EBEBEB">언어적 의사소통</span>뿐만 아니라 <span style="background-color:#EBEBEB">비언어적 의사소통</span>을 가능하게 하는 물리적 형태를 가지고 있다.  
+<br>
+하지만, HRI 측면에서 로봇의 포인팅 연구는 아래와 같이 <span style="background-color:#EBEBEB">제한</span>이 있었다.  
+<br><br>
+
+<font size="5em">1) Locative Deixis</font>
+<br>
+
+직시어<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>는 대화에서 자주 사용된다. 특히, <span style="background-color:#EBEBEB">위치격 직시어(예시: 이거, 저거)</span>는 주변에 있는 특정 대상을 청자 또는 독자가 이해할 수 있도록 언어를 사용해서 참조할 때 사용된다. 하지만, 소셜 로봇은 언어적 의사소통에 있어 대부분 <span style="background-color:#EBEBEB">서술적 직시어(예시: 왼쪽에서 두 번째)</span>를 사용한다. 소셜 로봇의 <span style="background-color:#EBEBEB">인간 친화적 상호작용</span>을 위해 위치격 직시어가 필요하다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/bg1.png">
+  <br>
+  <font size="2em" color="gray">사람은 다양한 시체 부위를 사용하여 포인팅 제스처를 취할 수 있다.</font>
+</p>
+<br><br>
+
+<font size="5em">2) Pointing Gesture</font>
+<br>
+
+포인팅 제스처는 유아가 첫 단어를 말하기 전 배우는 의사소통 기술 중 하나다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>. 사람들은 <span style="background-color:#EBEBEB">복잡한 서술을 생략</span>하기 위해 팔, 머리, 눈, 입술, 코와 같은 <span style="background-color:#EBEBEB">다양한 신체 부위</span>를 사용하여 포인팅 제스처를 취한다<sup id="R02">[<span style="color:gray">2</span>](#reference_2)</sup>. 하지만, 대부분의 로봇 포인팅 제스처에 대한 연구는 <span style="background-color:#EBEBEB">손가락</span>으로 가리키는 것으로 제한되었다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/bg2.png">
+  <br>
+  <font size="2em" color="gray">사람은 다양한 시체 부위를 사용하여 포인팅 제스처를 취할 수 있다.</font>
+</p>
+<br><br>
+
+<font size="5em">3) Head Pointing</font>
+<br>
+
+사람은 <span style="background-color:#EBEBEB">머리</span>를 움직여서 특정 대상을 가리키기도 한다. HRI 연구에 따르면 로봇이 머리를 움직여서 가리키는 것은 인간의 행동과 <span style="background-color:#EBEBEB">비슷한 효과</span>를 나타낸다<sup id="R03">[<span style="color:gray">3</span>](#reference_3)</sup>. 사람은 <span style="background-color:#EBEBEB">시선</span>과 <span style="background-color:#EBEBEB">돌출된 코</span>를 통해 포인팅 제스처를 취할 수 있는 반면에, 소셜 로봇의 머리는 대부분 평면 디스플레이를 사용하기 때문에 정확한 포인팅이 가능한지 알 수 없다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/bg3.png">
+  <br>
+  <font size="2em" color="gray">사람은 시선과 돌출된 코를 통해 포인팅 제스처를 쉽게 취할 수 있다.</font>
+</p>
+<br><br><br><br><br><br>
+
+<font size="6em">Goal</font>
+<br>
+
+---
+**References**  
+<a name="reference_1"><font size="2em" color="gray">1.</font></a> [<font size="2em"><u>Pointing: Where Language, Culture, and Cognition Meet</u></font>](https://books.google.co.kr/books?hl=ko&lr=&id=JlN4AgAAQBAJ&oi=fnd&pg=PP1&dq=Pointing:+Where+Language,+Culture,+and+Cognition+Meet&ots=pP_hGHknJb&sig=fk5eCywXFbZW79pPA4QPUP5An-Q#v=onepage&q=Pointing%3A%20Where%20Language%2C%20Culture%2C%20and%20Cognition%20Meet&f=false)<font size="2em"> (2003) by Sotaro Kita</font> [↩](#R01)  
+<a name="reference_2"><font size="2em" color="gray">2.</font></a> [<font size="2em"><u>The Role of Gesture in Communication and Thinking</u></font>](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=51D1CBC4966CC0EDAAF34593B83E30F3?doi=10.1.1.462.5492&rep=rep1&type=pdf)<font size="2em"> (1999) by Susan Goldin-Meadow in Trends in Cognitive Sciences</font> [↩](#R02)  
+<a name="reference_3"><font size="2em" color="gray">3.</font></a> [<font size="2em"><u>We Are Not Contortionists: Coupled Adaptive Learning for Head and Body Orientation Estimation in Surveillance Video</u></font>](https://ieeexplore.ieee.org/document/6247845)<font size="2em"> (2012) by Cheng Chen and Jean-Marc Odobez in IEEE Conference on Computer Vision and Pattern Recognition</font> [↩](#R03)  
+
+<br>
+
+**Footnotes**  
+<a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> [<font size="2em">문맥상 단어가 사용된 맥락, 시간, 공간, 청자와 화자 따위의 발화 상황을 고려해야만 의미 파악이 되는 지시 표현. (예시: '나', '너'와 같은 인칭 대명사나 '이곳', '여기', '저기' 같은 지시어) <u>[출처: 네이버 국어사전]</u></font>](https://ko.dict.naver.com/#/entry/koko/2416902403024234bfed8ca7887a3441) [↩](#F01)  
+
+<br><br><br>

@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: UXUI
 
 meta:
   keywords: "HCI, Application, UI, UX"

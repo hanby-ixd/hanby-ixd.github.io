@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: main
 
 meta:
   keywords: "HAI, VUI, Tactility"

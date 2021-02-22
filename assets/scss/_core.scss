@@ -22,8 +22,8 @@ h1,
 }
 
 h2,
-.h2 {	
-	color: $color-silver-chalice;
+.h2 {
+	color: $color-black;
 	display: block;
 	font-family: $font-lekton;
     font-size: 1rem;
@@ -44,6 +44,19 @@ h3,
     margin: 0;
 }
 
+h4,
+.h4 {
+	color: $color-black;
+	display: block;
+	font-family: $font-lekton;
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: .2rem;
+    line-height: 1;
+    margin: 0 0 1rem;
+    text-transform: uppercase;
+}
+
 p {
 	margin: 0;
 }
@@ -56,7 +69,7 @@ a {
 ul {
 	margin: 0;
 	padding: 0;
-	list-style-type: none;	
+	list-style-type: none;
 }
 
 img {
@@ -86,7 +99,7 @@ code {
 	border: 1px solid $color-silver-chalice;
 	border-radius: 3px;
 	font-family: $font-lekton;
-	font-size: 1.5rem;	
+	font-size: 1.5rem;
 	padding: .1rem .4rem;
 
 	var {
@@ -99,7 +112,7 @@ dl {
 
 	dt,
 	dd {
-		font-family: $font-lekton;		
+		font-family: $font-lekton;
 	}
 
 	dt {
@@ -113,9 +126,9 @@ dl {
 
 .responsive-table {
 	margin-bottom: 3rem;
-	
+
 	@media (max-width: $breakpoint-xsmall) {
-		display: block;	
+		display: block;
 		overflow-x: scroll;
 		max-width: $breakpoint-xsmall;
 
@@ -127,7 +140,7 @@ dl {
 }
 
 table {
-	border-collapse: collapse;	
+	border-collapse: collapse;
 	width: 100%;
 
 	thead {
@@ -137,7 +150,7 @@ table {
 		}
 	}
 
-	tbody > tr:nth-child(odd) > td, 
+	tbody > tr:nth-child(odd) > td,
 	tbody > tr:nth-child(odd) > th {
 		background: $color-white-sand;
 	}

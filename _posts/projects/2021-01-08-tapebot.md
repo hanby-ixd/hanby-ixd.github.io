@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: HRI
 
 meta:
   keywords: "HRI, Social Robot"

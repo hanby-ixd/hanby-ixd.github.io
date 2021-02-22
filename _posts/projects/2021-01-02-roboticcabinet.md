@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: main
 
 meta:
   keywords: "HRI, Robotic Furniture"
@@ -29,7 +29,6 @@ images:
 ---
 ---
 <br>
-<!-- ![background](/assets/images/projects/modular_smart_speaker/bg.png) -->
 <p align="center">
   <img src="/assets/images/projects/robotic_cabinet/intro.png">
   <br>

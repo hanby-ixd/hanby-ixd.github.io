@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: main
 
 meta:
   keywords: "HRI, Social Robot"
@@ -29,3 +29,9 @@ images:
 ---
 ---
 <br>
+<p align="center">
+  <img src="/assets/images/projects/robotic_cabinet/intro.png">
+  <br>
+  <font size="2em" color="gray">유기체 지향 로봇인 SoftBank사의 Pepper와 객체 지향 로봇인 iRobot사의 Roomba.</font>
+</p>
+<br><br>

@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects2
+category: HCI
 
 meta:
   keywords: "HCI, emotion"

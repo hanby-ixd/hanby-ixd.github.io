@@ -19,16 +19,16 @@
 	<main class="content">
 		<section class="intro">
 			<div class="container">
-				<h2>About me.</h2>
+				<h4>About me.</h4>
 				<p style="font-size:70px">&#128105;&#127995;&#8205;&#127912; &#128105;&#127995;&#8205;&#128300; &#128105;&#127995;&#8205;&#128187; </p>
 				<p>{{ site.description }}</p>
 			</div>
 		</section>
 		<section class="projects">
 			<div class="container">
-				<h2>Projects I have worked on.</h2>
+				<h4>My <b>research</b> projects:</h4>
 				<ul class="projects-list">
-					{% for item in site.categories.projects reversed %}
+					{% for item in site.categories.main reversed %}
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
@@ -39,11 +39,63 @@
 							</a>
 						</li>
 					{% endfor %}
-
+				</ul>
+				<br>
+				<ul class="projects-list">
 				<details>
-					<summary><font style="cursor:pointer" size="5em">More projects ...</font><p style="cursor:pointer; font-size:70px;">&#128451;</p></summary>
-
-					{% for item in site.categories.projects2 reversed %}
+					<summary><h4 style="cursor:pointer; display:inline">More <b>HRI</b> Projects...</h4><p style="cursor:pointer; font-size:70px; ">&#129302;</p></summary>
+					{% for item in site.categories.HRI reversed %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.project.type }}</span>
+								<h3>{{ item.project.title }}</h3>
+							</a>
+						</li>
+					{% endfor %}
+				</details>
+				</ul>
+				<br>
+				<ul class="projects-list">
+				<details>
+					<summary><h4 style="cursor:pointer; display:inline">More <b>HCI</b> Projects...</h4><p style="cursor:pointer; font-size:70px;">&#128421;</p></summary>
+					{% for item in site.categories.HCI reversed %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.project.type }}</span>
+								<h3>{{ item.project.title }}</h3>
+							</a>
+						</li>
+					{% endfor %}
+				</details>
+				</ul>
+				<br>
+				<ul class="projects-list">
+				<details>
+					<summary><h4 style="cursor:pointer; display:inline">More <b>UX/UI</b> Projects...</h4><p style="cursor:pointer; font-size:70px;">&#128241;</p></summary>
+					{% for item in site.categories.UXUI reversed %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.project.type }}</span>
+								<h3>{{ item.project.title }}</h3>
+							</a>
+						</li>
+					{% endfor %}
+				</details>
+				</ul>
+				<br>
+				<ul class="projects-list">
+				<details>
+					<summary><h4 style="cursor:pointer; display:inline">Other Projects...</h4><p style="cursor:pointer; font-size:70px;">&#128451;</p></summary>
+					{% for item in site.categories.SW reversed %}
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">

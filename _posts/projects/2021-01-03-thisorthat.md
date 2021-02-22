@@ -39,7 +39,7 @@ images:
 <font size="6em">Background</font>
 <br>
 
-Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>의 어떤 <span style="background-color:#EBEBEB">포인팅 제스처</span>가 사람들과 효과적으로 의사소통할 수 있게 만들까?"
+Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은 <span style="background-color:#EBEBEB">포인팅</span>을 통해 어떻게 사람들과 효과적으로 의사소통할 수 있을까?"
 <br><br>
 
 우리는 같은 공간에 있는 사람과 대화할 때 주변의 사물, 장소 등이 자주 주제가 되고, <span style="background-color:#EBEBEB">제스처</span>나 <span style="background-color:#EBEBEB">지시어</span>를 사용해 위치 정보를 공유한다.
@@ -88,6 +88,21 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>의
 <br><br><br><br><br><br>
 
 <font size="6em">Goal</font>
+<br>
+
+<font size="5em">1) Research Question</font>
+<br>
+
+"소셜 로봇의 <span style="background-color:#EBEBEB">언어적, 비언어적 포인팅 표현</span>은 어떻게 디자인될 수 있으며, 가장 효과적인 <span style="background-color:#EBEBEB">인터랙션</span>은 무엇인가?"  
+<br><br>
+
+<font size="5em">2) Research Design</font>
+<br>
+
+소셜 로봇의 포인팅 관련 <span style="background-color:#EBEBEB">발화 및 제스처</span>를 다양한 조건으로 프로토타이핑한 후, 상황에 따라 로봇의 표현에 대한 사용자의 인식을 조사한다.  
+<br><br><br><br><br><br>
+
+<font size="6em">Study Design</font>
 <br>
 
 ---

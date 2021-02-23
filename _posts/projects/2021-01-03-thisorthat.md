@@ -314,7 +314,17 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
   <br>
   <font size="2em" color="gray">각 측정에 대한 신뢰도 분석 후 크론바 알파 값</font>
 </p>
-<br><br>
+<br>
+
+각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과(main effect)</span>는 다음과 같다.
+01. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">효율성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 94.242, <i>p</i> < 0.0005)</font>   
+02. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">효율성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 53.908, <i>p</i> < 0.0005)</font>   
+<br>
+
+<span style="background-color:#EBEBEB">주 효과</span>에서 피실험자의 인식은 다음과 같다.
+01. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">효율적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 4.29, <i>SD</i> = 0.17 vs. <i>M</i><sub>descriptive</sub> = 5.63, <i>SD</i> = 0.12)</font>  
+02. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">효율적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 5.43, <i>SD</i> = 0.15 vs. <i>M</i><sub>withoutnose</sub> = 4.48, <i>SD</i> = 0.14)</font>  
+<br>
 
 <br><br><br><br><br><br>
 

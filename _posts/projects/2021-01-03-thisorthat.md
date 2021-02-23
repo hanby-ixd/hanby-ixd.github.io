@@ -143,7 +143,19 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 01. <span style="background-color:#EBEBEB">효율성</span>(perceived effectiveness)<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>
 02. <span style="background-color:#EBEBEB">사교성</span>(perceived sociability)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>
 03. <span style="background-color:#EBEBEB">자연스러움</span>(perceived naturalness)<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>
-04. <span style="background-color:#EBEBEB">제품 평가</span>(product evaluation)<sup id="R07">[<span style="color:gray">7,</span>](#reference_7)</sup><sup id="R08">[<span style="color:gray"> 8</span>](#reference_8)</sup>
+04. <span style="background-color:#EBEBEB">제품 평가</span>(product evaluation)<sup id="R07">[<span style="color:gray">7,</span>](#reference_7)</sup><sup id="R08">[<span style="color:gray"> 8</span>](#reference_8)</sup>  
+<br><br>
+
+<font size="5em">3) Prototype Development</font>
+<br>
+
+<span style="background-color:#EBEBEB">Wizard of Oz 기법</span><sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup> 실험을 위한 로봇을 디자인하고 개발하였다.  
+
+01. 로봇 프로토타입은 ROS 기반 모바일 로봇인 TurtleBot3<sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup>를 기반으로 방향을 변경하면서 이동할 수 있다.
+02. 블루투스 통신으로 로봇의 언어 타입을 제어할 수 있다.
+03. Raspberry Pi와 연결된 모니터를 통해 로봇의 시선을 제어할 수 있다.
+04. 로봇의 움직임은 블루투스 통신을 통해 조이스틱 컨트롤러를 통해 수동으로 제어된다.  
+<br><br>
 
 
 ---
@@ -162,5 +174,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 
 **Footnotes**  
 <a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> [<font size="2em">문맥상 단어가 사용된 맥락, 시간, 공간, 청자와 화자 따위의 발화 상황을 고려해야만 의미 파악이 되는 지시 표현. (예시: '나', '너'와 같은 인칭 대명사나 '이곳', '여기', '저기' 같은 지시어) <u>[출처: 네이버 국어사전]</u></font>](https://ko.dict.naver.com/#/entry/koko/2416902403024234bfed8ca7887a3441) [↩](#F01)  
+<a name="footnote_2"><font size="2em" color="MediumSeaGreen">2.</font></a> <font size="2em">Wizard of Oz 기법: 개발되지 않은 서비스를 실제 서비스처럼 착각하게 만들어 테스트를 진행하는 방법</font> [↩](#F02)   
+<a name="footnote_3"><font size="2em" color="MediumSeaGreen">3.</font></a> [<font size="2em"><u>ROBOTIS TurtleBot3</u></font>](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) [↩](#F03)   
 
 <br><br><br>

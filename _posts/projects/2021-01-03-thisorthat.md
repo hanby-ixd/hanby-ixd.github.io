@@ -439,7 +439,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <p align="center">
   <img src="/assets/images/projects/this_or_that/conclusion.png">
   <br>
-  <font size="2em" color="gray">사용자와 로봇이 같이 바라보는 경우와 마주보는 경우</font>
+  <font size="2em" color="gray">사용자와 로봇이 기준점이 같은 경우와 다른 경우</font>
 </p>
 <br><br>
 

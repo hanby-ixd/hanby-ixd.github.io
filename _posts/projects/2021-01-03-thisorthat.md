@@ -297,11 +297,13 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 </p>
 <br><br>
 
-로봇이 포인팅 한 자리에 피실험자가 앉은 확률을 아래 표와 같이 정리하였다.  
+<span style="background-color:#EBEBEB">위치 정보 인식의 정확성</span>은 다음과 같다. (피실험자가 안내 로봇이 의도한 자리에 앉은 확률)  
 <br>
 
 <p align="center">
   <img src="/assets/images/projects/this_or_that/results5.png">
+  <br>
+  <font size="2em" color="gray">자리 안내 상황에서의 정확성</font>
 </p>  
 <br><br>
 
@@ -366,17 +368,51 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <br>
 
 <span style="background-color:#EBEBEB">교호작용 효과</span>에서 피실험자의 인식은 다음과 같다.
-01. 로봇의 언어 유형이 <span style="background-color:#EBEBEB">지시적</span>일 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.58, <i>SD</i> = 1.03 vs. <i>M</i><sub>withoutnose</sub> = 4.08, <i>SD</i> = 1.05, <i>t</i> = 3.500, df = 47, <i>p</i> = 0.001)</font>  
-02. 로봇의 <span style="background-color:#EBEBEB">눈이 있을</span> 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.61, <i>SD</i> = 1.35 vs. <i>M</i><sub>withoutnose</sub> = 3.73, <i>SD</i> = 1.41, <i>t</i> = 5.770, df = 47, <i>p</i> = 0.001)</font>  
-03. 로봇의 <span style="background-color:#EBEBEB">눈이 없을</span> 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.75, <i>SD</i> = 1.12 vs. <i>M</i><sub>withoutnose</sub> = 4.26, <i>SD</i> = 1.12, <i>t</i> = 3.264, df = 47, <i>p</i> = 0.004)</font>  
-04. 로봇의 <span style="background-color:#EBEBEB">눈이 있을</span> 때, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>deictic</sub> = 4.31, <i>SD</i> = 1.25 vs. <i>M</i><sub>descriptive</sub> = 5.20, <i>SD</i> = 1.04, <i>t</i> = 5.895, df = 47, <i>p</i> = 0.0005)</font>  
-05. 로봇의 <span style="background-color:#EBEBEB">눈이 없을</span> 때, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>deictic</sub> = 4.57, <i>SD</i> = 0.96 vs. <i>M</i><sub>descriptive</sub> = 5.08, <i>SD</i> = 0.86, <i>t</i> = 5.002, df = 47, <i>p</i> = 0.0005)</font>  
+01. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 로봇의 언어 유형이 <span style="background-color:#EBEBEB">지시적</span>일 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.58, <i>SD</i> = 1.03 vs. <i>M</i><sub>withoutnose</sub> = 4.08, <i>SD</i> = 1.05, <i>t</i> = 3.500, df = 47, <i>p</i> = 0.001)</font>  
+02. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 로봇의 <span style="background-color:#EBEBEB">눈이 있을</span> 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.61, <i>SD</i> = 1.35 vs. <i>M</i><sub>withoutnose</sub> = 3.73, <i>SD</i> = 1.41, <i>t</i> = 5.770, df = 47, <i>p</i> = 0.001)</font>  
+03. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 로봇의 <span style="background-color:#EBEBEB">눈이 없을</span> 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.75, <i>SD</i> = 1.12 vs. <i>M</i><sub>withoutnose</sub> = 4.26, <i>SD</i> = 1.12, <i>t</i> = 3.264, df = 47, <i>p</i> = 0.004)</font>  
+04. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 로봇의 <span style="background-color:#EBEBEB">눈이 있을</span> 때, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>deictic</sub> = 4.31, <i>SD</i> = 1.25 vs. <i>M</i><sub>descriptive</sub> = 5.20, <i>SD</i> = 1.04, <i>t</i> = 5.895, df = 47, <i>p</i> = 0.0005)</font>  
+05. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 로봇의 <span style="background-color:#EBEBEB">눈이 없을</span> 때, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>deictic</sub> = 4.57, <i>SD</i> = 0.96 vs. <i>M</i><sub>descriptive</sub> = 5.08, <i>SD</i> = 0.86, <i>t</i> = 5.002, df = 47, <i>p</i> = 0.0005)</font>  
 <br>
 
 <p align="center">
   <img src="/assets/images/projects/this_or_that/results8.png">
   <br>
   <font size="2em" color="gray">전시 안내 상황에서의 유의한 교호작용 효과</font>
+</p>
+<br><br>
+
+<span style="background-color:#EBEBEB">위치 정보 인식의 정확성</span>의 유의한 <span style="background-color:#EBEBEB">주 효과(main effect)</span>는 다음과 같다. (피실험자가 안내 로봇이 설명한 로봇의 순서를 맞출 확률)  
+01. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">정확성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 8.452, <i>p</i> = 0.006)</font>  
+02. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">정확성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 4.699, <i>p</i> = 0.035)</font>  
+03. <span style="background-color:#EBEBEB">시선</span>이 <span style="background-color:#EBEBEB">정확성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 7.614, <i>p</i> = 0.008)</font>  
+<br>
+
+<span style="background-color:#EBEBEB">위치 정보 인식의 정확성</span>의 <span style="background-color:#EBEBEB">주 효과</span>에서 피실험자의 인식은 다음과 같다.
+01. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 지시적인 발화를 하는 로봇보다 <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇을 통해 피실험자가 전시된 로봇의 위치를 더 <span style="background-color:#EBEBEB">정확하게</span> 인식할 수 있었다. <font size="2em"><i>M</i><sub>deictic</sub> = 9.58, <i>SD</i> = 0.11 vs. <i>M</i><sub>descriptive</sub> = 9.91, <i>SD</i> = 0.04)</font>  
+02. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 코가 없는 로봇보다 <span style="background-color:#EBEBEB">코가 있는</span> 로봇을 통해 피실험자가 전시된 로봇의 위치를 더 <span style="background-color:#EBEBEB">정확하게</span> 인식할 수 있었다. <font size="2em"><i>M</i><sub>withnose</sub> = 9.88, <i>SD</i> = 0.06 vs. <i>M</i><sub>withoutnose</sub> = 9.62, <i>SD</i> = 0.11)</font>  
+03. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 눈이 있는 로봇보다 <span style="background-color:#EBEBEB">눈이 없는</span> 로봇을 통해 피실험자가 전시된 로봇의 위치를 더 <span style="background-color:#EBEBEB">정확하게</span> 인식할 수 있었다. <font size="2em"><i>M</i><sub>witheyes</sub> = 9.58, <i>SD</i> = 0.08 vs. <i>M</i><sub>withouteyes</sub> = 9.91, <i>SD</i> = 0.08)</font>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results9.png">
+  <br>
+  <font size="2em" color="gray">전시 안내 상황에서 위치 정보 인식의 정확성의 유의한 주 효과</font>
+</p>
+<br><br>
+
+<span style="background-color:#EBEBEB">위치 정보 인식의 정확성</span>의 유의한 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
+01. <span style="background-color:#EBEBEB">정확성</span>에 대한 <span style="background-color:#EBEBEB">언어 유형</span>과 <span style="background-color:#EBEBEB">코 포인팅</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 5.914, <i>p</i> = 0.019)</font>  
+<br>
+
+<span style="background-color:#EBEBEB">위치 정보 인식의 정확성</span>의 <span style="background-color:#EBEBEB">교호작용 효과</span>에서 피실험자의 인식은 다음과 같다.
+01. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, 로봇의 언어 유형이 <span style="background-color:#EBEBEB">지시적</span>일 때, 코가 없는 로봇보다 <span style="background-color:#EBEBEB">코가 있는</span> 로봇을 통해 피실험자가 전시된 로봇의 위치를 더 <span style="background-color:#EBEBEB">정확하게</span> 인식할 수 있었다. <font size="2em">(<i>M</i><sub>withnose</sub> = 9.85, <i>SD</i> = 0.62 vs. <i>M</i><sub>withoutnose</sub> = 9.31, <i>SD</i> = 1.45, <i>t</i> = 2.349, df = 47, <i>p</i> = 0.023)</font>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results10.png">
+  <br>
+  <font size="2em" color="gray">전시 안내 상황에서 위치 정보 인식의 정확성의 유의한 교호작용 효과</font>
 </p>
 <br><br><br><br><br><br>
 

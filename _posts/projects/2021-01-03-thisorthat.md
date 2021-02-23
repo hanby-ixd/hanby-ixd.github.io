@@ -432,8 +432,15 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 
 본 연구는 다음과 같은 영향을 줄 수 있다.  
 01. 인간의 <span style="background-color:#EBEBEB">사회적 상호작용</span> 연구에 기여할 수 있다.  인간 연구에서는 코를 탈부착할 수 없지만, 인공물인 로봇에서는 코의 영향에 관한 연구가 가능하다.  
-02. <span style="background-color:#EBEBEB">로봇의 발화 스타일</span> 디자인 연구에 기여할 수 있다.  서술적 언어 유형에서는 사용자와 기준점을 일치시켜야 하며, 마주봐야하는 경우에는 지시적 언어 유형으로 제공되어야 한다.  
+02. <span style="background-color:#EBEBEB">로봇의 발화 스타일</span> 디자인 연구에 기여할 수 있다.  서술적 언어 유형에서는 사용자와 기준점을 일치시켜야 하며, 마주봐야 하는 경우에는 지시적 언어 유형으로 제공되어야 한다.  
 03. <span style="background-color:#EBEBEB">로봇의 디자인 개선</span>에 기여할 수 있다.  로봇이 제공한 정보가 사용자에게 치명적인 영향을 미치지 않는 경우, 사용자가 더 선호하는 서술적 언어 유형으로 제공하도록 디자인되어야 한다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/conclusion.png">
+  <br>
+  <font size="2em" color="gray">사용자와 로봇이 같이 바라보는 경우와 마주보는 경우</font>
+</p>
 <br><br>
 
 <font size="5em">3) Limitation</font>

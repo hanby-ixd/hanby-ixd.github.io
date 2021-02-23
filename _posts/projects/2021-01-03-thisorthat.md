@@ -295,6 +295,14 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 </p>
 <br><br>
 
+로봇이 포인팅 한 자리에 피실험자가 앉은 확률을 아래 표와 같이 정리하였다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results5.png">
+</p>  
+<br><br>
+
 <font size="5em">2) Exhibition Guide</font>
 <br>
 

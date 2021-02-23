@@ -416,6 +416,33 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 </p>
 <br><br><br><br><br><br>
 
+<font size="6em">Conclusion</font>
+<br>
+
+<font size="5em">1) Interpretation of Results</font>
+<br>
+
+결과에 대한 해석은 다음과 같다.  
+01. 사람들은 명령문과 평서문 포인팅 상황에 상관없이 <span style="background-color:#EBEBEB">서술적</span> 언어 유형과 <span style="background-color:#EBEBEB">코 포인팅</span>을 사용하여 위치 정보를 제공하는 것을 전반적으로 선호하였다.  
+02. <span style="background-color:#EBEBEB">위치 정보 인식의 정확성</span>은 <span style="background-color:#EBEBEB">언어 유형</span>이 중요하다. 자리 안내 상황에서는 피실험자와 로봇이 <span style="background-color:#EBEBEB">마주보고</span> 있었기 때문에 <span style="background-color:#EBEBEB">왼쪽과 오른쪽을 반대로</span> 생각하는 사람들이 존재했다.  
+<br><br>
+
+<font size="5em">2) Design Implications</font>
+<br>
+
+본 연구는 다음과 같은 영향을 줄 수 있다.  
+01. 인간의 <span style="background-color:#EBEBEB">사회적 상호작용</span> 연구에 기여할 수 있다.  인간 연구에서는 코를 탈부착할 수 없지만, 인공물인 로봇에서는 코의 영향에 관한 연구가 가능하다.  
+02. <span style="background-color:#EBEBEB">로봇의 발화 스타일</span> 디자인 연구에 기여할 수 있다.  서술적 언어 유형에서는 사용자와 기준점을 일치시켜야 하며, 마주봐야하는 경우에는 지시적 언어 유형으로 제공되어야 한다.  
+03. <span style="background-color:#EBEBEB">로봇의 디자인 개선</span>에 기여할 수 있다.  로봇이 제공한 정보가 사용자에게 치명적인 영향을 미치지 않는 경우, 사용자가 더 선호하는 서술적 언어 유형으로 제공하도록 디자인되어야 한다.  
+<br><br>
+
+<font size="5em">3) Limitation</font>
+<br>
+
+본 연구의 한계점은 다음과 같다.
+01. 본 연구는 단일 환경을 설정했지만, 사용자와 로봇 사이의 거리를 고려하여 보다 다양하고 자연스러운 실험 환경에서 연구를 수행할 수 있다.  
+02. 본 연구는 위치 정보 인식의 정확성을 측정했지만, 사용자가 위치를 인식하는데 걸린 시간을 측정해서 각 조건의 유효성을 알아볼 수 있다.  
+<br><br><br><br><br><br>
 
 <font size="6em">Publication</font>
 <br>

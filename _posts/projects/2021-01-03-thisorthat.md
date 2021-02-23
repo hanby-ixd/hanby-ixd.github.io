@@ -137,7 +137,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 
 <font size="5em">2) Dependent Variables</font>
 <br>
-각 실험 조건에 대해서 아래 3가지를 측정하였다.
+각 실험 조건에 대해서 공통적으로 아래 4가지를 측정하였다.
 측정을 통해, 사용자가 각 로봇의 표현 방식에 따라 사용자에게 위치 정보를 얼마나 <span style="background-color:#EBEBEB">효과적</span>으로, <span style="background-color:#EBEBEB">사회적</span>으로, <span style="background-color:#EBEBEB">자연스럽게</span> 제공하는지 확인하였다. 또한, 로봇에 대한 <span style="background-color:#EBEBEB">전반적인 인상</span>을 알아보기위해 제품 평가를 조사하였다.
 
 01. <span style="background-color:#EBEBEB">효율성</span>(perceived effectiveness)<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>
@@ -146,10 +146,19 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 04. <span style="background-color:#EBEBEB">제품 평가</span>(product evaluation)<sup id="R07">[<span style="color:gray">7,</span>](#reference_7)</sup><sup id="R08">[<span style="color:gray"> 8</span>](#reference_8)</sup>  
 <br>
 
+전시 안내 상황에서는 아래 2가지를 추가적으로 측정하였다.
+01. <span style="background-color:#EBEBEB">역량</span>(perceived competency)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>
+02. <span style="background-color:#EBEBEB">신뢰성</span>(perceived trustworthiness)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>  
+<br>
+
 <p align="center">
   <img src="/assets/images/projects/this_or_that/dv.png">
+</p>
+<br>
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/dv2.png">
   <br>
-  <font size="2em" color="gray">4가지 측정에 대한 아이템</font>
+  <font size="2em" color="gray">4가지 공통 측정과 2가지 추가 측정에 대한 아이템</font>
 </p>
 <br><br>
 

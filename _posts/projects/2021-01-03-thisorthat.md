@@ -99,17 +99,43 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <font size="5em">2) Research Design</font>
 <br>
 
-소셜 로봇의 포인팅 관련 <span style="background-color:#EBEBEB">발화 및 제스처</span>를 다양한 조건으로 프로토타이핑한 후, 상황에 따라 로봇의 표현에 대한 사용자의 인식을 조사한다.  
+소셜 로봇의 포인팅 관련 <span style="background-color:#EBEBEB">발화</span> 및 <span style="background-color:#EBEBEB">제스처</span>를 다양한 조건으로 프로토타이핑한 후, <span style="background-color:#EBEBEB">상황</span>에 따라 로봇의 표현에 대한 사용자의 인식을 조사한다.  
 <br><br><br><br><br><br>
 
 <font size="6em">Study Design</font>
 <br>
 
+로봇은 사용자에게 <span style="background-color:#EBEBEB">언어</span>뿐만 아니라 <span style="background-color:#EBEBEB">포인팅 제스처</span>를 통해 물체의 위치를 알릴 수 있다. 또한, 포인팅 제스처는 <span style="background-color:#EBEBEB">시선(eye pointing)</span> 확장이다<sup id="R04">[<span style="color:gray">4</span>](#reference_4)</sup>. 즉, 시선은 포인팅 제스처의 기본이다.  
+<br><br>
+
+<font size="5em">1) Independent Variables</font>
+<br>
+
+실험 조건은 다음과 같이 총 8가지로 설정하였다.
+
+01. <span style="background-color:#EBEBEB">언어 유형</span>:
+  - a. 지시적(deictic)
+  - b. 서술적(descriptive)  
+<br>
+
+02. <span style="background-color:#EBEBEB">코 포인팅</span>:
+  - a. 코가 있는(with nose)
+  - b. 코가 없는(without nose)  
+<br>
+
+03. <span style="background-color:#EBEBEB">시선</span>:
+  - a. 눈이 있는(with eyes)
+  - b. 눈이 없는(without eyes)  
+<br>
+
+
 ---
+
 **References**  
 <a name="reference_1"><font size="2em" color="gray">1.</font></a> [<font size="2em"><u>Pointing: Where Language, Culture, and Cognition Meet</u></font>](https://books.google.co.kr/books?hl=ko&lr=&id=JlN4AgAAQBAJ&oi=fnd&pg=PP1&dq=Pointing:+Where+Language,+Culture,+and+Cognition+Meet&ots=pP_hGHknJb&sig=fk5eCywXFbZW79pPA4QPUP5An-Q#v=onepage&q=Pointing%3A%20Where%20Language%2C%20Culture%2C%20and%20Cognition%20Meet&f=false)<font size="2em"> (2003) by Sotaro Kita</font> [↩](#R01)  
 <a name="reference_2"><font size="2em" color="gray">2.</font></a> [<font size="2em"><u>The Role of Gesture in Communication and Thinking</u></font>](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=51D1CBC4966CC0EDAAF34593B83E30F3?doi=10.1.1.462.5492&rep=rep1&type=pdf)<font size="2em"> (1999) by Susan Goldin-Meadow in Trends in Cognitive Sciences</font> [↩](#R02)  
 <a name="reference_3"><font size="2em" color="gray">3.</font></a> [<font size="2em"><u>We Are Not Contortionists: Coupled Adaptive Learning for Head and Body Orientation Estimation in Surveillance Video</u></font>](https://ieeexplore.ieee.org/document/6247845)<font size="2em"> (2012) by Cheng Chen and Jean-Marc Odobez in IEEE Conference on Computer Vision and Pattern Recognition</font> [↩](#R03)  
+<a name="reference_4"><font size="2em" color="gray">4.</font></a> [<font size="2em"><u>Becoming Human: From Pointing Gestures to Syntax</u></font>](https://books.google.co.kr/books?hl=ko&lr=&id=jK5nk7iDgSYC&oi=fnd&pg=PT1&dq=Becoming+Human:+From+Pointing+Gestures+to+Syntax&ots=DpGBCF5PdV&sig=_Q7GH-Ar1iBDJupb8caNUO2sg98#v=onepage&q=Becoming%20Human%3A%20From%20Pointing%20Gestures%20to%20Syntax&f=false)<font size="2em"> (2011) by Teresa Bejarano</font> [↩](#R04)  
 
 <br>
 

@@ -155,6 +155,13 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 02. 블루투스 통신으로 로봇의 언어 타입을 제어할 수 있다.
 03. Raspberry Pi와 연결된 모니터를 통해 로봇의 시선을 제어할 수 있다.
 04. 로봇의 움직임은 블루투스 통신을 통해 조이스틱 컨트롤러를 통해 수동으로 제어된다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/sd2.png">
+  <br>
+  <font size="2em" color="gray">사용한 소프트웨어: Solidworks, Raspberry Pi, Processing</font>
+</p>
 <br><br>
 
 

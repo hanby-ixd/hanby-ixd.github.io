@@ -230,7 +230,24 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <font size="5em">2) Exhibition Guide</font>
 <br>
 
-로봇은 전시된 5개의 로봇을 하나씩 포인팅 하면서 설명하고, 피실험자는 메모지에 지시한 순서대로 작성한다.  
+피실험자는 안내 로봇을 통해 <span style="background-color:#EBEBEB">로봇 쇼룸에 전시된 로봇에 대한 설명</span>을 듣는다. 안내 로봇은 전시된 5개의 로봇을 하나씩 포인팅 하면서 설명하고, 피실험자는 메모지에 안내 로봇이 <span style="background-color:#EBEBEB">포인팅 한 순서대로 메모</span>한다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/eg1.png">
+  <br>
+  <font size="2em" color="gray">안내 로봇이 포인팅 하는 로봇에 대한 설명을 메모하고 있는 피실험자</font>
+</p>
+<br>
+
+피실험자는 무작위 순서로 총 <span style="background-color:#EBEBEB">4번의 조건을</span> 경험했으며, 각 조건 이후에 로봇의 <span style="background-color:#EBEBEB">인상을 평가</span>했다. 로봇의 언어 및 제스처 표현 예는 다음과 같다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/eg2.png">
+</p>  
+<br>
+
 <br><br><br><br><br><br>
 
 <font size="6em">Publication</font>

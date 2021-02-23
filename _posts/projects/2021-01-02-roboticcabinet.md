@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Robotic Cabinets"
-  subtitle: "Designing Robotic Cabinets That Assist Users’ Tidying Behaviors"
+  subtitle: "Designing Robotic Cabinets that Assist Users’ Tidying Behaviors"
   type: "Human-Robot Interaction (HRI)"
   logo: "/assets/images/projects/robotic_cabinet/logo.png"
   duration: "2019.06 ~ 08 (3개월)"

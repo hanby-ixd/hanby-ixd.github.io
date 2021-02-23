@@ -276,7 +276,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <font size="5em">3) Interaction Effect</font>
 <br>
 
-발화(VC)와 촉각에 대한 각 측정의 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
+발화(VC)와 촉각에 대한 각 측정의 유의한 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
 01. <span style="background-color:#EBEBEB">유용성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 13.833, <i>p</i> = 0.001)</font>  
 02. <span style="background-color:#EBEBEB">사교성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 5.977, <i>p</i> = 0.018)</font>   
 03. <span style="background-color:#EBEBEB">서비스 평가</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 6.811, <i>p<i> = 0.012)</font>   

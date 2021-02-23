@@ -51,7 +51,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <font size="5em">1) Locative Deixis</font>
 <br>
 
-직시어<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>는 대화에서 자주 사용된다. 특히, <span style="background-color:#EBEBEB">위치격 직시어(예시: 이거, 저거)</span>는 주변에 있는 특정 대상을 청자 또는 독자가 이해할 수 있도록 언어를 사용해서 참조할 때 사용된다. 하지만, 소셜 로봇은 언어적 의사소통에 있어 대부분 <span style="background-color:#EBEBEB">서술적 직시어(예시: 왼쪽에서 두 번째)</span>를 사용한다. 소셜 로봇의 <span style="background-color:#EBEBEB">인간 친화적 상호작용</span>을 위해 위치격 직시어가 필요하다.  
+직시어<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>는 대화에서 자주 사용된다. 특히, <span style="background-color:#EBEBEB">위치격 직시어(예시: 이거, 저거)</span>는 주변에 있는 특정 대상을 청자 또는 독자가 이해할 수 있도록 언어를 사용해서 참조할 때 사용된다. 하지만, 소셜 로봇은 언어적 의사소통에 있어 대부분 <span style="background-color:#EBEBEB">서술적 직시어(예시: 왼쪽에서 두 번째)</span>를 사용한다.   
 <br>
 
 <p align="center">
@@ -147,7 +147,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <br>
 
 전시 안내 상황에서는 아래 2가지를 추가적으로 측정하였다.
-01. <span style="background-color:#EBEBEB">역량</span>(perceived competency)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>
+01. <span style="background-color:#EBEBEB">유능함</span>(perceived competency)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>
 02. <span style="background-color:#EBEBEB">신뢰성</span>(perceived trustworthiness)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>  
 <br>
 
@@ -292,6 +292,8 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <br>
 <p align="center">
   <img src="/assets/images/projects/this_or_that/results4.png">
+  <br>
+  <font size="2em" color="gray">자리 안내 상황에서의 주 효과</font>
 </p>
 <br><br>
 
@@ -306,7 +308,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <font size="5em">2) Exhibition Guide</font>
 <br>
 
-로봇의 효율성, 사교성, 자연스러움, 제품 평가, 역량 및 신뢰성 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.  
+로봇의 효율성, 사교성, 자연스러움, 제품 평가, 유능함 및 신뢰성 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.  
 <br>
 
 <p align="center">
@@ -319,13 +321,63 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과(main effect)</span>는 다음과 같다.
 01. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">효율성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 94.242, <i>p</i> < 0.0005)</font>   
 02. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">효율성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 53.908, <i>p</i> < 0.0005)</font>   
+03. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">사교성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 54.904, <i>p</i> < 0.0005)</font>   
+04. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">사교성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 8.595, <i>p</i> = 0.005)</font>  
+05. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">자연스러움</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 35.353, <i>p</i> < 0.0005)</font>  
+06. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">자연스러움</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 35.160, <i>p</i> = 0.005)</font>  
+07. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">제품 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 56.358, <i>p</i> < 0.0005)</font>  
+08. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">제품 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 14.507, <i>p</i> < 0.0005)</font>  
+09. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">유능함</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 18.574, <i>p</i> < 0.0005)</font>  
+10. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">유능함</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 8.184, <i>p</i> = 0.006)</font>  
+11. <span style="background-color:#EBEBEB">언어 유형</span>이 <span style="background-color:#EBEBEB">신뢰성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 43.864, <i>p</i> < 0.0005)</font>  
+10. <span style="background-color:#EBEBEB">코 포인팅</span>이 <span style="background-color:#EBEBEB">신뢰성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 8.799, <i>p</i> = 0.005)</font>  
 <br>
 
 <span style="background-color:#EBEBEB">주 효과</span>에서 피실험자의 인식은 다음과 같다.
 01. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">효율적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 4.29, <i>SD</i> = 0.17 vs. <i>M</i><sub>descriptive</sub> = 5.63, <i>SD</i> = 0.12)</font>  
 02. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">효율적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 5.43, <i>SD</i> = 0.15 vs. <i>M</i><sub>withoutnose</sub> = 4.48, <i>SD</i> = 0.14)</font>  
+03. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 4.33, <i>SD</i> = 0.13 vs. <i>M</i><sub>descriptive</sub> = 4.99, <i>SD</i> = 0.14)</font>  
+04. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 4.82, <i>SD</i> = 0.14 vs. <i>M</i><sub>withoutnose</sub> = 4.50, <i>SD</i> = 0.13)</font>  
+05. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 3.95, <i>SD</i> = 0.15 vs. <i>M</i><sub>descriptive</sub> = 4.73, <i>SD</i> = 0.16)</font>  
+06. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 4.68, <i>SD</i> = 0.16 vs. <i>M</i><sub>withoutnose</sub> = 4.00, <i>SD</i> = 0.15)</font>  
+07. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 4.44, <i>SD</i> = 0.14 vs. <i>M</i><sub>descriptive</sub> = 5.14, <i>SD</i> = 0.12)</font>  
+08. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 5.00, <i>SD</i> = 0.14 vs. <i>M</i><sub>withoutnose</sub> = 4.59, <i>SD</i> = 0.13)</font>  
+09. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">유능</span>하다고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 4.37, <i>SD</i> = 0.19 vs. <i>M</i><sub>descriptive</sub> = 4.87, <i>SD</i> = 0.17)</font>  
+10. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">유능</span>하다고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 4.76, <i>SD</i> = 0.17 vs. <i>M</i><sub>withoutnose</sub> = 4.48, <i>SD</i> = 0.18)</font>  
+11. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">신뢰</span>할 수 있다고 인식했다. <font size="2em"><i>M</i><sub>deictic</sub> = 4.53, <i>SD</i> = 0.17 vs. <i>M</i><sub>descriptive</sub> = 5.28, <i>SD</i> = 0.15)</font>  
+12. <span style="background-color:#EBEBEB">전시 안내</span> 상황에서, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">신뢰</span>할 수 있다고 인식했다. <font size="2em"><i>M</i><sub>withnose</sub> = 5.09, <i>SD</i> = 0.17 vs. <i>M</i><sub>withoutnose</sub> = 4.72, <i>SD</i> = 0.16)</font>  
 <br>
 
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results6.png">
+</p>
+<br>
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results7.png">
+  <br>
+  <font size="2em" color="gray">전시 안내 상황에서의 유의한 주 효과</font>
+</p>
+<br><br>
+
+각 측정의 유의한 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
+01. <span style="background-color:#EBEBEB">사교성</span>에 대한 <span style="background-color:#EBEBEB">언어 유형</span>과 <span style="background-color:#EBEBEB">코 포인팅</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 4.213, <i>p</i> = 0.046)</font>  
+02. <span style="background-color:#EBEBEB">자연스러움</span>에 대한 <span style="background-color:#EBEBEB">코 포인팅</span>과 <span style="background-color:#EBEBEB">시선</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(marginally significant, <i>F</i><sub>(1,46)</sub> = 2.914, <i>p</i> = 0.095)</font>  
+03. <span style="background-color:#EBEBEB">제품 평가</span>에 대한 <span style="background-color:#EBEBEB">언어 유형</span>과 <span style="background-color:#EBEBEB">시선</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 4.150, <i>p</i> = 0.047)</font>  
+<br>
+
+<span style="background-color:#EBEBEB">교호작용 효과</span>에서 피실험자의 인식은 다음과 같다.
+01. 로봇의 언어 유형이 <span style="background-color:#EBEBEB">지시적</span>일 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.58, <i>SD</i> = 1.03 vs. <i>M</i><sub>withoutnose</sub> = 4.08, <i>SD</i> = 1.05, <i>t</i> = 3.500, df = 47, <i>p</i> = 0.001)</font>  
+02. 로봇의 <span style="background-color:#EBEBEB">눈이 있을</span> 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.61, <i>SD</i> = 1.35 vs. <i>M</i><sub>withoutnose</sub> = 3.73, <i>SD</i> = 1.41, <i>t</i> = 5.770, df = 47, <i>p</i> = 0.001)</font>  
+03. 로봇의 <span style="background-color:#EBEBEB">눈이 없을</span> 때, <span style="background-color:#EBEBEB">코가 있는</span> 로봇이 코가 없는 로봇보다 더 <span style="background-color:#EBEBEB">자연스럽다</span>고 인식했다. <font size="2em">(<i>M</i><sub>withnose</sub> = 4.75, <i>SD</i> = 1.12 vs. <i>M</i><sub>withoutnose</sub> = 4.26, <i>SD</i> = 1.12, <i>t</i> = 3.264, df = 47, <i>p</i> = 0.004)</font>  
+04. 로봇의 <span style="background-color:#EBEBEB">눈이 있을</span> 때, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>deictic</sub> = 4.31, <i>SD</i> = 1.25 vs. <i>M</i><sub>descriptive</sub> = 5.20, <i>SD</i> = 1.04, <i>t</i> = 5.895, df = 47, <i>p</i> = 0.0005)</font>  
+05. 로봇의 <span style="background-color:#EBEBEB">눈이 없을</span> 때, <span style="background-color:#EBEBEB">서술적</span>인 발화를 하는 로봇이 지시적인 발화를 하는 로봇보다 더 <span style="background-color:#EBEBEB">긍정적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>deictic</sub> = 4.57, <i>SD</i> = 0.96 vs. <i>M</i><sub>descriptive</sub> = 5.08, <i>SD</i> = 0.86, <i>t</i> = 5.002, df = 47, <i>p</i> = 0.0005)</font>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results8.png">
+  <br>
+  <font size="2em" color="gray">전시 안내 상황에서의 유의한 교호작용 효과</font>
+</p>
 <br><br><br><br><br><br>
 
 

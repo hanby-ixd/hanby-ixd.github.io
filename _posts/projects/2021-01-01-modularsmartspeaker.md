@@ -189,7 +189,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <font size="5em">4) Recruitment</font>
 <br>
 
-<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>를 위해 <span style="background-color:#EBEBEB">혼합 설계(mixed design)</span>하였다.
+<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>을 위해 <span style="background-color:#EBEBEB">혼합 설계(mixed design)</span>하였다.
 01. <span style="background-color:#EBEBEB">발화(VC)</span>: between design - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 발화만 경험한다.
 02. <span style="background-color:#EBEBEB">촉각</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">네 가지</span> 촉각을 모두 경험한다. (무작위 순서)
 

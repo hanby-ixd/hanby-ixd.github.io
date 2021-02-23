@@ -126,8 +126,8 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 03. <span style="background-color:#EBEBEB">시선</span>:
   - a. 눈이 있는(with eyes)
   - b. 눈이 없는(without eyes)  
-
 <br>
+
 <p align="center">
   <img src="/assets/images/projects/this_or_that/sd1.png">
   <br>
@@ -144,6 +144,13 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 02. <span style="background-color:#EBEBEB">사교성</span>(perceived sociability)<sup id="R06">[<span style="color:gray">6</span>](#reference_6)</sup>
 03. <span style="background-color:#EBEBEB">자연스러움</span>(perceived naturalness)<sup id="R05">[<span style="color:gray">5</span>](#reference_5)</sup>
 04. <span style="background-color:#EBEBEB">제품 평가</span>(product evaluation)<sup id="R07">[<span style="color:gray">7,</span>](#reference_7)</sup><sup id="R08">[<span style="color:gray"> 8</span>](#reference_8)</sup>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/dv.png">
+  <br>
+  <font size="2em" color="gray">4가지 측정에 대한 아이템</font>
+</p>
 <br><br>
 
 <font size="5em">3) Prototype Development</font>
@@ -163,6 +170,65 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
   <font size="2em" color="gray">사용한 소프트웨어: Solidworks, Raspberry Pi, Processing</font>
 </p>
 <br><br>
+
+<font size="5em">4) Recruitment</font>
+<br>
+
+<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>을 위해 <span style="background-color:#EBEBEB">혼합 설계(mixed design)</span>하였다.
+01. <span style="background-color:#EBEBEB">언어 유형</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">두 가지</span> 언어 유형을 모두 경험한다. (무작위 순서)
+02. <span style="background-color:#EBEBEB">코 포인팅</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">두 가지</span> 코 포인팅을 모두 경험한다. (무작위 순서)
+03. <span style="background-color:#EBEBEB">시선</span>: between design - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 시선을 경험한다.  
+
+피실험자: 48명 (23세~37세, 여성 26명, 남성 22명)
+
+<br><br><br><br><br><br>
+
+<font size="6em">Experiments</font>
+<br>
+
+로봇이 사용자와 상호작용하는 상황에 따라, <span style="background-color:#EBEBEB">2가지</span>의 실험을 진행하였다.
+
+01. <span style="background-color:#EBEBEB">자리 안내</span>(seat guide): 로봇이 사용자에게 <span style="background-color:#EBEBEB">명령문</span>을 사용하는 상황
+02. <span style="background-color:#EBEBEB">전시 안내</span>(exhibition guide): 로봇이 사용자에게 <span style="background-color:#EBEBEB">평서문</span>을 사용하는 상황
+<br><br>
+
+<font size="5em">1) Seat Guide</font>
+<br>
+
+로봇은 피실험자를 맞이하고 앉을 자리로 안내한다. 피실험자는 연구실에 배치된 5개의 의자 중 로봇이 <span style="background-color:#EBEBEB">포인팅 하는 의자에 앉도록 요청</span>받았다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/sg1.png">
+  <br>
+  <font size="2em" color="gray">로봇이 포인팅 하는 의자에 앉은 피실험자</font>
+</p>
+<br>
+
+피실험자는 무작위 순서로 총 <span style="background-color:#EBEBEB">4번의 착석</span> 요청을 받았으며, 각 착석 이후에 로봇의 <span style="background-color:#EBEBEB">인상을 평가</span>했다. 로봇의 언어 및 제스처 표현 예는 다음과 같다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/sg2.png">
+</p>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/sg3.png">
+</p>  
+<br><br><br>
+
+<font size="5em">2) Exhibition Guide</font>
+<br>
+
+로봇은 전시된 5개의 로봇을 하나씩 포인팅 하면서 설명하고, 피실험자는 메모지에 지시한 순서대로 작성한다.  
+<br><br><br><br><br><br>
+
+<font size="6em">Publication</font>
+<br>
+
+[<u>This or That: The Effect of Robot’s Deictic Expression on User’s Perception</u> <br> <font size="2em"><u>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</u></font>](https://ieeexplore.ieee.org/document/9341067)
+<br><br><br><br><br><br>
 
 
 ---

@@ -250,16 +250,16 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 
 각 측정의 유의한 <span style="background-color:#EBEBEB">주 효과(main effect)</span>는 촉각에서만 나타났다.
-01. <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">유용성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 13.707, p = 0.001)</font>  
-02. <span style="background-color:#EBEBEB">soft-hard축</span>이 <span style="background-color:#EBEBEB">사교성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>(1,46)</sub> = 15.329, p < 0.0005)</font>  
-03. <span style="background-color:#EBEBEB">soft-hard축</span>과 <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">서비스 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(F<sub>SH(1,46)</sub> = 5.056, p<sub>SH</sub> < 0.029 / F<sub>SR(1,46)</sub> = 3.987, p<sub>SR</sub> = 0.052)</font>  
+01. <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">유용성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 13.707, <i>p</i> = 0.001)</font>  
+02. <span style="background-color:#EBEBEB">soft-hard축</span>이 <span style="background-color:#EBEBEB">사교성</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 15.329, <i>p</i> < 0.0005)</font>  
+03. <span style="background-color:#EBEBEB">soft-hard축</span>과 <span style="background-color:#EBEBEB">smooth-rough축</span>이 <span style="background-color:#EBEBEB">서비스 평가</span>에 미치는 주 효과는 유의미했다. <font size="2em">(<i>F</i><sub>SH(1,46)</sub> = 5.056, <i>p</i><sub>SH</sub> < 0.029 / F<sub>SR(1,46)</sub> = 3.987, <i>p</i><sub>SR</sub> = 0.052)</font>  
 <br>
 
 <span style="background-color:#EBEBEB">주 효과</span>에서 피실험자의 인식은 다음과 같다.
-01. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">M<sub>smooth</sub> = 4.96, SD = 0.13 vs. M<sub>rough</sub> = 5.30, SD = 0.12)</font>  
-02. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.24, SD = 0.15 vs. M<sub>hard</sub> = 3.64, SD = 0.14)</font>  
-03. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.17, SD = 0.12 vs. M<sub>hard</sub> = 4.87, SD = 0.14)</font>  
-04. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(M<sub>smooth</sub> = 4.89, SD = 0.14 vs. M<sub>rough</sub> = 5.14, SD = 0.12)</font>  
+01. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em"><i>M</i><sub>smooth</sub> = 4.96, <i>SD</i> = 0.13 vs. <i>M</i><sub>rough</sub> = 5.30, <i>SD</i> = 0.12)</font>  
+02. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 4.24, <i>SD</i> = 0.15 vs. <i>M</i><sub>hard</sub> = 3.64, <i>SD</i> = 0.14)</font>  
+03. <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.17, <i>SD</i> = 0.12 vs. <i>M</i><sub>hard</sub> = 4.87, <i>SD</i> = 0.14)</font>  
+04. <span style="background-color:#EBEBEB">거친(rough)</span> 스마트 스피커가 매끄러운(smooth) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다. <font size="2em">(<i>M</i><sub>smooth</sub> = 4.89, <i>SD</i> = 0.14 vs. <i>M</i><sub>rough</sub> = 5.14, <i>SD</i> = 0.12)</font>  
 
 <br>
 <p align="center">
@@ -277,16 +277,16 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 
 발화(VC)와 촉각에 대한 각 측정의 <span style="background-color:#EBEBEB">교호작용 효과(interaction effect)</span>는 다음과 같다.
-01. <span style="background-color:#EBEBEB">유용성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 13.833, p = 0.001)</font>  
-02. <span style="background-color:#EBEBEB">사교성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 5.977, p = 0.018)</font>   
-03. <span style="background-color:#EBEBEB">서비스 평가</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(F<sub>(1,46)</sub> = 6.811, p = 0.012)</font>   
+01. <span style="background-color:#EBEBEB">유용성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 13.833, <i>p</i> = 0.001)</font>  
+02. <span style="background-color:#EBEBEB">사교성</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 5.977, <i>p</i> = 0.018)</font>   
+03. <span style="background-color:#EBEBEB">서비스 평가</span>에 대한 <span style="background-color:#EBEBEB">발화</span>와 <span style="background-color:#EBEBEB">soft-hard축</span> 사이에 유의한 교호작용 효과가 존재한다. <font size="2em">(<i>F</i><sub>(1,46)</sub> = 6.811, <i>p<i> = 0.012)</font>   
 <br>
 
 <span style="background-color:#EBEBEB">교호작용 효과</span>에서 피실험자의 인식은 다음과 같다.
-01. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커가 천(soft) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.01, SD = 1.03 vs. M<sub>hard</sub> = 5.24, SD = 0.90, t = 2.302, df = 47, p = 0.026)</font>
-02. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.33, SD = 0.99 vs. M<sub>hard</sub> = 4.94, SD = 1.06, t = 2.548, df = 47, p = 0.014)</font>
-03. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(M<sub>soft</sub> = 4.51, SD = 1.30 vs. M<sub>hard</sub> = 3.53, SD = 1.08, t = 4.232, df = 47, p = 0.000)</font>
-04. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가</span> 좋다고 인식했다. <font size="2em">(M<sub>soft</sub> = 5.24, SD = 1.07 vs. M<sub>hard</sub> = 4.58, SD = 1.15, t = 3.087, df = 47, p = 0.003)</font>
+01. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커가 천(soft) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.01, <i>SD</i> = 1.03 vs. <i>M</i><sub>hard</sub> = 5.24, <i>SD</i> = 0.90, <i>t</i> = 2.302, df = 47, <i>p</i> = 0.026)</font>
+02. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.33, <i>SD</i> = 0.99 vs. <i>M</i><sub>hard</sub> = 4.94, <i>SD</i> = 1.06, <i>t</i> = 2.548, df = 47, <i>p</i> = 0.014)</font>
+03. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 4.51, <i>SD</i> = 1.30 vs. <i>M</i><sub>hard</sub> = 3.53, <i>SD</i> = 1.08, <i>t</i> = 4.232, df = 47, <i>p</i> = 0.000)</font>
+04. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가</span> 좋다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.24, <i>SD</i> = 1.07 vs. <i>M</i><sub>hard</sub> = 4.58, <i>SD</i> = 1.15, <i>t</i> = 3.087, df = 47, <i>p</i> = 0.003)</font>
 <br>
 
 <br>

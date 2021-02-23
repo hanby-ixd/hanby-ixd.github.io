@@ -248,7 +248,45 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 </p>  
 <br>
 
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/eg3.png">
+</p>  
 <br><br><br><br><br><br>
+
+<font size="6em">Results</font>
+<br>
+
+실험을 통해 각 조건의 로봇이 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">이원 반복측정 분산분석(two-way repeatedly measured ANOVA)</span>을 수행했다.  
+<br><br>
+
+<font size="5em">1) Seat Guide</font>
+<br>
+
+로봇의 효율성, 사교성, 자연스러움 및 제품 평가 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results1.png">
+  <br>
+  <font size="2em" color="gray">각 측정에 대한 신뢰도 분석 후 크론바 알파 값</font>
+</p>
+<br><br>
+
+<font size="5em">2) Exhibition Guide</font>
+<br>
+
+로봇의 효율성, 사교성, 자연스러움, 제품 평가, 역량 및 신뢰성 측정은 크론바 알파 값 0.6 이상으로, 모든 문항에 대해 <span style="background-color:#EBEBEB">유의</span>한 결과가 나왔다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/this_or_that/results2.png">
+  <br>
+  <font size="2em" color="gray">각 측정에 대한 신뢰도 분석 후 크론바 알파 값</font>
+</p>
+<br><br>
+
+<br><br><br><br><br><br>
+
 
 <font size="6em">Publication</font>
 <br>

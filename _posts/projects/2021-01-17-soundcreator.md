@@ -61,7 +61,7 @@ images:
 <br>
 
 <p align="center">
-  <img src="/assets/images/projects/sound_creator/dk.jpg">
+  <img src="/assets/images/projects/sound_creator/dk.jpeg">
   <br>
   <font size="2em" color="gray">Design Korea 2017, KINTEX, Goyang</font>
 </p>   

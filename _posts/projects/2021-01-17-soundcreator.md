@@ -11,8 +11,8 @@ project:
   subtitle: "인터랙티브 사운드 피젯 토이"
   type: "Human-Computer Interaction (HCI)"
   logo: "/assets/images/projects/sound_creator/logo.jpg"
-  duration: "2017.05 (1개월)"
-  ptype: "Human-Computer Interaction 수업 프로젝트"
+  duration: "2017.04 (1개월)"
+  ptype: "Engineering Technologies for Designers 수업 프로젝트"
   typedetail: "UNIST 창의디자인공학과"
   role: "프로젝트 기획, 인터랙션 디자인, 하드웨어 설계, 소프트웨어 개발"
   supporter1: "Sangjin Park (Sangjin): 프로젝트 기획, 하드웨어 설계"
@@ -44,8 +44,6 @@ images:
 <font size="6em">Development</font>
 <br>
 
-<font size="5em">1) Function</font>
-<br>
 책상 위에 두거나 벽에 고정하여, 누구나 핸드 제스처를 통해 빛과 소리를 만들 수 있다.
 01. <span style="background-color:#EBEBEB">높이에 따른 사운드 매핑</span>: 손의 높이에 따라, 빛의 색상 변화가 나타나며, 소리의 선명도가 달라짐
 02. <span style="background-color:#EBEBEB">원형의 사운드 매핑</span>: 1~2 옥타브의 음을 제품의 가장자리를 따라 적용

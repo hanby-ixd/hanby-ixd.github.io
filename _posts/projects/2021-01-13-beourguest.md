@@ -11,7 +11,7 @@ project:
   subtitle: "로보틱 테이블의 자동 운반 시스템"
   type: "Human-Robot Interaction (HRI)"
   logo: "/assets/images/projects/be_our_guest/logo.png"
-  duration: "2020.10 ~"
+  duration: "2020.10 ~ "
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
   role: "프로젝트 기획, 인터랙션 디자인, 제품 디자인, 하드웨어 설계, 소프트웨어 개발, 기구 설계, 사용자 조사"
@@ -29,3 +29,30 @@ images:
 ---
 ---
 <br>
+
+<p align="center"><span style="background-color:#EBEBEB">진행 중인 프로젝트 입니다.</span></p>
+<br><br>
+
+<font size="6em">Overview</font>
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/be_our_guest/ex.jpeg">
+</p>  
+<br><br>
+
+
+<p align="center">
+  <img src="/assets/images/projects/be_our_guest/tech.png">
+</p>  
+<br><br><br><br><br><br>
+
+<font size="6em">Video</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/5UF8mjnxXdo">
+  <img src="/assets/images/projects/be_our_guest/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>

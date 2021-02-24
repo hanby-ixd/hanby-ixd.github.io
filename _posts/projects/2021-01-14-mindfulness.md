@@ -60,3 +60,13 @@ images:
   <img src="/assets/images/projects/mindfulness/sd.png">
 </p>
 <br><br><br><br><br><br>
+
+<font size="6em">Video</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/D9cTkqxM53c">
+  <img src="/assets/images/projects/mindfulness/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>

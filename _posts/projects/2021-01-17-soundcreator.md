@@ -35,7 +35,7 @@ images:
 </p>
 <br><br>
 
-<font size="6em">Goal</font>
+<font size="6em">Overview</font>
 <br>
 
 공공장소에서 다양한 사람들이 사용할 수 있는 <span style="background-color:#EBEBEB">피젯 토이</span>를 디자인하였다. <span style="background-color:#EBEBEB">핸드 제스처 피젯팅</span><sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>을 위해 <span style="background-color:#EBEBEB">시각</span>과 <span style="background-color:#EBEBEB">청각</span>을 자극하는 사운드 크리에이터를 개발하였다.

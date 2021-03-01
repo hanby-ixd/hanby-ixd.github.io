@@ -28,3 +28,19 @@ images:
 ---
 ---
 <br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/wq558pLrr_o">
+  <img src="/assets/images/projects/innerstagram/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>
+
+<font size="6em">Publication</font>
+<br>
+
+[<u>Innerstagram: Mood Journaling with Color-coded Portrait Photos</u> <br> <font size="2em"><u>2020 Proceedings of HCI Korea</u></font>](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402928)
+<br><br><br><br><br><br>

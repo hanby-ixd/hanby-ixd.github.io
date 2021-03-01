@@ -29,3 +29,13 @@ images:
 ---
 ---
 <br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/WebD6vN2rt8">
+  <img src="/assets/images/projects/money_planet/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>

@@ -28,3 +28,13 @@ images:
 ---
 ---
 <br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/cqqwCsLrd6s">
+  <img src="/assets/images/projects/news_printer/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>

@@ -29,3 +29,20 @@ images:
 ---
 ---
 <br>
+
+<font size="6em">Prototype</font>
+<br>
+<p align="center">
+  <iframe src="https://marvelapp.com/prototype/6gj668d?emb=1&iosapp=false&frameless=false" height="600" allowTransparency="true" frameborder="0"></iframe>
+</p>
+<br><br><br><br><br><br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/3FZ_RAmCaQQ">
+  <img src="/assets/images/projects/arval_together/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>

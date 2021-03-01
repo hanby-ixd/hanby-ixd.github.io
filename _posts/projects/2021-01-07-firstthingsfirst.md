@@ -28,3 +28,19 @@ images:
 ---
 ---
 <br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/faVdcVmok_o">
+  <img src="/assets/images/projects/first_things_first/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>
+
+<font size="6em">Publication</font>
+<br>
+
+[<u>First Things First: A Survey Exploring Key Services and Functions of a Robot</u> <br> <font size="2em"><u>2020 ACM/IEEE International Conference on Human-Robot Interaction(HRI) LBR</u></font>](https://dl.acm.org/doi/10.1145/3371382.3378317)
+<br><br><br><br><br><br>

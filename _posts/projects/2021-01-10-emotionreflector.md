@@ -28,3 +28,13 @@ images:
 ---
 ---
 <br>
+
+<font size="6em">Video Link</font>
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/QK5-5I0bJDk">
+  <img src="/assets/images/projects/emotion_reflector/video.png">
+  </a>
+</p>  
+<br><br><br><br><br><br>

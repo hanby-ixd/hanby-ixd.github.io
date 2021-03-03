@@ -29,6 +29,17 @@ images:
 ---
 ---
 <br>
+<p align="center">
+  <img src="/assets/images/projects/money_planet/intro.png">
+  <br>
+  <font size="2em" color="gray">대부분의 학생들이 돈에 대한 걱정을 한다. [출처: The Higher Education]</font>
+</p>
+<br><br>
+
+<font size="6em">Backgorund</font>
+<br>
+
+프로젝트의 시작은 개인과 가족의 돈 관리에 대해 흥미로운 방식으로 접근한 'Money Talks: Tracking Personal Finances' 논문으로부터 영감을 얻어 시작되었다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.
 
 <font size="6em">Video Link</font>
 <br>

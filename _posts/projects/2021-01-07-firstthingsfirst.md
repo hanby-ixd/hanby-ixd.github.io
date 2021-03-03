@@ -29,6 +29,15 @@ images:
 ---
 <br>
 
+<font size="6em">Background</font>
+<br>
+
+<span style="background-color:#EBEBEB">가사노동</span>은 대부분의 사람들이 하기를 꺼려 하는 일이다.
+다행히도, 이런 가사노동을 돕는 다양한 <span style="background-color:#EBEBEB">로봇</span>들이 개발되고 있다 (PR2<sup id="F01">[<span style="color:MediumSeaGreen">1</span>](#footnote_1)</sup>, Aeolus<sup id="F02">[<span style="color:MediumSeaGreen">2</span>](#footnote_2)</sup>, Blue<sup id="F03">[<span style="color:MediumSeaGreen">3</span>](#footnote_3)</sup>).
+계속해서 가사노동은 로봇으로 대체될 것으로 예상된다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.
+
+<br><br><br><br><br><br>
+
 <font size="6em">Video Link</font>
 <br>
 
@@ -44,3 +53,16 @@ images:
 
 [<u>First Things First: A Survey Exploring Key Services and Functions of a Robot</u> <br> <font size="2em"><u>2020 ACM/IEEE International Conference on Human-Robot Interaction(HRI) LBR</u></font>](https://dl.acm.org/doi/10.1145/3371382.3378317)
 <br><br><br><br><br><br>
+
+---  
+**References**  
+
+<a name="reference_1"><font size="2em" color="gray">1.</font></a> [<font size="2em"><u>Executive Summary World Robotics 2018 Service Robots</u></font>](https://ifr.org/downloads/press2018/Executive_Summary_WR_Service_Robots_2018.pdf) [↩](#R01)  
+
+<br>
+
+**Footnotes**  
+
+<a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> <font size="2em">PR2: </font>[<font size="2em"><u>https://robots.ieee.org/robots/pr2/</u></font>](https://robots.ieee.org/robots/pr2/) [↩](#F01)  
+<a name="footnote_2"><font size="2em" color="MediumSeaGreen">2.</font></a> <font size="2em">Aeolus: </font>[<font size="2em"><u>https://aeolusbot.com</u></font>](https://aeolusbot.com) [↩](#F02)  
+<a name="footnote_3"><font size="2em" color="MediumSeaGreen">3.</font></a> <font size="2em">Blue: </font>[<font size="2em"><u>https://rll.berkeley.edu/blue/</u></font>](https://rll.berkeley.edu/blue/) [↩](#F03)  

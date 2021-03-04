@@ -95,27 +95,47 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 <br>
 
 사람들이 가장 많이 사용하고 싶은 로봇의 서비스를 찾기 위해 각각 5~6 가지 기능을 포함하는 세 가지 서비스에 대한 설명을 제공했다.  
+<br>
 
-01. <span style="background-color:#EBEBEB">청소</span>(cleaning): <br>
-a. 공기 청정기가 로봇에게 거실 청소를 요청하면 로봇은 창문을 열어 환기를 시킬 수 있다.<br>
-b. 로봇은 책, 컵, 쿠션과 같은 물건을 적절한 위치로 되돌릴 수 있다. (1-1)<br>
-c. 로봇은 로봇청소기(진공, 물걸레 등)의 청소 시작을 명령 내릴 수 있다. (1-2)<br>
-d. 로봇은 재활용을 위해 쓰레기통에서 캔, 유리, 플라스틱 등을 분류할 수 있다. (1-3)<br>
-e. 청소가 완료되면 로봇은 환기를 위해 열린 창문을 닫고 청소 작업을 종료할 수 있다.  
+<font size="4em">1.1) Cleaning</font>
+01. 공기 청정기가 로봇에게 거실 청소를 요청하면 로봇은 창문을 열어 환기를 시킬 수 있다.
+02. 로봇은 책, 컵, 쿠션과 같은 물건을 적절한 위치로 되돌릴 수 있다. (1-1)
+03. 로봇은 로봇청소기(진공, 물걸레 등)의 청소 시작을 명령 내릴 수 있다. (1-2)
+04. 로봇은 재활용을 위해 쓰레기통에서 캔, 유리, 플라스틱 등을 분류할 수 있다. (1-3)
+05. 청소가 완료되면 로봇은 환기를 위해 열린 창문을 닫고 청소 작업을 종료할 수 있다.  
 <p align="center">
   <img src="/assets/images/projects/first_things_first/sd1.png">
 </p>
 <br>
 
-02. 세탁(laundry):
-03. 요리(cooking):
+<font size="4em">1.2) Laundry</font>
+01. 세탁물 바구니에 세탁물이 가득 차 있음을 알리면 로봇이 세탁 바구니를 세탁기로 옮긴다. (2-1)
+02. 로봇은 바구니에서 세탁물을 집어 세탁기에 넣을 수 있다.
+03. 로봇은 세탁기와 건조기에게 명령을 내려서 세탁물을 세탁하고 말릴 수 있다. (2-2)
+04. 세탁 및 건조가 완료되면 로봇이 세탁물을 수거 할 수 있다.
+05. 로봇은 세탁물을 접을 수 있다. (2-3)
+<p align="center">
+  <img src="/assets/images/projects/first_things_first/sd2.png">
+</p>
+<br>
+
+<font size="4em">1.3) Cooking</font>
+01. 로봇은 냉장고의 재료를 정리할 수 있다.
+02. 남은 재료와 과거 식사를 고려하여 로봇이 식사 메뉴를 추천할 수 있다. (3-1)
+03. 사용자가 요리를 할 때, 로봇은 재료, 조미료 및 요리 도구를 전달하여 도울 수 있다. (3-2)
+04. 로봇은 냄비 나 그릇을 테이블로 옮길 수 있다. (3-3)
+05. 식사 후, 로봇은 빈 접시를 식기세척기로 옮길 수 있다.
+06. 로봇은 식기세척기에 설거지를 명령 내릴 수 있다.
+<p align="center">
+  <img src="/assets/images/projects/first_things_first/sd3.png">
+</p>
 <br><br>
 
 <font size="5em">2) Recruitment</font>
 <br>
 
 <span style="background-color:#EBEBEB">설문지 평가</span>로 진행되었으며, <span style="background-color:#EBEBEB">일원 반복측정 분산분석(one-way RM ANOVA)</span>을 위해 <span style="background-color:#EBEBEB"> 집단내 설계(within design)</span>하였다.
-01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>와 각 서비스 내에서 <span style="background-color:#EBEBEB">로봇의 기능</span>을 모두 평가한다. (무작위 순서)  
+01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>와 각 서비스에서 <span style="background-color:#EBEBEB">로봇의 기능</span>을 모두 평가한다. (무작위 순서)  
 
 피실험자: 36명 (25세~42세, 여성 24명, 남성 12명)
 <br><br>

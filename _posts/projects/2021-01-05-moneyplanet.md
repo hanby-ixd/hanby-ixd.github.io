@@ -14,7 +14,7 @@ project:
   duration: "2017.09 ~ 11 (3개월)"
   ptype: "Human-Centered Design 수업 프로젝트"
   typedetail: "Prof. Hwajung Hong (SNU) / UNIST 창의디자인공학과"
-  role: "프로젝트 기획, 사용자 조사, 데이터 분석, UX 디자인, 프로토타이핑"
+  role: "프로젝트 기획, 사용자 조사, 데이터 분석, UI 디자인, 프로토타이핑"
   supporter1: "Wondo Jeong (Fjord Singapore): 프로젝트 관리, 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
   supporter2: "Youngchul Chung: 프로젝트 기획, 사용자 조사, 데이터 분석, 모션 디자인"
   supporter3: "Wonyoung Park (KAIST): 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
@@ -160,6 +160,74 @@ survey 결과를 바탕으로 한 정보와 purchase history에서 얻어진 영
 <p align="center">
   <img src="/assets/images/projects/money_planet/us6.png">
 </p>  
+<br><br><br><br><br><br>
+
+<font size="6em">Data Modeling</font>
+<br>
+
+<font size="5em">1) Persona</font>
+<br>
+
+사용자 연구를 통한 이해와 통찰을 바탕으로 primary, secondary, supplemental persona를 생성하였다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/dm1.png">
+</p>   
+<br><br>
+
+<font size="5em">2) User Scenario</font>
+<br>
+
+랄라  
+<br><br><br><br><br><br>
+
+<font size="6em">Brainstorming</font>
+<br>
+
+<font size="5em">1) HMWs</font>
+<br>
+
+랄라  
+<br><br>
+
+<font size="5em">2) Affinity Diagram</font>
+<br>
+
+랄라  
+<br><br>
+
+<font size="5em">3) Concept Sketch</font>
+<br>
+
+랄라  
+<br><br><br><br><br><br>
+
+<font size="6em">UI Design</font>
+<br>
+
+<font size="5em">1) Sitemap</font>
+<br>
+
+랄라  
+<br><br>
+
+<font size="5em">2) Wire Framing</font>
+<br>
+
+랄라  
+<br><br>
+
+<font size="5em">3) 1st Iteration</font>
+<br>
+
+랄라  
+<br><br>
+
+<font size="5em">4) 2nd Iteration</font>
+<br>
+
+랄라  
 <br><br><br><br><br><br>
 
 <font size="6em">Video Link</font>

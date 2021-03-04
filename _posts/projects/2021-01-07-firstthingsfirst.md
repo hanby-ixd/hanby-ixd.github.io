@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: HRI
+category: main
 
 meta:
   keywords: "HRI, Social Robot"
@@ -85,6 +85,20 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 홈 로봇 서비스의 청소, 세탁, 요리 <span style="background-color:#EBEBEB">시나리오</span>를 만들고, 사용자의 <span style="background-color:#EBEBEB">인식</span>을 평가한다.
 
 <br>
+
+<br><br><br><br><br><br>
+
+<font size="6em">Study Design</font>
+<br>
+
+<font size="5em">1) Recruitment</font>
+<br>
+
+<span style="background-color:#EBEBEB">설문지 평가</span>로 진행되었으며, <span style="background-color:#EBEBEB">일원 반복측정 분산분석(one-way RM ANOVA)</span>을 위해 <span style="background-color:#EBEBEB"> 집단내 설계(within design)</span>하였다.
+01. <span style="background-color:#EBEBEB">촉각</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">네 가지</span> 촉각을 모두 경험한다. (무작위 순서)  
+
+피실험자: 36명 (25세~42세, 여성 24명, 남성 12명)
+<br><br>
 
 <br><br><br><br><br><br>
 

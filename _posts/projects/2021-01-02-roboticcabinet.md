@@ -206,7 +206,7 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 <font size="5em">5) Recruitment</font>
 <br>
 
-<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>을 위해 <span style="background-color:#EBEBEB">집단내 설계(within design)</span>하였다.
+<span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">일원 반복측정 분산분석(one-way RM ANOVA)</span>을 위해 <span style="background-color:#EBEBEB">집단내 설계(within design)</span>하였다.
 01. <span style="background-color:#EBEBEB">지능화 정도</span>: within design - 피실험자는 로보틱 캐비닛의 <span style="background-color:#EBEBEB">세 가지</span> 조건을 모두 경험한다. (무작위 순서)
 
 피실험자: 16명 (20~30, 여성 7명, 남성 9명)
@@ -257,7 +257,7 @@ IKEA와 Ori는 작은 공간에 사는 사람들을 위해 설계된 ROGNAN<sup 
 <font size="6em">Results</font>
 <br>
 
-실험을 통해 로보틱 캐비닛의 지능화 정도가 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">분산분석(ANOVA)</span>을 수행했다.  
+실험을 통해 로보틱 캐비닛의 지능화 정도가 사용자의 인식에 미치는 영향을 조사하기 위해 <span style="background-color:#EBEBEB">일원 반복측정 분산분석(one-way RM ANOVA)</span>을 수행했다.  
 <br><br>
 
 <font size="5em">1) Measurements</font>

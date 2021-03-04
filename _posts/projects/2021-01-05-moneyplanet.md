@@ -18,7 +18,7 @@ project:
   supporter1: "Wondo Jeong (Fjord Singapore): 프로젝트 관리, 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
   supporter2: "Youngchul Chung: 프로젝트 기획, 사용자 조사, 데이터 분석, 모션 디자인"
   supporter3: "Wonyoung Park (KAIST): 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
-  tools: "Invision, Sketch, Origami Studio"
+  tools: "Sketch, Origami Studio"
   output: "앱 프로토타입, Red Dot: Design Concept 2018 파이널리스트"
 
 images:
@@ -238,25 +238,45 @@ affinity diagram에서 나온 키워드를 바탕으로 22개의 앱 컨셉 스�
 <font size="5em">2) Wire Framing</font>
 <br>
 
-스케치한 키 스크린을 바탕으로 low-fi 프로토타입을 InVision을 사용하여 만들었다.
-thinking aloud 및 휴리스틱 평가와 같은 사용성 테스트로 InVision 프로토타입을 평가했다.  
+스케치한 키 스크린을 바탕으로 low-fi 프로토타입을 만들었다.
+thinking aloud 및 휴리스틱 평가와 같은 사용성 테스트로 프로토타입을 평가했다.  
 <br>
 
 <p align="center">
   <img src="/assets/images/projects/money_planet/ui2.jpg">
 </p>  
+<br>
+
+What: 이 앱은 대학생들이 자금을 추적하고 관리하도록 지원한다.  
+How : 등록된 계좌의 금액을 기반으로, 3 가지 색상으로 구분된 세계 지도와 여러 금융 관리 팁을 제공하여 사용자가 금융 목표를 달성하는 데 도움이 된다.  
+Why : 추상적인 자금 관리 방식을 사용하면 대학생들은 스트레스를 덜 받는다. (사용자 연구 결과)  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui3.png">
+</p>    
 <br><br>
 
 <font size="5em">3) 1st Iteration</font>
 <br>
 
-랄라  
+등록된 계좌의 금액에 따라 세계 지도는 '<span style="background-color:#EBEBEB">가능</span>', '<span style="background-color:#EBEBEB">보통</span>', '<span style="background-color:#EBEBEB">불가능</span>'의 세 가지 색상으로 표현된다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui4.png">
+</p>   
 <br><br>
 
 <font size="5em">4) 2nd Iteration</font>
 <br>
 
-랄라  
+저축의 상징인 <span style="background-color:#EBEBEB">동전</span>을 닮은 원으로 지도를 구성하여 금융 관리 앱 정체성이 들어나도록 만들었으며, 숫자의 지루함을 극복하기 위해 <span style="background-color:#EBEBEB">게임</span>같은 시각화를 통해 동기를 부여한다.   
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui5.png">
+</p>   
 <br><br><br><br><br><br>
 
 <font size="6em">Video Link</font>

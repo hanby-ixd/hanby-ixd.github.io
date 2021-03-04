@@ -14,8 +14,8 @@ project:
   duration: "2019.09 (1개월)"
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
-  role: "프로젝트 기획, 인터랙션 디자인, 사용자 조사, 데이터 분석"
-  supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 인터랙션 디자인, 사용자 조사, 데이터 분석"
+  role: "프로젝트 기획, 시나리오 디자인, 일러스트레이션, 사용자 조사, 데이터 분석"
+  supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 시나리오 디자인, 사용자 조사, 데이터 분석"
   supporter2: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"
   tools: "Google Forms"
   output: "ACM/IEEE HRI 2020 학회 LBR"
@@ -91,11 +91,31 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 <font size="6em">Study Design</font>
 <br>
 
-<font size="5em">1) Recruitment</font>
+<font size="5em">1) Stimuli</font>
+<br>
+
+사람들이 가장 많이 사용하고 싶은 로봇의 서비스를 찾기 위해 각각 5~6 가지 기능을 포함하는 세 가지 서비스에 대한 설명을 제공했다.  
+
+01. <span style="background-color:#EBEBEB">청소</span>(cleaning): <br>
+a. 공기 청정기가 로봇에게 거실 청소를 요청하면 로봇은 창문을 열어 환기를 시킬 수 있다.<br>
+b. 로봇은 책, 컵, 쿠션과 같은 물건을 적절한 위치로 되돌릴 수 있다. (1-1)<br>
+c. 로봇은 로봇청소기(진공, 물걸레 등)의 청소 시작을 명령 내릴 수 있다. (1-2)<br>
+d. 로봇은 재활용을 위해 쓰레기통에서 캔, 유리, 플라스틱 등을 분류할 수 있다. (1-3)<br>
+e. 청소가 완료되면 로봇은 환기를 위해 열린 창문을 닫고 청소 작업을 종료할 수 있다.  
+<p align="center">
+  <img src="/assets/images/projects/first_things_first/sd1.png">
+</p>
+<br>
+
+02. 세탁(laundry):
+03. 요리(cooking):
+<br><br>
+
+<font size="5em">2) Recruitment</font>
 <br>
 
 <span style="background-color:#EBEBEB">설문지 평가</span>로 진행되었으며, <span style="background-color:#EBEBEB">일원 반복측정 분산분석(one-way RM ANOVA)</span>을 위해 <span style="background-color:#EBEBEB"> 집단내 설계(within design)</span>하였다.
-01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>와 각 서비스 내에서 <span style="background-color:#EBEBEB">로봇의 기능</span> (1-1 ~ 3-3)을 모두 평가한다. (무작위 순서)  
+01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>와 각 서비스 내에서 <span style="background-color:#EBEBEB">로봇의 기능</span>을 모두 평가한다. (무작위 순서)  
 
 피실험자: 36명 (25세~42세, 여성 24명, 남성 12명)
 <br><br>

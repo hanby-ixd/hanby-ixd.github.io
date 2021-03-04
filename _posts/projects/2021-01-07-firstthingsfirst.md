@@ -244,3 +244,4 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 <a name="footnote_1"><font size="2em" color="MediumSeaGreen">1.</font></a> <font size="2em">PR2: </font>[<font size="2em"><u>https://robots.ieee.org/robots/pr2/</u></font>](https://robots.ieee.org/robots/pr2/) [↩](#F01)  
 <a name="footnote_2"><font size="2em" color="MediumSeaGreen">2.</font></a> <font size="2em">Aeolus: </font>[<font size="2em"><u>https://aeolusbot.com</u></font>](https://aeolusbot.com) [↩](#F02)  
 <a name="footnote_3"><font size="2em" color="MediumSeaGreen">3.</font></a> <font size="2em">Blue: </font>[<font size="2em"><u>https://rll.berkeley.edu/blue/</u></font>](https://rll.berkeley.edu/blue/) [↩](#F03)  
+<br><br><br>

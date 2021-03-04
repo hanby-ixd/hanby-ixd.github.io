@@ -61,7 +61,7 @@ images:
 </p>
 <br><br><br><br><br><br>
 
-<font size="6em">Video</font>
+<font size="6em">Video Link</font>
 <br>
 
 <p align="center">

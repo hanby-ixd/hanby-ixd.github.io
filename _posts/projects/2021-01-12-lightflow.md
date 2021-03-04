@@ -32,7 +32,7 @@ images:
 <font size="6em">Overview</font>
 <br>
 
-사용자에게 새로운 경험을 제공하고자, <span style="background-color:#EBEBEB">펌핑하는 행위</span>를 통해 <span style="background-color:#EBEBEB">조명을 밝히는 시스템</span>을 디자인 하였다. 또한, Light Flow는 <span style="background-color:#EBEBEB">tangible 인터랙션</span>을 통해, 사람들이 대략적으로 <span style="background-color:#EBEBEB">빛의 사용량</span>을 인식할 수 있도
+사용자에게 새로운 경험을 제공하고자, <span style="background-color:#EBEBEB">펌핑하는 행위</span>를 통해 <span style="background-color:#EBEBEB">조명을 밝히는 시스템</span>을 디자인 하였다. 또한, Light Flow는 <span style="background-color:#EBEBEB">tangible 인터랙션</span>을 통해, 사람들이 대략적으로 <span style="background-color:#EBEBEB">빛의 사용량</span>을 인식할 수 있도록 만든다.
 <br><br><br><br><br><br>
 
 
@@ -48,7 +48,7 @@ images:
 </p>
 <br><br><br><br><br><br>
 
-<font size="6em">Video</font>
+<font size="6em">Video Link</font>
 <br>
 
 <p align="center">

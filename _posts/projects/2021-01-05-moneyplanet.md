@@ -277,6 +277,21 @@ Why : 추상적인 자금 관리 방식을 사용하면 대학생들은 스트�
 <p align="center">
   <img src="/assets/images/projects/money_planet/ui5.png">
 </p>   
+<br><br>
+
+사용자의 소비 패턴에 따라 필요하거나 원하는 것에 지출할 수 있도록 장려한다.
+Money Planet은 많은 학업 압박을 받는 학생들을 위해 "티끌 모아 태산이다"를 강요하지 않는다.
+오히려 <span style="background-color:#EBEBEB">"시험이 있는 날엔, 당신의 라떼에 샷을 추가할 가치가 있습니다!"</span>와 같이 유쾌한 방법으로 지출할 수 있도록 만든다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui6.png">
+</p>  
+<br><br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui7.jpg">
+</p>
 <br><br><br><br><br><br>
 
 <font size="6em">Video Link</font>

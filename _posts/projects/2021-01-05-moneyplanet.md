@@ -48,6 +48,30 @@ Design Question: "<span style="background-color:#EBEBEB">대학생들</span>이 
 대학생들의 자금 관련 스트레스는 <span style="background-color:#EBEBEB">학업 성취도 감소</span>, <span style="background-color:#EBEBEB">수강 학점 감소</span>, <span style="background-color:#EBEBEB">자퇴</span> 및 <span style="background-color:#EBEBEB">늦어지는 졸업</span>과 같은 대학생들에게 부정적인 영향을 미치는 주요 요인 중 하나이다.
 <br><br><br><br><br><br>
 
+<font size="6em">User Study</font>
+<br>
+
+단일 사용자 조사 방법론 사용으로 인해 생길 수 있는 선입견, 오류들을 보완하기 위해 세 가지 이상 방법론을 조사 대상에 맞춰 조합, 수행하는 <span style="background-color:#EBEBEB">삼각 검증(triangulation)</span>을 적용하였다.  
+<br>
+삼각 검증에 사용된 방법론은 다음과 같다.
+01. <span style="background-color:#EBEBEB">설문 조사(survey)</span>
+02. <span style="background-color:#EBEBEB">구매 내역(purchase history)</span>
+03. <span style="background-color:#EBEBEB">회고적 인터뷰(retrospective interview)</span>  
+
+이 중, <span style="background-color:#EBEBEB">purchase history</span>는 피실험자에게 일정 기간 동안 <span style="background-color:#EBEBEB">영수증</span>을 모으게끔 요청하고, 왜, 언제 지출했는지 <span style="background-color:#EBEBEB">기록</span>하는 방법론입니다.
+기존 <span style="background-color:#EBEBEB">diary study</span>를 '<span style="background-color:#EBEBEB">자금 관리</span>'라는 프로젝트 주제에 맞춰 창조한 새로운 방법입니다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/us1.png">
+  <br>
+  <font size="2em" color="gray">purchase history를 통해 모은 영수증을 보드에 붙이는 모습</font>
+</p>  
+<br>
+
+이를 통해 카드 사용 등 추적하기 힘든 <span style="background-color:#EBEBEB">소비 행동 및 패턴</span>을 목격할 수 있었으며, 영수증이라는 매개체를 통해 추후 <span style="background-color:#EBEBEB">retrospective interview</span>에서 효과적으로 사용할 수 있었다.
+<br><br><br><br><br><br>
+
 <font size="6em">Video Link</font>
 <br>
 

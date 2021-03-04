@@ -18,7 +18,7 @@ project:
   supporter1: "Wondo Jeong (Fjord Singapore): 프로젝트 관리, 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
   supporter2: "Youngchul Chung: 프로젝트 기획, 사용자 조사, 데이터 분석, 모션 디자인"
   supporter3: "Wonyoung Park (KAIST): 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
-  tools: "Sketch, Origami Studio"
+  tools: "Invision, Sketch, Origami Studio"
   output: "앱 프로토타입, Red Dot: Design Concept 2018 파이널리스트"
 
 images:
@@ -168,7 +168,7 @@ survey 결과를 바탕으로 한 정보와 purchase history에서 얻어진 영
 <font size="5em">1) Persona</font>
 <br>
 
-사용자 연구를 통한 이해와 통찰을 바탕으로 primary, secondary, supplemental persona를 생성하였다.  
+사용자 연구를 통해 수집한 데이터를 바탕으로 primary, secondary, supplemental persona를 설계하였다.  
 <br>
 
 <p align="center">
@@ -179,7 +179,12 @@ survey 결과를 바탕으로 한 정보와 purchase history에서 얻어진 영
 <font size="5em">2) User Scenario</font>
 <br>
 
-랄라  
+persona를 기반으로 모바일 간략한 앱 시나리오를 제작하였다. 해당 보드는 비디오 시나리오로도 촬영되었다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/dm2.png">
+</p>   
 <br><br><br><br><br><br>
 
 <font size="6em">Brainstorming</font>
@@ -187,20 +192,36 @@ survey 결과를 바탕으로 한 정보와 purchase history에서 얻어진 영
 
 <font size="5em">1) HMWs</font>
 <br>
-
-랄라  
+How Might We 질문을 통해 다음과 같이 3 가지 주요 디자인 방향을 정할 수 있었다.
+01. How might we help students to set/achieve a <span style="background-color:#EBEBEB">goal</span>?
+02. How might we help students to <span style="background-color:#EBEBEB">track</span> their expenditure/income?
+03. How might we help students to <span style="background-color:#EBEBEB">reflect</span> their expenditure for behavior changing?
 <br><br>
 
 <font size="5em">2) Affinity Diagram</font>
 <br>
 
-랄라  
+affinity diagram을 통해 다음과 같이 4가지 키워드를 설정할 수 있었다.
+01. <span style="background-color:#EBEBEB">여행</span>과 관련짓기
+02. 금융 관리의 <span style="background-color:#EBEBEB">시각화</span>
+03. <span style="background-color:#EBEBEB">충동적인 지출</span> 허용
+04. 상황에 맞는 <span style="background-color:#EBEBEB">정보 제공</span>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/dm3.png">
+</p>  
 <br><br>
 
 <font size="5em">3) Concept Sketch</font>
 <br>
 
-랄라  
+affinity diagram에서 나온 키워드를 바탕으로 22개의 앱 컨셉 스케치를 진행하였다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/dm4.png">
+</p>
 <br><br><br><br><br><br>
 
 <font size="6em">UI Design</font>
@@ -209,13 +230,21 @@ survey 결과를 바탕으로 한 정보와 purchase history에서 얻어진 영
 <font size="5em">1) Sitemap</font>
 <br>
 
-랄라  
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui1.png">
+</p>
 <br><br>
 
 <font size="5em">2) Wire Framing</font>
 <br>
 
-랄라  
+스케치한 키 스크린을 바탕으로 low-fi 프로토타입을 InVision을 사용하여 만들었다.
+thinking aloud 및 휴리스틱 평가와 같은 사용성 테스트로 InVision 프로토타입을 평가했다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/money_planet/ui2.jpg">
+</p>  
 <br><br>
 
 <font size="5em">3) 1st Iteration</font>

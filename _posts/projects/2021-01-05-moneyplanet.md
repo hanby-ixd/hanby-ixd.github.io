@@ -39,7 +39,14 @@ images:
 <font size="6em">Backgorund</font>
 <br>
 
-프로젝트의 시작은 개인과 가족의 돈 관리에 대해 흥미로운 방식으로 접근한 'Money Talks: Tracking Personal Finances' 논문으로부터 영감을 얻어 시작되었다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.
+Design Question: "<span style="background-color:#EBEBEB">대학생들</span>이 <span style="background-color:#EBEBEB">스트레스 없이</span> <span style="background-color:#EBEBEB">자금을 관리</span>하기 위해서는 어떤 도움이 필요할까?"  
+<br>
+
+프로젝트의 시작은 개인과 가족의 돈 관리에 대해 흥미로운 방식으로 접근한 'Money Talks: Tracking Personal Finances' 논문으로부터 영감을 얻어 시작되었다<sup id="R01">[<span style="color:gray">1</span>](#reference_1)</sup>.  
+<br>
+대학원 생활 중 주변 동료들의 돈에 대한 스트레스를 목격하고, 관련 문헌을 조사한 결과, 실제로 대다수의 대학(원)생들이 <span style="background-color:#EBEBEB">돈</span>에 대해 <span style="background-color:#EBEBEB">심한 감정 소비</span>를 하고 있는 것을 알 수 있었다.
+대학생들의 자금 관련 스트레스는 <span style="background-color:#EBEBEB">학업 성취도 감소</span>, <span style="background-color:#EBEBEB">수강 학점 감소</span>, <span style="background-color:#EBEBEB">자퇴</span> 및 <span style="background-color:#EBEBEB">늦어지는 졸업</span>과 같은 대학생들에게 부정적인 영향을 미치는 주요 요인 중 하나이다.
+<br><br><br><br><br><br>
 
 <font size="6em">Video Link</font>
 <br>
@@ -50,3 +57,10 @@ images:
   </a>
 </p>  
 <br><br><br><br><br><br>
+
+---  
+**References**  
+
+<a name="reference_1"><font size="2em" color="gray">1.</font></a> [<font size="2em"><u>Money Talks: Tracking Personal Finances</u></font>](https://dl.acm.org/doi/abs/10.1145/2556288.2556975) <font size="2em">(2014) by Joseph Jofish Kaye, Mary McCuistion, Rebecca Gulotta and David A. Shamma in ACM CHI</font> [↩](#R01)  
+
+<br><br><br>

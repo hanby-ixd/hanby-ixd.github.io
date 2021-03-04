@@ -95,7 +95,7 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 <br>
 
 <span style="background-color:#EBEBEB">설문지 평가</span>로 진행되었으며, <span style="background-color:#EBEBEB">일원 반복측정 분산분석(one-way RM ANOVA)</span>을 위해 <span style="background-color:#EBEBEB"> 집단내 설계(within design)</span>하였다.
-01. <span style="background-color:#EBEBEB">촉각</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">네 가지</span> 촉각을 모두 경험한다. (무작위 순서)  
+01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>와 각 서비스 내에서 <span style="background-color:#EBEBEB">로봇의 기능</span> (1-1 ~ 3-3)을 모두 평가한다. (무작위 순서)  
 
 피실험자: 36명 (25세~42세, 여성 24명, 남성 12명)
 <br><br>

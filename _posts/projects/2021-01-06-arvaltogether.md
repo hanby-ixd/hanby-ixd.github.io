@@ -72,7 +72,13 @@ Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style=
 </p>  
 <br><br><br><br><br><br>
 
-<font size="6em">Analysis</font>
+<font size="6em">Data Modeling</font>
+<br>
+
+<font size="5em">1) Affinity Diagram & Personas</font>
+<br>
+사용자 조사 과정을 통해 다양한 인사이트를 도출할 수 있었고, <span style="background-color:#EBEBEB">어피니티 다이어그램</span>을 활용해 주요한 <span style="background-color:#EBEBEB">키워드</span>를 발견할 수 있었다.
+키워드의 주요한 정도에 따라 primary, secondary, supplemental <span style="background-color:#EBEBEB">페르소나</span>를 설계하였다.  
 <br>
 
 <p align="center">

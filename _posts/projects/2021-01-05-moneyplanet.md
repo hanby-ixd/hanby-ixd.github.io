@@ -175,7 +175,7 @@ survey 결과를 바탕으로 한 정보와 purchase history에서 얻어진 영
 <font size="5em">1) Persona</font>
 <br>
 
-사용자 연구를 통해 수집한 데이터를 바탕으로 primary, secondary, supplemental persona를 설계하였다.  
+사용자 조사를 통해 수집한 데이터를 바탕으로 primary, secondary, supplemental 페르소나를 설계하였다.  
 <br>
 
 <p align="center">

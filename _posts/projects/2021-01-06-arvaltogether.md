@@ -47,10 +47,37 @@ Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style=
 <br>
 
 본 프로젝트는 [<u>BNP PARIBIAS GROUP</u>](BNP PARIBIAS GROUP)의 장기 렌트 서비스를 제공하는 자회사 [<u>Arval</u>](https://www.arval.com)을 위해 [<u>Enhancers</u>](https://enhancers.it)와 함께 수행한 프로젝트이다.
-고객 요구 분석 및 문헌조사를 통해 다음과 같은 세 가지 도전 과제 및 기회를 발견할 수 있었다.  
-01. 도시에 거주하는 사람들에게 차량을 구매/소유하는 개념이 비효율적으로 인식되고 있다.
-02. 모든 것들이 연결되고 있는 시대에서 사용자들은 언제 어디서든 서비스를 사용할 수 있길 기대한다.
-03. 커넥티드 카 기술의 발전으로 인해, 운전자, 자동차, 서비스 업체, 판매자 간 제약 없는 소통이 가능해졌다.  
+고객 요구 분석 및 문헌조사를 통해 다음과 같은 세 가지 <span style="background-color:#EBEBEB">도전 과제</span> 및 <span style="background-color:#EBEBEB">기회</span>를 발견할 수 있었다.  
+01. <span style="background-color:#EBEBEB">도시</span>에 거주하는 사람들에게 차량을 <span style="background-color:#EBEBEB">구매/소유</span>하는 개념이 <span style="background-color:#EBEBEB">비효율적</span>으로 인식되고 있다.
+02. 모든 것들이 연결되고 있는 시대에서 사용자들은 <span style="background-color:#EBEBEB">언제 어디서든</span> 서비스를 사용할 수 있길 기대한다.
+03. 커넥티드 카 기술의 발전으로 인해, 운전자, 자동차, 서비스 업체, 판매자 간 <span style="background-color:#EBEBEB">제약 없는 소통</span>이 가능해졌다.  
+<br><br><br><br><br><br>
+
+<font size="6em">Userstudy</font>
+<br>
+
+경쟁사 및 트렌드 리포트 등 데스크 리서치를 통해 장기 렌트 산업의 <span style="background-color:#EBEBEB">as-is</span>와 <span style="background-color:#EBEBEB">to-be</span>를 이해할 수 있었다.  
+<br>
+이러한 이해를 바탕으로 <span style="background-color:#EBEBEB">리서치 프레임</span>을 아래와 같이 설정하였다.  
+01. 매끄럽고 안전한 <span style="background-color:#EBEBEB">차량 관리</span>
+02. 새로운 <span style="background-color:#EBEBEB">차량 소유</span>의 개념
+03. 차량 딜러와 운전자의 <span style="background-color:#EBEBEB">지속 가능한 관계</span>  
+<br>
+
+위 주요 기회 영역을 바탕으로 다음과 같이 <span style="background-color:#EBEBEB">운전 전, 중, 후</span>의 운전자 중심 <span style="background-color:#EBEBEB">시나리오</span>를 설계하여 필드 스터디의 질문을 설계하였다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/us.png">
+</p>  
+<br><br><br><br><br><br>
+
+<font size="6em">Analysis</font>
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/analysis.png">
+</p>  
 <br><br><br><br><br><br>
 
 <font size="6em">Prototype</font>

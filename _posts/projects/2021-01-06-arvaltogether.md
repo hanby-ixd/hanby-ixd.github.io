@@ -82,6 +82,11 @@ Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style=
 <br>
 
 <p align="center">
+  <img src="/assets/images/projects/arval_together/analysis0.png">
+</p>  
+<br>
+
+<p align="center">
   <img src="/assets/images/projects/arval_together/analysis.png">
 </p>  
 <br><br><br><br><br><br>

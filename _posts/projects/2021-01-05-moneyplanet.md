@@ -36,6 +36,13 @@ images:
 </p>
 <br><br>
 
+<font size="6em">Overview</font>
+<br>
+
+Money Planet은 <span style="background-color:#EBEBEB">대학(원)생</span>들이 <span style="background-color:#EBEBEB">스트레스</span>를 덜 받으며 돈을 관리할 수 있도록 <span style="background-color:#EBEBEB">세계 지도</span>를 매개로 자산을 시각화 한 새로운 개념의 <span style="background-color:#EBEBEB">자금 관리 서비스</span>입니다.
+통장을 스쳐 지나가는 스트레스 유발 숫자들 보다, 많이 모을수록 더 많은 여행지로 떠날 수 있는 기회를 보여줌으로써 학생들이 꾸준히 돈을 관리할 수 있도록 <span style="background-color:#EBEBEB">동기부여</span>합니다.
+<br><br><br><br><br><br>
+
 <font size="6em">Backgorund</font>
 <br>
 

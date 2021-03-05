@@ -29,6 +29,19 @@ images:
 ---
 ---
 <br>
+<p align="center">
+  <img src="/assets/images/projects/arval_together/intro.jpg">
+  <br>
+  <font size="2em" color="gray">BNP PARIBAS GROUP이 Enhancers에 Arval 서비스 디자인을 요청하였으며, Enhancers는 저희 팀에 초기 디자인 방향을 의뢰하였습니다.</font>
+</p>
+<br><br>
+
+<font size="6em">Overview</font>
+<br>
+
+Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style="background-color:#EBEBEB">소유/경험</span>할 수 있는 새로운 개념의 <span style="background-color:#EBEBEB">장기렌트 서비스</span>입니다.
+나아가, on-board diagnostics(OBD) 센싱 및 판매부터 유지보수까지 언제 어디서나 모바일 앱으로 실시간 서비스를 제공받을 수 있습니다.
+<br><br><br><br><br><br>
 
 <font size="6em">Prototype</font>
 <br>

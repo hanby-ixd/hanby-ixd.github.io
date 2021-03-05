@@ -131,10 +131,57 @@ UI 설계를 위해 디자인 워크숍 '<span style="background-color:#EBEBEB">
 </p>  
 <br><br>
 
+<font size="5em">2) Wire Framing</font>
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/wire.png">
+</p>  
+<br><br><br><br><br><br>
+
+<font size="6em">Design Solution</font>
+<br>
+
+<font size="5em">1) Lifestyle Lab</font>
+<br>
+
+사용자가 차량 구매를 결정했을 때, 수많은 선택 옵션을 결정하기가 쉽지 않다.
+이를 위해, 우리에게 친숙한 <span style="background-color:#EBEBEB">라이프스타일 키워드</span>를 차량 전무가 또는 운전자 커뮤니티가 제공하여 나와 맞는 라이프스타일을 선택하고, 그 안에서 신중하게 <span style="background-color:#EBEBEB">큐레이션</span> 된 자동차 리스트를 살펴볼 수 있다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/life.png">
+</p>  
+<br><br>
+
+<font size="5em">2) Care Service</font>
+<br>
+
+사용자가 Arval Together에서 장기 렌터를 시작하면 웰컴 패키지와 함께 <span style="background-color:#EBEBEB">자가 진단 장치(OBD 센서)</span>가 제공된다.
+OBD 센서를 통해 자신의 차량의 현재 상태를 확인할 수 있다.
+또한 <span style="background-color:#EBEBEB">전담 자동차 딜러</span>와 <span style="background-color:#EBEBEB">타사 자동차 관리 서비스</span>가 실시간으로 차량을 관리한다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/obd.png">
+</p>  
+<br><br>
+
+<font size="5em">3) Car Share</font>
+<br>
+
+필요에 따라 사용자는 '폐쇄적/신뢰할 수 있는 커뮤니티'의 회원들과 차량을 <span style="background-color:#EBEBEB">공유</span>하거나 <span style="background-color:#EBEBEB">대여</span>가 가능하며 다양한 차량을 경험할 수 있다.
+두 대 이상의 차량을 소유하고 있는 사업체의 운영진은 본 플랫폼을 통해 효율적으로 직원들의 차량을 관리 할 수 있다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/rental.png">
+</p>  
 <br><br><br><br><br><br>
 
 <font size="6em">Prototype</font>
 <br>
+
 <p align="center">
   <iframe src="https://marvelapp.com/prototype/6gj668d?emb=1&iosapp=false&frameless=false" height="600" allowTransparency="true" frameborder="0"></iframe>
 </p>
@@ -142,7 +189,17 @@ UI 설계를 위해 디자인 워크숍 '<span style="background-color:#EBEBEB">
 
 <font size="6em">Product Design</font>
 <br>
-Arval Together 사용자를 위해 OBD 허브가 포함되어 있는 <span style="background-color:#EBEBEB">웰컴 패키지</span>를 제작하였다.
+Arval Together 사용자를 위해 OBD 허브가 포함되어 있는 <span style="background-color:#EBEBEB">웰컴 패키지</span>를 제작하였다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/product1.png">
+</p>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/product2.png">
+</p>  
 <br><br><br><br><br><br>
 
 <font size="6em">Video Link</font>

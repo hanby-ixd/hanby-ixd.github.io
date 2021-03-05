@@ -32,7 +32,7 @@ images:
 <p align="center">
   <img src="/assets/images/projects/arval_together/intro.jpg">
   <br>
-  <font size="2em" color="gray">BNP PARIBAS GROUP이 Enhancers에 Arval 서비스 디자인을 요청하였으며, Enhancers는 저희 팀에 초기 디자인 방향을 의뢰하였다.</font>
+  <font size="2em" color="gray">BNP PARIBAS GROUP이 Enhancers에 Arval 서비스 디자인을 요청하였으며, Enhancers는 초기 디자인 방향을 의뢰하였다.</font>
 </p>
 <br><br>
 

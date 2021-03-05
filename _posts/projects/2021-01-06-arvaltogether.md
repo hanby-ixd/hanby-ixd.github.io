@@ -14,7 +14,7 @@ project:
   duration: "2018.04 ~ 06 (3개월)"
   ptype: "Integrated Design Project III 수업 프로젝트"
   typedetail: "Enhancers (Italian UX agency) / UNIST 창의디자인공학과"
-  role: "프로젝트 기획, 사용자 조사, 데이터 분석, UX 디자인, 프로토타이핑"
+  role: "프로젝트 기획, 사용자 조사, 데이터 분석, UI 디자인, 프로토타이핑"
   supporter1: "Wondo Jeong (Fjord Singapore): 프로젝트 관리, 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
   supporter2: "Sangjin Park (Sangjin): 프로젝트 기획, 사용자 조사, 데이터 분석, 제품 디자인"
   supporter3: "Kyungjin Kim (LG Electronics): 프로젝트 기획, 사용자 조사, 데이터 모델링, 패키지 디자인"
@@ -68,7 +68,16 @@ Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style=
 <br>
 
 <p align="center">
-  <img src="/assets/images/projects/arval_together/us.png">
+  <img src="/assets/images/projects/arval_together/us0.png">
+</p>  
+<br><br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/us1.png">
+</p>  
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/us2.png">
 </p>  
 <br><br><br><br><br><br>
 
@@ -87,8 +96,41 @@ Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style=
 <br>
 
 <p align="center">
-  <img src="/assets/images/projects/arval_together/analysis.png">
+  <img src="/assets/images/projects/arval_together/analysis1.png">
 </p>  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/analysis2.png">
+</p>  
+<br><br>
+
+<font size="5em">2) Crazy 8's</font>
+<br>
+
+UI 설계를 위해 디자인 워크숍 '<span style="background-color:#EBEBEB">crazy 8s</span>'을 진행하였다.  
+제한된 시간 동안 가능한 한 빨리, 많은 아이디어를 스케치하고 토론하는 활동으로써, <span style="background-color:#EBEBEB">2시간</span> 동안 <span style="background-color:#EBEBEB">20개의 아이디어</span>로부터 <span style="background-color:#EBEBEB">200개 이상의 컨셉 스케치</span>를 만들어 낼 수 있었다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/crazy.png">
+</p>  
+<br><br><br><br><br><br>
+
+<font size="6em">UI Design</font>
+<br>
+
+<font size="5em">1) Sitemap</font>
+<br>
+
+워크숍을 통해 <span style="background-color:#EBEBEB">discover</span>, <span style="background-color:#EBEBEB">care</span>, <span style="background-color:#EBEBEB">monitoring</span>, <span style="background-color:#EBEBEB">social</span>, <span style="background-color:#EBEBEB">my car</span>와 같이 5 개의 주요 서비스를 구성하였고, 이를 기반으로 사이트맵을 설계하였다.  
+<br>
+
+<p align="center">
+  <img src="/assets/images/projects/arval_together/sitemap.png">
+</p>  
+<br><br>
+
 <br><br><br><br><br><br>
 
 <font size="6em">Prototype</font>
@@ -96,6 +138,11 @@ Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style=
 <p align="center">
   <iframe src="https://marvelapp.com/prototype/6gj668d?emb=1&iosapp=false&frameless=false" height="600" allowTransparency="true" frameborder="0"></iframe>
 </p>
+<br><br><br><br><br><br>
+
+<font size="6em">Product Design</font>
+<br>
+Arval Together 사용자를 위해 OBD 허브가 포함되어 있는 <span style="background-color:#EBEBEB">웰컴 패키지</span>를 제작하였다.
 <br><br><br><br><br><br>
 
 <font size="6em">Video Link</font>

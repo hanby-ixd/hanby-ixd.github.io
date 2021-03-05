@@ -32,15 +32,25 @@ images:
 <p align="center">
   <img src="/assets/images/projects/arval_together/intro.jpg">
   <br>
-  <font size="2em" color="gray">BNP PARIBAS GROUP이 Enhancers에 Arval 서비스 디자인을 요청하였으며, Enhancers는 저희 팀에 초기 디자인 방향을 의뢰하였습니다.</font>
+  <font size="2em" color="gray">BNP PARIBAS GROUP이 Enhancers에 Arval 서비스 디자인을 요청하였으며, Enhancers는 저희 팀에 초기 디자인 방향을 의뢰하였다.</font>
 </p>
 <br><br>
 
 <font size="6em">Overview</font>
 <br>
 
-Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style="background-color:#EBEBEB">소유/경험</span>할 수 있는 새로운 개념의 <span style="background-color:#EBEBEB">장기렌트 서비스</span>입니다.
-나아가, on-board diagnostics(OBD) 센싱 및 판매부터 유지보수까지 언제 어디서나 모바일 앱으로 실시간 서비스를 제공받을 수 있습니다.
+Arval Together는 라이프 스타일에 맞춰 다양한 차량을 <span style="background-color:#EBEBEB">소유/경험</span>할 수 있는 새로운 개념의 <span style="background-color:#EBEBEB">장기 렌트 서비스</span>다.
+나아가, on-board diagnostics(OBD) 센싱 및 판매부터 유지 보수까지 언제 어디서나 모바일 앱으로 실시간 서비스를 제공받을 수 있다.  
+<br><br><br><br><br><br>
+
+<font size="6em">Background</font>
+<br>
+
+본 프로젝트는 [<u>BNP PARIBIAS GROUP</u>](BNP PARIBIAS GROUP)의 장기 렌트 서비스를 제공하는 자회사 [<u>Arval</u>](https://www.arval.com)을 위해 [<u>Enhancers</u>](https://enhancers.it)와 함께 수행한 프로젝트이다.
+고객 요구 분석 및 문헌조사를 통해 다음과 같은 세 가지 도전 과제 및 기회를 발견할 수 있었다.  
+01. 도시에 거주하는 사람들에게 차량을 구매/소유하는 개념이 비효율적으로 인식되고 있다.
+02. 모든 것들이 연결되고 있는 시대에서 사용자들은 언제 어디서든 서비스를 사용할 수 있길 기대한다.
+03. 커넥티드 카 기술의 발전으로 인해, 운전자, 자동차, 서비스 업체, 판매자 간 제약 없는 소통이 가능해졌다.  
 <br><br><br><br><br><br>
 
 <font size="6em">Prototype</font>

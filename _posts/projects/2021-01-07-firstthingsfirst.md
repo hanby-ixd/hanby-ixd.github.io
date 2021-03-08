@@ -176,7 +176,7 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 <br>
 <span style="background-color:#EBEBEB">서비스 유형</span>에 따라 <span style="background-color:#EBEBEB">서비스 평가</span>에 유의한 영향이 있었다. <font size="2em">(<i>F</i><sub>(2,107)</sub> = 3.391, <i>p</i> = 0.037)</font>.
 
-01. 세 서비스 중 <span style="background-color:#EBEBEB">세탁</span> <font size="2em">(<i>M</i> = 6.60, <i>SD</i> = 0.74)</font>은 청소 <font size="2em">(<i>M</i> = 6.50, <i>SD</i> = 0.88)</font>와 요리  >M</i> = 6.06, <i>SD</i> = 1.13)</font>에 비해 <span style="background-color:#EBEBEB">가장 긍정적인 서비스</span>로 평가되었다.
+01. 세 서비스 중 <span style="background-color:#EBEBEB">세탁</span> <font size="2em">(<i>M</i> = 6.60, <i>SD</i> = 0.74)</font>은 청소 <font size="2em">(<i>M</i> = 6.50, <i>SD</i> = 0.88)</font>와 요리<font size="2em">(<i>M</i> = 6.06, <i>SD</i> = 1.13)</font>에 비해 <span style="background-color:#EBEBEB">가장 긍정적인 서비스</span>로 평가되었다.
 02. Tukey HSD 사후 검정은 <span style="background-color:#EBEBEB">세탁과 요리</span><font size="2em">(<i>p</i> = 0.042)</font> 간에 <span style="background-color:#EBEBEB">유의한 차이</span>를 보였지만 청소와 세탁<font size="2em">(<i>p</i> = 0.888)</font>, 청소와 요리<font size="2em">(<i>p</i> = 0.121)</font> 간에는 차이가 없었다.
 <br><br>
 

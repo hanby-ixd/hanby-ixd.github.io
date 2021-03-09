@@ -156,7 +156,7 @@ Bugmann과 Copleston의 연구에 따르면, 사람들이 로봇에게 맡기고
 <br>
 
 <span style="background-color:#EBEBEB">설문지 평가</span>로 진행되었으며, <span style="background-color:#EBEBEB">집단내 설계(within design)</span>하였다.
-01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design(random-effect) - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>를 모두 평가한다. (무작위 순서)  
+01. <span style="background-color:#EBEBEB">로봇이 제공하는 서비스</span>: within design - 피실험자는 로봇이 제공하는 청소, 세탁, 요리 등 <span style="background-color:#EBEBEB">3가지 서비스</span>를 모두 평가한다. (무작위 순서)  
 
 피실험자: 36명 (25세~42세, 여성 24명, 남성 12명)
 <br><br>

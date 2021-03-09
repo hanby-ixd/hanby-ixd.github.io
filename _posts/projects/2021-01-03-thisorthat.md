@@ -184,9 +184,9 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <br>
 
 <span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">혼합 설계(mixed design)</span>하였다.
-01. <span style="background-color:#EBEBEB">언어 유형</span>: within design(random-effect) - 피실험자는 <span style="background-color:#EBEBEB">두 가지</span> 언어 유형을 모두 경험한다. (무작위 순서)
-02. <span style="background-color:#EBEBEB">코 포인팅</span>: within design(random-effect) - 피실험자는 <span style="background-color:#EBEBEB">두 가지</span> 코 포인팅을 모두 경험한다. (무작위 순서)
-03. <span style="background-color:#EBEBEB">시선</span>: between design(fixed-effect) - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 시선을 경험한다.  
+01. <span style="background-color:#EBEBEB">언어 유형</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">두 가지</span> 언어 유형을 모두 경험한다. (무작위 순서)
+02. <span style="background-color:#EBEBEB">코 포인팅</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">두 가지</span> 코 포인팅을 모두 경험한다. (무작위 순서)
+03. <span style="background-color:#EBEBEB">시선</span>: between design - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 시선을 경험한다.  
 
 피실험자: 48명 (23세~37세, 여성 26명, 남성 22명)
 

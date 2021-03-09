@@ -139,7 +139,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 02. <span style="background-color:#EBEBEB">촉각 ([재질]soft-hard축)</span>:
   - a. 천(soft)
-  - b. 플라스틱(hard)  
+  - b. 플라스틱(hard)
 <br>  
 03. <span style="background-color:#EBEBEB">촉각 ([마감]smooth-rough축)</span>:
   - a. 부드러움(smooth)

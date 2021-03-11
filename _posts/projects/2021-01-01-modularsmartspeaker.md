@@ -139,7 +139,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 02. <span style="background-color:#EBEBEB">촉각 ([재질]soft-hard축)</span>:
   - a. 천(soft)
-  - b. 플라스틱(hard)
+  - b. 플라스틱(hard)  
 <br>  
 03. <span style="background-color:#EBEBEB">촉각 ([마감]smooth-rough축)</span>:
   - a. 부드러움(smooth)
@@ -191,8 +191,8 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 
 <span style="background-color:#EBEBEB">연구실 조사(in-lab study)</span>로 진행되었으며, <span style="background-color:#EBEBEB">혼합 설계(mixed design)</span>하였다.
-01. <span style="background-color:#EBEBEB">발화(VC)</span>: between design(fixed-effect) - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 발화만 경험한다.
-02. <span style="background-color:#EBEBEB">촉각</span>: within design(random-effect) - 피실험자는 <span style="background-color:#EBEBEB">네 가지</span> 촉각을 모두 경험한다. (무작위 순서)
+01. <span style="background-color:#EBEBEB">발화(VC)</span>: between design - 피실험자는 <span style="background-color:#EBEBEB">한 가지</span> 발화만 경험한다.
+02. <span style="background-color:#EBEBEB">촉각</span>: within design - 피실험자는 <span style="background-color:#EBEBEB">네 가지</span> 촉각을 모두 경험한다. (무작위 순서)
 
 
 피실험자: 48명 (23세~39세, 여성 23명, 남성 25명)

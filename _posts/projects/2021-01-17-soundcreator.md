@@ -14,7 +14,7 @@ project:
   duration: "2017.04 (1개월)"
   ptype: "Engineering Technologies for Designers 수업 프로젝트"
   typedetail: "UNIST 창의디자인공학과"
-  role: "프로젝트 기획, 인터랙션 디자인, 하드웨어 설계, 소프트웨어 개발"
+  role: "프로젝트 기획, 인터랙션 디자인, 하드웨어 설계, 소프트웨어 개발 (기여도 50%)"
   supporter1: "Sangjin Park (Sangjin): 프로젝트 기획, 하드웨어 설계"
   supporter2: "Eunjun Cho: 프로젝트 기획, 제품 디자인"
   tools: "SolidWorks, Arduino, Leap Motion, GarageBand"

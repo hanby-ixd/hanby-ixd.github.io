@@ -14,7 +14,7 @@ project:
   duration: "2017.09 (1개월)"
   ptype: "Human-Computer Interaction 프로젝트"
   typedetail: "UNIST 창의디자인공학과"
-  role: "프로젝트 기획, 그래픽 디자인, 하드웨어 설계, 소프트웨어 개발"
+  role: "프로젝트 기획, 그래픽 디자인, 하드웨어 설계, 소프트웨어 개발 (기여도 100%)"
   supporter1: "Prof. Hwajung Hong (SNU): 프로젝트 지도"
   tools: "Arduino, Processing"
   output: "컨셉 프로토타입"

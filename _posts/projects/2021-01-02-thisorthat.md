@@ -14,7 +14,7 @@ project:
   duration: "2019.12 ~ 2020.02 (3개월)"
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
-  role: "프로젝트 기획, 제품 디자인, 인터랙션 디자인, 프로토타입 개발, 사용자 조사, 데이터 분석"
+  role: "프로젝트 기획, 제품 디자인, 인터랙션 디자인, 프로토타입 개발, 사용자 조사, 데이터 분석 (기여도 30%)"
   supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 문헌 조사, 인터랙션 디자인, 사용자 조사, 데이터 분석"
   supporter2: "Dr. Eun Ho Kim (KITECH): 프로젝트 기획, 인터랙션 디자인"
   supporter3: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"

@@ -14,7 +14,7 @@ project:
   duration: "2018.11 (1개월)"
   ptype: "Interaction Design 수업 프로젝트"
   typedetail: "UNIST 창의디자인공학과"
-  role: "프로젝트 기획, 문헌 조사, 인터랙션 디자인, 소프트웨어 개발, 하드웨어 설계"
+  role: "프로젝트 기획, 문헌 조사, 인터랙션 디자인, 소프트웨어 개발, 하드웨어 설계 (기여도 50%)"
   supporter1: "Kyung-Ryong Lee (UNIST): 프로젝트 기획, 문헌 조사, 인터랙션 디자인, 하드웨어 설계"
   supporter2: "Prof. Young-Woo Park (UNIST): 프로젝트 지도"
   tools: "Arduino, SolidWorks"

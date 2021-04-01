@@ -14,7 +14,7 @@ project:
   duration: "2020.10 ~ "
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
-  role: "프로젝트 기획, 인터랙션 디자인, 제품 디자인, 하드웨어 설계, 소프트웨어 개발, 기구 설계, 사용자 조사"
+  role: "프로젝트 기획, 인터랙션 디자인, 제품 디자인, 하드웨어 설계, 소프트웨어 개발, 기구 설계, 사용자 조사 (기여도 30%)"
   supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 인터랙션 디자인, 사용자 조사"
   supporter2: "Kimoon Kim (KIST): 프로젝트 기획, 로봇 네비게이션 개발"
   supporter3: "Dr. Sonya S. Kwak (KIST), Dr. Yoonseob Lim: 프로젝트 지도"

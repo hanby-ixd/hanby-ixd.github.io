@@ -14,7 +14,7 @@ project:
   duration: "2017.09 ~ 11 (3개월)"
   ptype: "Human-Centered Design 수업 프로젝트"
   typedetail: "Prof. Hwajung Hong (SNU) / UNIST 창의디자인공학과"
-  role: "프로젝트 기획, 사용자 조사, 데이터 분석, UI 디자인, 프로토타이핑"
+  role: "프로젝트 기획, 사용자 조사, 데이터 분석, UI 디자인, 프로토타이핑 (기여도 25%)"
   supporter1: "Wondo Jeong (Fjord Singapore): 프로젝트 관리, 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"
   supporter2: "Youngchul Chung: 프로젝트 기획, 사용자 조사, 데이터 분석, 모션 디자인, 프로토타이핑"
   supporter3: "Wonyoung Park (KAIST): 프로젝트 기획, 사용자 조사, 데이터 모델링, UI 디자인, 프로토타이핑"

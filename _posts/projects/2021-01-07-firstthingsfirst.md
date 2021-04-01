@@ -14,7 +14,7 @@ project:
   duration: "2019.09 (1개월)"
   ptype: "Human-Robot Interaction 연구 프로젝트"
   typedetail: "KIST AIㆍ로봇연구소 지능로봇연구단"
-  role: "프로젝트 기획, 시나리오 디자인, 사용자 조사"
+  role: "프로젝트 기획, 시나리오 디자인, 사용자 조사 (기여도 30%)"
   supporter1: "Dr. Dahyun Kang (KIST): 프로젝트 기획, 시나리오 디자인, 사용자 조사, 데이터 분석"
   supporter2: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"
   tools: "Google Forms"

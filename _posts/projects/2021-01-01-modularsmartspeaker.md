@@ -18,7 +18,7 @@ project:
   supporter1: "Dr. Dahyun Kang (KIST): 문헌 조사, 프로젝트 지도"
   supporter2: "Dr. Sonya S. Kwak (KIST): 프로젝트 지도"
   tools: "SolidWorks, Arduino, Clova Dubbing"
-  output: "제품 프로토타입"
+  output: "제품 프로토타입, (논문 준비중)"
 
 images:
   - image:

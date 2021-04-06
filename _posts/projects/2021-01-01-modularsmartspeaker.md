@@ -287,7 +287,8 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 01. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커가 천(soft) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.01, <i>SD</i> = 1.03 vs. <i>M</i><sub>hard</sub> = 5.24, <i>SD</i> = 0.90, <i>t</i> = 2.302, df = 47, <i>p</i> = 0.026)</font>
 02. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.33, <i>SD</i> = 0.99 vs. <i>M</i><sub>hard</sub> = 4.94, <i>SD</i> = 1.06, <i>t</i> = 2.548, df = 47, <i>p</i> = 0.014)</font>
 03. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">사교적</span>이라고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 4.51, <i>SD</i> = 1.30 vs. <i>M</i><sub>hard</sub> = 3.53, <i>SD</i> = 1.08, <i>t</i> = 4.232, df = 47, <i>p</i> = 0.000)</font>
-04. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가</span> 좋다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.24, <i>SD</i> = 1.07 vs. <i>M</i><sub>hard</sub> = 4.58, <i>SD</i> = 1.15, <i>t</i> = 3.087, df = 47, <i>p</i> = 0.003)</font>
+04.  발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커가 천(soft) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가</span> 좋다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.10, <i>SD</i> = 1.01 vs. <i>M</i><sub>hard</sub> = 5.15, <i>SD</i> = 1.01, <i>t</i> = 0.368, df = 47, <i>p</i> = 0.715)</font>
+05. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커가 플라스틱(hard) 스마트 스피커보다 더 <span style="background-color:#EBEBEB">서비스가</span> 좋다고 인식했다. <font size="2em">(<i>M</i><sub>soft</sub> = 5.24, <i>SD</i> = 1.07 vs. <i>M</i><sub>hard</sub> = 4.58, <i>SD</i> = 1.15, <i>t</i> = 3.087, df = 47, <i>p</i> = 0.003)</font>
 <br>
 
 <br>
@@ -301,7 +302,7 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 피실험자의 모듈형 스피커에 대한 전반적인 인식을 정리하면 다음과 같다.
 01. 매끄러운(smooth) 표면보다 <span style="background-color:#EBEBEB">거친(rough)</span> 표면을 가진 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
 02. 플라스틱(hard)보다 <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">사교적</span>이고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
-03. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, 천(soft)보다 <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하다고 인식했다.
+03. 발화가 <span style="background-color:#EBEBEB">존댓말(assistant-like)</span>일 때, 천(soft)보다 <span style="background-color:#EBEBEB">플라스틱(hard)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
 04. 발화가 <span style="background-color:#EBEBEB">반말(companion-like)</span>일 때, 플라스틱(hard)보다 <span style="background-color:#EBEBEB">천(soft)</span> 스마트 스피커를 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">사교적</span>이며 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 인식했다.
 
 <br>
@@ -323,8 +324,8 @@ Design Question: "사람들의 <span style="background-color:#EBEBEB">선호</sp
 <br>
 
 스마트 스피커의 <span style="background-color:#EBEBEB">발화</span> 방식에 따라 스마트 스피커의 <span style="background-color:#EBEBEB">촉각</span> 설정이 달라질 수 있다.
-01. <span style="background-color:#EBEBEB">격식체</span>를 사용하는 스마트 스피커를 사용자가 더 <span style="background-color:#EBEBEB">유용</span>하게 느끼길 바랄 때, <span style="background-color:#EBEBEB">딱딱한</span> 소재를 적용할 수 있다.  
-02. <span style="background-color:#EBEBEB">비격식체</span>를 사용하는 스마트 스피커를 사용자가 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">사교적</span>이며 <span style="background-color:#EBEBEB">서비스가 좋게</span> 느끼길 바랄 때, <span style="background-color:#EBEBEB">유연한</span> 소재를 적용할 수 있다.  
+01. <span style="background-color:#EBEBEB">격식체</span>를 사용하는 스마트 스피커를 사용자가 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 느끼길 바랄 때, <span style="background-color:#EBEBEB">딱딱한</span> 소재를 적용할 수 있다.  
+02. <span style="background-color:#EBEBEB">비격식체</span>를 사용하는 스마트 스피커를 사용자가 더 <span style="background-color:#EBEBEB">유용</span>하고 <span style="background-color:#EBEBEB">사교적</span>이며 <span style="background-color:#EBEBEB">서비스가 좋다</span>고 느끼길 바랄 때, <span style="background-color:#EBEBEB">유연한</span> 소재를 적용할 수 있다.  
 
 또한, <span style="background-color:#EBEBEB">상황</span>에 따라 스마트 스피커의 <span style="background-color:#EBEBEB">촉각</span> 설정이 달라질 수 있다.
 01. <span style="background-color:#EBEBEB">거친</span> 마감: 유용한 <span style="background-color:#EBEBEB">정보</span>를 제공하는 상황에서 적용 가능

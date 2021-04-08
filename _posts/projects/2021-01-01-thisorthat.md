@@ -57,7 +57,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <p align="center">
   <img src="/assets/images/projects/this_or_that/bg1.png">
   <br>
-  <font size="2em" color="gray">사람은 다양한 시체 부위를 사용하여 포인팅 제스처를 취할 수 있다.</font>
+  <font size="2em" color="gray">직시어는 위치격 직시어와 서술적 직시어로 나뉠 수 있다.</font>
 </p>
 <br><br>
 
@@ -70,7 +70,7 @@ Design Question: "<span style="background-color:#EBEBEB">소셜 로봇</span>은
 <p align="center">
   <img src="/assets/images/projects/this_or_that/bg2.png">
   <br>
-  <font size="2em" color="gray">사람은 다양한 시체 부위를 사용하여 포인팅 제스처를 취할 수 있다.</font>
+  <font size="2em" color="gray">사람은 다양한 신체 부위를 사용하여 포인팅 제스처를 취할 수 있다.</font>
 </p>
 <br><br>
 

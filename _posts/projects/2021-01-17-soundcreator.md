@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: SW
+category: HCI
 
 meta:
   keywords: "HCI, Sound"
